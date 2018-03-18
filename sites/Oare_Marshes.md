@@ -80,6 +80,10 @@ that you mightn't spot from elsewhere.
 
 Return to the road for one last look before heading off.
 
+Click
+[here](https://drive.google.com/open?id=1JRC277-AUIex8gll2OEfC0fcMFF04kOc&usp=sharing)
+for the annotated map version of the above.
+
 ### Links
 
 Kent Ornithological Society maintains a yearly sightings blog for this
