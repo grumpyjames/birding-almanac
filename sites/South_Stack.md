@@ -51,7 +51,7 @@ likely be a confiding Stonechat or two.
 ## Eat / Drink / Stay
 
 Slim pickings here, I'm afraid. The visitor centre has OK cakes. Years
-ago it made proper chips (i.e with a deep far frier) and smelt
+ago it made proper chips (i.e with a deep fat frier) and smelt
 tremendous - those heady days are now over though. There's usually an
 ice cream van along the road, too.
 
@@ -63,6 +63,6 @@ Rhoscolyn, [here](http://www.white-eagle.co.uk/).
 
 In recent times, the RSPB has also acquired some further heathland to
 the south of South Stack (see
-[here](https://www.rspb.org.uk/globalassets/downloads/documents/reserves/south-stack-cliffs-trail-guide.pdf)
+[here](https://www.rspb.org.uk/globalassets/downloads/documents/reserves/south-stack-cliffs-trail-guide.pdf))
 for details. This might be worth a visit if you felt a bit crowded out
 at the reserve proper.
