@@ -68,10 +68,11 @@ Cetti's or two making an appearance.
 Headley should be a relatively quick stop, unless it's a freezing cold
 day, in which case you may find it's warmth rather trickier to
 leave. Scan the reedbed in front carefully; it could have Bittern or
-Water Rail hiding within it. I've seen Stock Dove and Green Woodpecker
-meandering around on the grassy bit that protrudes from the right side
-of the hide, so give that a strong examination as well. Once you get
-bored enough to start looking at gulls, it's probably time to move on.
+Water Rail hiding within it, or a Cetti's Warbler if Spring has
+sprung. I've seen Stock Dove and Green Woodpecker meandering around on
+the grassy bit that protrudes from the right side of the hide, so give
+that a strong examination as well. Once you get bored enough to start
+looking at gulls, it's probably time to move on.
 
 Take whatever route you like to the wild side hide. In spring/summer
 you should have a pleasant accompaniment of warbler background; in
@@ -86,8 +87,8 @@ be very much at all.
 
 In Spring/Summer, it offers the best view of the two grassy edges (and
 fencing) of the grazing marsh. Pipits (meadow, water, some occasional
-claims of more exciting varieties), wagtails (pied, grey and yellow)
-and chats (stone and whin) should be carefully looked for.
+claims of more exciting varieties), wagtails (pied, grey and yellow),
+chats (stone and whin) and Wheatear should be carefully looked for.
 
 Head back to the centre when you're finished; strongly consider
 whether you need coffee, a snack, or a use of the facilities; I
@@ -108,12 +109,12 @@ marsh; if there are interesting waders on the sight they'll almost
 certainly be found from the Tower.
 
 While you wait for something of interest to turn up, or one of the
-professionals to find a near-impossible Jack Snipe, two of the Tower's
-more fixed offerings may be on show. Have a good look at Charing Cross
-Hospital; a pair of Peregrines nest on it, and frequently end up
-sitting on the railings on the side visible from the reserve. In the
-warmer months, the Tower comes with Sand Martins - there's an obvious
-bank where they nest of the right hand side of the scrape.
+professionals to find a Jack Snipe, two of the Tower's more fixed
+offerings may be on show. Have a good look at Charing Cross Hospital;
+a pair of Peregrines nest on it, and frequently end up sitting on the
+railings on the side visible from the reserve. In the warmer months,
+the Tower comes with Sand Martins - there's an obvious bank where they
+nest of the right hand side of the scrape.
 
 In general, once I'm tired of the Tower I'm ready to go home - you
 might find on a super quiet day that all of the above has taken all of
@@ -124,7 +125,7 @@ entertained.
 
 ## Eat / Drink / Stay
 
-You're basically in London - the options are limitless
+You're in London - the options are limitless
 
 ## Nearby
 
