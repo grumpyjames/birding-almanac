@@ -45,15 +45,15 @@ most reliable place in the UK to see Bittern in the Winter. The site
 is small, well birded, well stocked (reports of up to five Bitterns on
 a single day) and well reported, so if there is a Bittern:
 
-  Someone will spot it
-  It'll usually be reported (Check [WWT London Twitter](https://twitter.com/wwtlondon?lang=en))
-  You should be able to get to where it's been seen before it disappears
+  * Someone will spot it
+  * It'll usually be reported (Check [WWT London Twitter](https://twitter.com/wwtlondon?lang=en))
+  * You should be able to get to where it's been seen before it disappears
 
 To maximise your chances of a decent view:
 
-  Time your visit to intersect with a cold, clear, dry, still day in winter
-  Keep an eye out for bittern news
-  Don't be ashamed of bailing half way across the reserve to get on it
+  * Time your visit to intersect with a cold, clear, dry, still day in winter
+  * Keep an eye out for bittern news
+  * Don't be ashamed of bailing half way across the reserve to get on it
 
 #### Enough Bittern
 
