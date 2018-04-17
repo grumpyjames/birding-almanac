@@ -123,6 +123,9 @@ taking the long way back via the rear of the sheltered lagoon, it's a
 pleasant walk, and often has plenty of littlies to keep one
 entertained.
 
+A map version of the how to is available
+[here](https://drive.google.com/open?id=1hea4aGqt_3IZi8UkvRKxQV5i4JbYw_q_&usp=sharing)
+
 ## Eat / Drink / Stay
 
 You're in London - the options are limitless
