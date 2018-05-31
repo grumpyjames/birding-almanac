@@ -1,7 +1,9 @@
 mkdir -p out/sites
 for file in `ls sites/*.md`; do
     outfile="${file%.*}"
-    pandoc -f markdown -t html $file > out/$outfile.html
+    cp site-header.html out/$outfile.html
+    pandoc -f markdown -t html $file >> out/$outfile.html
+    cat site-footer.html >> out/$outfile.html
 done
 
 cp index-header.html out/index.html
