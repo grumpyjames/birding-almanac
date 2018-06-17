@@ -6,9 +6,9 @@ birds.
 ### Getting there
 
 You will need to take a boat from Seahouses. Getting to Seahouses is
-best done by car; there are rumours of buses. Go in late May-June for
-the best views of Puffins with beaks full of sand-eels, and for the
-full on terns-pecking-at-your-head experiences.
+best done by car; there are only rumours of buses. Go in late May-June
+for the best views of Puffins with beaks full of sand-eels, and for
+the full on terns-pecking-at-your-head experiences.
 
 Boats will allow you to land on only two of the islands as part of
 normal operation: Staple Island and Inner Farne. The amount of swell
@@ -49,8 +49,12 @@ Island has no such amenities, and very little cover.
 
 [Billy Shiel's boat trips](http://www.farne-islands.com/) - the
 original boat tour people. They have excellent chat, and will happily
-hunt around for a cetacean or two if they're about.
+hunt around for a cetacean or two if they're about. 
+
 [Official National Trust Site](https://www.nationaltrust.org.uk/farne-islands)
+
+Nearby [Beadnell Bay](sites/Beadnell_Bay.html) is worth a trip around
+the same time of year, for Little Tern.
 
 ### Eat / Drink / Stay
 
