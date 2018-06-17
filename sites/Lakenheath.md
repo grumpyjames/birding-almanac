@@ -21,17 +21,17 @@ be ever present, but are likely more numerous in breeding season.
 Pause for a moment in the car park - can you hear a cuckoo? Stop in at
 the visitor centre to check for any news - the folks in there are
 enthusiastic and know the reserve well (they will, for example, know
-whether there are Cranes on site, and where to find them); this section
+whether there are cranes on site, and where to find them); this section
 is loosely based on their advice.
 
 Head into the reserve by following the tracks that heed closely to the
 path of the railway. Reedbeds will, in season, yield reed warbler,
-whitethroat...and unspeakable numbers of reed bunting. It's a good job
+whitethroat, and unspeakable numbers of reed bunting. It's a good job
 they're such delightful birds, or they'd quickly get tedious.
 
 Take a brief break at the new fen viewpoint; sit down gently, mind,
 there's a bit of give in the benches. The plantation at the back of
-the fen is likely hiding the cuckoos you can likely hear. Keep an eye
+the fen is likely hiding the cuckoos you can hear. Keep an eye
 on the trees - if there isn't a hobby over the reeds, there might be
 one entering or leaving a nest in them.
 
@@ -49,7 +49,7 @@ Continue now to the joist fen viewpoint. The sheer acreage of reedbed
 visible from here makes it the most likely place to see hobby from -
 it's no coincidence that this is where the counts of 50+ hobby are
 taken from. If you're struggling here and the weather is right; try
-looking up at the sky rather than across the reedbed - Hobbies will
+looking up at the sky rather than across the reedbed - hobbies will
 ride a thermal just like any other bird of prey.
 
 Stay at the viewpoint until you are completely relaxed, or the weather

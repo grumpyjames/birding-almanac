@@ -11,21 +11,21 @@ reliable way of getting there. One option I want to try is taking my
 bike on the train to Burnham-on-Crouch and then getting [the
 ferry](http://www.burnhamferry.co.uk/) across to the reserve - there
 are regular sailings from Easter 'til September, it _may_ be possible
-to arrange crossings on an adhoc basis outside that period.
+to arrange crossings on an ad hoc basis outside that period.
 
 ### How to do it
 
 Wallasea is quite an otherworldly place. If you drive here, a
 kilometre or two out from the car park, you might notice a change in
-the landscape, from standard farmland to flat, almost oppressive
-emptyness. The single track access road with its vicious ramps adds to
+the landscape, from standard farmland to flat oppressive
+emptiness. The single track access road with its vicious ramps adds to
 the feeling that this isn't a place that's ready for the mass market
 yet.
 
-...and you know what? That's absolutely fantastic. It gives the
-reserve a feeling of discovery that is missing on some of the more
-well visited locations - you're on your own; a vast open space full of
-bird life demands your attention.
+...and what an absolute tonic that is. It gives the reserve a feeling
+of discovery that is missing on some of the more well visited
+locations. You're on your own; a vast open space full of bird life
+demands your attention.
 
 In terms of exploring the site - there are three trails on the RSPB's
 official map; sadly two are one way - a tough ask for me (I greatly

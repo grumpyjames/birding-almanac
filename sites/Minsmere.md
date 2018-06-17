@@ -22,26 +22,26 @@ guide](https://www.rspb.org.uk/globalassets/downloads/documents/reserves/minsmer
 At this time, you can probably manage Minsmere's winter offering in
 half a day. I'd start with a circuit (anticlockwise) around the coast
 trail; a quick scan from the hides should be enough to establish if
-there's anything more exciting than Lapwings out there.
+there's anything more exciting than lapwings out there.
 
 The reedbed to the south west of the path is worth a listen for
-Bearded Reedling - I've seen them flying above there in October. The
+bearded reedling - I've seen them flying above there in October. The
 alder surrounding the path might offer some interest, too; a small
-flock of Siskin with some other small friends were on the way through
+flock of siskin with some other small friends were on the way through
 during my last visit.
 
-The beach has a possibility of yielding Snow Bunting (you'll need to
+The beach has a possibility of yielding snow bunting (you'll need to
 either be very thorough or lucky in my experience, though). A scope
-might yield some Scoters or Divers out to sea, too. The return along
-the North Wall should reliably produce Stonechat unless the weather is
+might yield some scoters or divers out to sea, too. The return along
+the North Wall should reliably produce stonechat unless the weather is
 particularly disgusting.
 
 Unless you've found something particularly diverting, an excursion to
-the Bittern and Island Mere hides (Water Rail and Bittern are strong
-possibilities, Marsh Harriers are basically guaranteed) should take
+the Bittern and Island Mere hides (water rail and bittern are strong
+possibilities, marsh harrier is basically guaranteed) should take
 you up until lunchtime.
 
-Oh - finally, if you're year listing, Marsh Tit is a semi-frequent
+Oh - finally, if you're year listing, marsh tit is a semi-frequent
 visitor to the feeders near the visitor centre.
 
 #### March to May
@@ -49,10 +49,10 @@ visitor to the feeders near the visitor centre.
 Now you might need a bit more time; a full day, or possibly two
 mornings. The sheer amount of birdsong is going to slow you down a
 great deal, and there is comparatively more to look out for; not least
-the Stone Curlews (caveat: never managed to see them, so can offer
-little advice), the returning Avocets (hard to miss, they'll be on the
+the stone curlews (caveat: never managed to see them, so can offer
+little advice), the returning avocets (hard to miss, they'll be on the
 scrapes), the warblers (everywhere) and the boom of the bittern
-(amusingly I've only seen Bittern from Island Mere).
+(amusingly I've only seen bittern from Island Mere).
 
 You'll probably want to spend half a day on the way round a
 combination of the Island Mere and Woodland trails, and the other half
@@ -63,9 +63,9 @@ a day traversing the coast trail. If you do use two mornings, see the
 
 This whole period just about fits in to the 'fall passage' period; in
 reality, the first half of June is probably too early for anything
-other than cute Avocet chicks, from there on, things might start to
-get a bit interesting; perhaps a Curlew Sandpiper or two might drop
-in, or a Yellow Browed Warbler. I've struggled to connect with such
+other than cute avocet chicks, from there on, things might start to
+get a bit interesting; perhaps a curlew sandpiper or two might drop
+in, or a yellow browed warbler. I've struggled to connect with such
 occurrences at Minsmere so I will keep my advice short: Minsmere is
 well birded, so check the usual places (and the weather) before
 heading up, or there may be only the usual pickings.
@@ -84,9 +84,9 @@ Dolphin](http://www.thorpenessdolphin.com/)) would be a nice way to
 spend the afternoon and may yield a tick or two.
 
 In particular, at Sizewell, the platforms out from the power station
-host Kittiwake in Spring and Summer, and you might find an interesting
+host kittiwake in Spring and Summer, and you might find an interesting
 gull or two feasting on the sewage outflow nearby. I've never managed
-to catch the fabled Black Redstarts there though.
+to catch the fabled black redstarts there though.
 
 Similarly, a trip North up to Dunwich from the other end of the beach
 would be lovely, and, similarly, has an excellent pub, [The
