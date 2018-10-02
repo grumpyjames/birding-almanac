@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Average Birder's Almanac</title>
+    <style>
+      body {
+        font-family: Georgia, Serif;
+        background-color: #cccccc;
+      }
+
+      h3.header {
+        margin: 0;
+      }
+
+      h5 {
+        margin-top: 5px; 
+      }
+
+      .cell h5 {
+        padding-left: 0.2em;
+      }
+
+      .cell p {
+        padding-left: 0.2em;
+      }
+
+      hr {
+        margin-top: 0rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 1px solid #fbf211;
+        box-shadow: 0 0 5px 0px black;
+      }
+
+      .content {
+        box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+        background-color: white;
+      }
+
+      #related {
+        border-left: 1px solid #fbf211;
+        box-shadow: -2px 4px 3px 2px rgba(100, 100, 100, 0.3);
+        padding: 1.5em;
+      }
+
+      #related h5 {
+        font-variant: all-small-caps;
+      }
+
+      /* unvisited link */
+      a:link {
+        color: #666666;
+        text-shadow: 0px 1px #cccccc;
+      }
+
+      a:visited {
+        color: #666666;
+      }
+
+      /* mouse over link */
+      a:hover {
+        color: hotpink;
+        text-decoration: underline #fbf211;
+        text-shadow: 0;
+      }
+
+      /* selected link */
+      a:active {
+        color: #444444;
+      }
+
+      #nav a {
+        padding-left: 9px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+      }
+
+      #nav div {
+        padding: 0px;
+      }
+
+      #nav {
+        padding-top: 5px;
+        padding-bottom: 5px;
+      }
+      
+      @media (min-width: 768px) {
+     
+      } 
+      @media (min-width: 992px) {
+     
+      } 
+      @media (min-width: 1200px) {
+        .container-small {
+          width: 950px;
+        } 
+      }
+      .container-small {
+        max-width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container container-small content">
+      <div class="row">
+	<div class="col-sm" style="text-align: center">
+	  <h3 class="header">Average Birders' Almanac</h3>
+	</div>
+      </div>
+      <div class="row">
+	<div class="col-sm" style="padding-left: 0px; padding-right: 0px">
+	  <img src="/sanderling.png" class="img-fluid"/>
+	</div>
+      </div>
+      <div id="nav" class="row bg-light small">
+	<div>
+	  <a class="nav-item active" href="/">Home</a>
+	</div>
+	<div>
+	  <a class="nav-item active" href="/sites/on_a_list.html">Site Guide</a>
+	</div>
+	<div>
+	  <a class="nav-item active" href="/">Bird Guide</a>
+	</div>
+	<div>
+	  <a class="nav-item active" href="/">Features</a>
+	</div>
+	<div>
+	  <a class="nav-item active" href="/">Trip Reports</a>
+	</div>
+	<div>
+	  <a class="nav-item active" href="/about.html">About</a>
+	</div>
+      </div>
+      {{{content}}}
+    </div>
+  </body>
+</html>
