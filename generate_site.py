@@ -29,7 +29,7 @@ with open("page.mustache") as f, open("content.mustache") as c:
       site_markdown = site_file.read()
       site_html = markdown.markdown(site_markdown)
       soup = BeautifulSoup(site_html, features="html.parser")
-      sites_with_blurb.append({ 'name': site_name, 'blurb': soup.p.string })
+      sites_with_blurb.append({ 'name': site_name, 'blurb': soup.p.text })
       content_html = pystache.render(
         content_template,
         { 
