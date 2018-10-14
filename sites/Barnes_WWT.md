@@ -62,45 +62,48 @@ of further interest (or the annoying lack of focus the windows cause
 get the better of you), I would head out towards the Headley hide.
 
 On the way, keep your eyes open; the hedgerow separating the
-collection from the reserve proper often has a reed bunting or a
-Cetti's or two making an appearance.
+collection from the reserve proper often holds a Reed Bunting or a
+Cetti's Warbler.
 
 Headley should be a relatively quick stop, unless it's a freezing cold
 day, in which case you may find it's warmth rather trickier to
 leave. Scan the reedbed in front carefully; it could have Bittern or
-Water Rail hiding within it, or a Cetti's Warbler if Spring has
-sprung. I've seen Stock Dove and Green Woodpecker meandering around on
-the grassy bit that protrudes from the right side of the hide, so give
-that a strong examination as well. Once you get bored enough to start
-looking at gulls, it's probably time to move on.
+Water Rail hiding within it, or a Cetti's Warbler (to the left of the
+hide, usually) if Spring has sprung. I've seen Stock Dove and Green
+Woodpecker meandering around on the grassy peninsula that extends from
+the right side of the hide, so give that a strong examination as
+well. Once you get bored enough to start looking at gulls, it's
+probably time to move on.
 
-Take whatever route you like to the wild side hide. In spring/summer
-you should have a pleasant accompaniment of warbler background; in
-colder months, you might get something interesting amidst the tit
+Take whatever route you like to the Wildside hide. In Spring and
+Summer you should have a pleasant accompaniment of warbler background;
+in colder months, you might get something interesting amidst the tit
 flocks.
 
-My experience of the wild side hide varies wildly. In Autumn/Winter, I
-mostly visit for completeness - there might be a Pintail or two at the
-far end of the reservoir pond. Sometimes a vagrant (Ring necked duck,
-duck that must not be named) turns up here. More likely there will not
-be very much at all.
+My experience of the Wildside hide varies wildly. In Autumn and
+Winter, I mostly visit for completeness - there might be a Pintail or
+two at the far end of the reservoir pond. Sometimes a vagrant (Ring
+necked duck, or duck that must not be named) turns up here. More
+likely there will not be very much at all; perhaps a goose or a gull
+on the sad little mud island immediately in front of the hide.
 
-In Spring/Summer, it offers the best view of the two grassy edges (and
-fencing) of the grazing marsh. Pipits (meadow, water, some occasional
-claims of more exciting varieties), wagtails (pied, grey and yellow),
-chats (stone and whin) and Wheatear should be carefully looked for.
+In Spring and Summer, however, Wildside offers the best view of the two
+grassy edges (and fencing) of the grazing marsh. Pipits (meadow,
+water, some occasional claims of more exciting varieties), wagtails
+(pied, grey and yellow), chats (stone and whin) and Wheatear should be
+carefully looked for.
 
 Head back to the centre when you're finished; strongly consider
 whether you need coffee, a snack, or a use of the facilities; I
 usually require at least one.
 
-Right - you should now be ready for the second half of the
-reserve. Both hides on the way to Peacock Tower are worth a visit;
-each allow some tricky part of the reedbed to be viewer; have a good
-check (take your time!) if you're looking for Bittern, and don't
-exclude the reeds nearest the hide. If you get bored of staring at
-reeds, have a break and check the edges of the islands you can see for
-waders; Snipe is likely, as is Redshank.
+You should now be ready for the second half of the reserve. Both hides
+on the way to Peacock Tower are worth a visit; each allow some tricky
+part of the reedbed to be viewed; have a good check (take your time!)
+if you're looking for Bittern, and don't forget the reeds nearest the
+hide. If you get bored of staring at reeds, have a break and check the
+edges of the islands you can see for waders; Snipe is likely, as is
+Redshank.
 
 If you reach Peacock Tower Bitternless, you're probably going to stay
 that way unless you hang around 'til dusk and catch one in flight. The
@@ -108,20 +111,22 @@ Tower is much better for spying on the wader scrape and the grazing
 marsh; if there are interesting waders on the sight they'll almost
 certainly be found from the Tower.
 
-While you wait for something of interest to turn up, or one of the
+While you wait for something of interest to turn up, or for one of the
 professionals to find a Jack Snipe, two of the Tower's more fixed
-offerings may be on show. Have a good look at Charing Cross Hospital;
-a pair of Peregrines nest on it, and frequently end up sitting on the
-railings on the side visible from the reserve. In the warmer months,
-the Tower comes with Sand Martins - there's an obvious bank where they
-nest of the right hand side of the scrape.
+offerings may be on show. First, have a good look at Charing Cross
+Hospital; a pair of Peregrines nest on it, and frequently end up
+sitting on the railings on the side visible from the
+reserve. Secondly, in the warmer months, the Tower comes with Sand
+Martins - there's an obvious bank where they nest of the right hand
+side of the scrape.
 
-In general, once I'm tired of the Tower I'm ready to go home - you
-might find on a super quiet day that all of the above has taken all of
-ninety minutes. If, at that point, it isn't freezing cold, consider
-taking the long way back via the rear of the sheltered lagoon, it's a
-pleasant walk, and often has plenty of littlies to keep one
-entertained.
+In general, once I am tired of the Tower I am ready to go home - even
+if on a super quiet day all of the above has taken ninety minutes. If,
+at that point, it isn't freezing cold, consider taking the long way
+back via the rear of the sheltered lagoon, it's a pleasant walk, and
+often has plenty of littlies to keep one entertained; it's a good
+place to find the year's first Chiffchaff or Willow Warbler in the
+Spring, in addition.
 
 A map version of the how to is available
 [here](https://drive.google.com/open?id=1hea4aGqt_3IZi8UkvRKxQV5i4JbYw_q_&usp=sharing)
