@@ -1,7 +1,7 @@
 ### Cliffe Pools
 
 Large, low tech, low lying reserve. Spectacular gull numbers,
-Nightingale and the odd breeding attempt by Black Winged Stilts make
+Nightingale and the odd breeding attempt by Black-winged Stilts make
 the faff of getting here worth it.
 
 ### Getting there
@@ -39,14 +39,39 @@ fragment.
 If you make it here on a sunny Spring morning, you should have a
 Nightingale or two serenading you; on my last visit one even decided
 to pop up right next to me; what a delight. Look carefully amongst the
-hordes of Black Headed Gulls on the islands of Radar Pool; there will
+hordes of Black-headed Gulls on the islands of Radar Pool; there will
 likely be several Mediterranean Gulls amongst them. Whitethroat and
 Blackcap should also be providing some pleasant audio backdrop. There
 really ought to be more finches (every time I come I am surprised by
-the lack of Bullfinch) but they are absent.
+the lack of Bullfinch) but there are not.
 
 The mud at the back of the Flamingo pool should yield _plenty_ of
-avocets. Ringed Plover should also be present in decent numbers, in
-season, as well as Redshank, Dunlin, Lapwing - the usual suspects. You
-will need a scope for a good view of most of it, but the parts closer
-to the Thames are more easily birdable.
+avocets. Ringed Plover should also be present in good numbers, in
+Spring and Summer, as well as Redshank, Dunlin, Lapwing - the usual
+suspects. You will need a scope for a good view from the causeway, but
+the parts closer to the Thames are more easily birdable.
+
+Once you reach the Thames - give it a good scan - all sorts of things
+could have decided that they fancy a trip up the estuary this far. If
+all you have is shipping, head North, East and then South along Mead
+Wall to complete the circuit. I've had Corn Bunting singing in this
+part of the reserve, and on one particularly early visit, a juvenile
+Cuckoo. At other times, it's been a bit dead, right up until a chance
+encounter with a Spoonbill at the Flamingo Pool. If you're on a bike,
+this is the particularly treacherous pothole section; best of luck.
+
+### Eat / Drink / Stay
+
+Cliffe village has one pub, The Six Bells, which I struggle to
+recommend for anything other than a refreshing beverage in the
+garden. To add insult to injury, there are signs for an alternative
+establishment, The Back Bull Inn, just as you leave the reserve, but
+unfortunately it closed long ago.
+
+### Nearby
+
+The Hoo Peninsula's sprawl is apparently also very good; I've never
+managed to get to it, though. The RSPB's [Northward
+Hill](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/northward-hill)
+reserve is also within range, but again; I've not been (but I'd be
+tempted to bet Cliffe Pools is better...)
