@@ -55,7 +55,9 @@ To maximise your chances of a decent view:
   * Keep an eye out for bittern news
   * Don't be ashamed of bailing half way across the reserve to get on it
 
-#### Enough Bittern
+Enough Bittern; let's go for an explore.
+
+#### Part one: the North side - Headley and Wildside hides
 
 Once you've convinced yourself the view from the observatory is free
 of further interest (or the annoying lack of focus the windows cause
@@ -97,6 +99,8 @@ Head back to the centre when you're finished; strongly consider
 whether you need coffee, a snack, or a use of the facilities; I
 usually require at least one.
 
+#### Part two: The East side
+
 You should now be ready for the second half of the reserve. Both hides
 on the way to Peacock Tower are worth a visit; each allow some tricky
 part of the reedbed to be viewed; have a good check (take your time!)
@@ -137,4 +141,8 @@ You're in London - the options are limitless
 
 ## Nearby
 
-See above.
+The Thames crossing at Hammersmith can occasionally have an
+interesting gull or two. Barnes Common (you'll have gone through it if
+you got the train to Barnes and then a bus) looks like it ought to be
+alright, but the couple of occasions I've decided to walk through it
+yielded so little that I haven't tried since.
