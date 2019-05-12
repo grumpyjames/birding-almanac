@@ -1,0 +1,2 @@
+sudo apt-get install pandoc python3 python3-pip
+pip3 install markdown pystache bs4
