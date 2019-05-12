@@ -4,11 +4,21 @@ import markdown
 import pystache
 from bs4 import BeautifulSoup
 
+
 with open("page.mustache") as f, open("content.mustache") as c:
   page_template = f.read()
   content_template = c.read()
   sites_to_convert = []
-  features = []
+  
+  def render_page(page_html, content_nav):
+    content_html = pystache.render(
+      content_template,
+      {
+        'main-content': page_html,
+        'content-nav': content_nav
+      })
+    return pystache.render(
+      page_template, {'content': content_html})
 
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
@@ -31,13 +41,8 @@ with open("page.mustache") as f, open("content.mustache") as c:
       site_html = markdown.markdown(site_markdown)
       soup = BeautifulSoup(site_html, features="html.parser")
       sites_with_blurb.append({ 'name': site_name, 'blurb': soup.p.text })
-      content_html = pystache.render(
-        content_template,
-        { 
-          'main-content': site_html 
-        })
-      full_page_html = pystache.render(
-        page_template, { 'content': content_html })
+
+      full_page_html = render_page(site_html, "")
       with open(os.path.join("out/sites", site_name + ".html"), "w+") as output:
         output.write(full_page_html)
   
@@ -55,6 +60,26 @@ with open("page.mustache") as f, open("content.mustache") as c:
       list_index.write(pystache.render(page_template, {'content': cells}))
 
   features = os.listdir("features")
-  for feature in features:    
-    print(os.listdir("features/" + feature))
+  for feature in features:
+    os.makedirs("out/features/" + feature, exist_ok=True)
+    feature_files = os.listdir("features/" + feature)
+    for index, file in enumerate(feature_files):
+      with open("features/" + feature + "/" + file) as feature_file:
+        feature_html = markdown.markdown(feature_file.read())
+        nav = []
+        if index > 0:
+          # add 'previous' nav
+          prev_file = feature_files[index - 1]
+          prev_file_link = prev_file.split(".md")[0] + ".html"
+          nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
+        if index + 1 < len(feature_files):
+          # add 'next' nav
+          next_file = feature_files[index + 1]
+          next_file_link = next_file.split(".md")[0] + ".html"
+          nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
+        content_nav = "".join(nav)
+        full_page_html = render_page(feature_html, content_nav)
 
+        out_path = "out/features/" + feature + "/" + file.split(".md")[0] + ".html"
+        with open(out_path, "w+") as output:
+          output.write(full_page_html)

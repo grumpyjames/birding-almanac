@@ -28,10 +28,8 @@ we'd both give it a go.
 
 We agreed on some rules:
 
-1. The bird must be found in the United Kingdom,
-strict definition [here](https://en.wikipedia.org/wiki/United_Kingdom)
-- neither of our 'patches' is going to deliver 200, so we must widen
-the net.
+1. The bird must be found in the United Kingdom, strict definition
+[here](https://en.wikipedia.org/wiki/United_Kingdom)
 
 2. The bird must be seen. Hearing it is not enough, even for species
 (e.g Tawny Owl or Cuckoo) where the sound of the bird is
@@ -60,8 +58,8 @@ point - we are leaving some remaining 300+ unclassified.
 In our defence, the book devotes four pages to terns that neither Mum
 nor I (and I suspect most birders) have ever seen (in the UK, at
 least). The most frequently seen species (Caspian Tern) is classified
-as V**, i.e Vagrant (only one or a few records a year, or in most),
-the other are V*** or worse. Serious birders describe these species as
+as `V**`, i.e Vagrant (only one or a few records a year, or in most),
+the other are `V***` or worse. Serious birders describe these species as
 "Mega" if they turn up in the UK. We can't plan a trip to see these
 species, so having them in the list _plan_ is a bit pointless. We can
 always add an entry to the list if we come across it by being in the
