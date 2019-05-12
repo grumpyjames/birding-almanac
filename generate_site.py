@@ -8,11 +8,12 @@ with open("page.mustache") as f, open("content.mustache") as c:
   page_template = f.read()
   content_template = c.read()
   sites_to_convert = []
+  features = []
 
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
-      sites_to_convert.append((filename, filename.split(".")[0]))
-
+      sites_to_convert.append((filename, filename.split(".")[0]))  
+      
   with open("front.mustache") as front:
     front_html = pystache.render(page_template, { 'content': front.read() })
     with open(os.path.join("out", "index.html"), "w+") as out:
@@ -52,4 +53,8 @@ with open("page.mustache") as f, open("content.mustache") as c:
     with open('out/sites/on_a_list.html', "w+") as list_index:
       cells = "<div class=\"row\">" + cells + "</div>"   
       list_index.write(pystache.render(page_template, {'content': cells}))
+
+  features = os.listdir("features")
+  for feature in features:    
+    print(os.listdir("features/" + feature))
 
