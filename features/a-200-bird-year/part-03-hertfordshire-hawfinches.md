@@ -1,7 +1,11 @@
-Another week passes; this one is full of reports of Hawfinches. As far
-as I can work out, thousands have turned up across the country; none
-of them convenient enough for a mid-week bike excursion to catch up
-with them. I spend the week sifting through the various sighting
+### Hertfordshire Hawfinches
+
+This week brings many reports of Hawfinches. Perhaps one or two might
+still be reachable by the weekend.
+
+As far as I can work out, *thousands* have turned up across the
+country. None of them convenient enough for a mid-week bike
+excursion. I spend the week sifting through the various sighting
 reports to try and find the sweet spot for a weekend attempt. I've not
 seen a Hawfinch before, so I don't much fancy having to pick one out
 in flight; we want a decent sized flock with a reputation for sitting

@@ -1,10 +1,12 @@
 ### A false start
 
 Many birders are up bright and early on New Year's Day, eager to make
-a start on a new list. I myself had grand schemes for a visit to
-Barnes or Rainham. These schemes were then utterly besmirched by a
-soul-destroying hangover that confined me to quarters until long after
-the best part of the day had departed.
+a start on a new list. The best laid plans of mice and men, however...
+
+...are often besmirched by a soul-destroying hangover. The grand
+schemes for a visit to Barnes or Rainham were ruled out by a malaise
+that confined me to quarters until long after the best part of the day
+had departed.
 
 #### A walk in the park
 
@@ -13,7 +15,7 @@ for a walk around the Hampstead Heath extension and Golders Hill
 Park. Neither of these are tremendous sites for scarcities or
 rarities, but they do have some attractions in the Winter. Amongst the
 Black-headed Gulls, a reliable few Common Gulls hang - not a bad tick,
-given they're inapt naming. The Heath extension yields some excellent
+given their inapt naming. The Heath extension yields some excellent
 views of Redwing, and a Great Spotted Woodpecker made a quick flypast
 as we reached the end of the extension and turned towards GHP.
 
@@ -105,7 +107,7 @@ she's not seen one, and has started to question their existence.
 
 Even without the Bittern, Barnes should yield most of the Winter
 wildfowl species - there's almost always a pair of wintering Pintail,
-and smattering of Shelduck. We head out on to the reserve in good
+and a smattering of Shelduck. We head out on to the reserve in good
 spirits; there are already reports of a Bittern from the Dulverton
 hide. The usual plan (Wildside, then back via the visitor centre round
 to the Peacock tower) is put aside and we head there directly.
@@ -128,10 +130,10 @@ reserve where I'm going to be able to pick it out. As such, not a lot
 of effort is extended scanning for it; the Water Pipit's existence is
 roundly brought into question by all concerned, and we refocus.
 
-A pair of peregrines nest on Charing Cross Hospital every year, and
-outside of breeding season they can often be seen on a couple of
+A pair of Peregrine Falcons nest on Charing Cross Hospital every year,
+and outside of breeding season they can often be seen on a couple of
 favourite perching points. A glance through the bins finds a couple of
 promising looking shapes, and a look through the scope confirms it;
-peregrine is, remarkably, the first raptor of 2018. The usual pintail
-pair are quickly located on the main lake to round off a productive
-weekend; we head home to warm up.
+Peregrine Falcon is, remarkably, the first raptor of 2018. The usual
+Pintail pair are quickly located on the main lake to round off a
+productive weekend; we head home to warm up.

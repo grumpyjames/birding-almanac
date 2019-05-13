@@ -1,11 +1,15 @@
+### An unexpected little bunting
+
 This week's "please stay there until the weekend" report is a Little
-Bunting at Walthamstow Reservoirs. Saturday is taken by non-bird plans
-(!), but Sunday is not. Sunday arrives, and it appears my luck is
-partially in; the bird is, apparently, still around. Only partially
-in, mind; it feels like this is the coldest London has been for some
-time even before the windchill. Also, getting to Walthamstow either
-involves going in and then out (Northern then Victoria) or a pesky
-pair of Overground trains.
+Bunting at Walthamstow Reservoirs. 
+
+Saturday is taken by non-bird plans (!), but Sunday is not. Sunday
+arrives, and it appears my luck is partially in; the bird is,
+apparently, still around. Only partially in, mind; it feels like this
+is the coldest London has been for some time even before the
+windchill. Also, getting to Walthamstow either involves going in and
+then out (Northern then Victoria) or a pesky pair of Overground
+trains.
 
 This is _definitely_ a twitch. It's a good job Emma is absent; this
 would _not_ be her scene. There's a veritable horde of birders waiting
