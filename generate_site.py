@@ -97,7 +97,7 @@ with \
   page_template = f.read()
   content_template = c.read()
   cell_template = cell.read()
-  fpi_template = fpi.read();
+  fpi_template = fpi.read()
 
   sites_to_convert = []
 
