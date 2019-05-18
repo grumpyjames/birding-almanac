@@ -93,11 +93,13 @@ with \
     open("page.mustache") as f, \
     open("content.mustache") as c, \
     open("front_page_item.mustache") as fpi, \
+    open("feature_cell.mustache") as fc, \
     open('by_name_cell.mustache') as cell:
   page_template = f.read()
   content_template = c.read()
   cell_template = cell.read()
   fpi_template = fpi.read()
+  fc_template = fc.read()
 
   sites_to_convert = []
 
@@ -129,6 +131,16 @@ with \
         'site_name': title,
         'site_url': url,
         'short_site_description': blurb
+      }
+    )
+
+  def render_feature(name, url, blurb_html):
+    return pystache.render(
+      fc_template,
+      {
+        'feature_url': url,
+        'feature_name': name,
+        'feature_description': blurb_html
       }
     )
 
@@ -167,6 +179,18 @@ with \
     list_index.write(
       render_page(cells)
     )
+
+  feature_cells = render_feature(
+    "A 200 Bird Year",
+    "/features/a-200-bird-year",
+    """
+    <p>A journal of an attempt at a 200 bird year</p>
+    """
+  )
+
+  with open('out/features/index.html', "w+") as features_index:
+    feature_cells = "<div class=\"row\">" + feature_cells + "</div>"
+    features_index.write(render_page(feature_cells))
 
   features = os.listdir("features")
   for feature in features:
