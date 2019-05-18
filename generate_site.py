@@ -168,7 +168,7 @@ with \
       site["name"] + '.html',
       site["blurb"])
 
-  with open('out/sites/on_a_list.html', "w+") as list_index:
+  with open('out/sites/index.html', "w+") as list_index:
     cells = "<div class=\"row\">" + cells + "</div>"
     list_index.write(
       render_page(cells)
