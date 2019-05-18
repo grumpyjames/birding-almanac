@@ -3,6 +3,7 @@
 A WWT reserve smack bang in TfL Zone 2. That can't possible work, can
 it? Surprisingly, it can.
 
+---
 ### Getting there
 
 Public transport options are pretty good - either get National Rail to
@@ -16,7 +17,11 @@ from the East.
 If you're in the same quadrant of London as the reserve (i.e South
 West) driving isn't totally insane and there is a sizeable car park.
 
+---
 ### How to do it
+
+If you prefer, this whole section is available
+[as a custom google map](https://drive.google.com/open?id=1hea4aGqt_3IZi8UkvRKxQV5i4JbYw_q_&usp=sharing)
 
 Like all WWT reserves, Barnes is well marketed and well visited - be
 prepared to share the reserve with a wide range of birding enthusiasm
@@ -38,6 +43,7 @@ the courtyard to catch up with the latest news, and have a quick look
 out from the observatory's giant glass frontage - I've been lucky
 enough to waltz straight on to a Bittern in there before.
 
+---
 #### A quick Bittern side note
 
 I'm going to go out on a limb here and say that this is probably the
@@ -57,6 +63,7 @@ To maximise your chances of a decent view:
 
 Enough Bittern; let's go for an explore.
 
+---
 #### Part one: the North side - Headley and Wildside hides
 
 Once you've convinced yourself the view from the observatory is free
@@ -99,6 +106,7 @@ Head back to the centre when you're finished; strongly consider
 whether you need coffee, a snack, or a use of the facilities; I
 usually require at least one.
 
+---
 #### Part two: The East side
 
 You should now be ready for the second half of the reserve. Both hides
@@ -132,13 +140,12 @@ often has plenty of littlies to keep one entertained; it's a good
 place to find the year's first Chiffchaff or Willow Warbler in the
 Spring, in addition.
 
-A map version of the how to is available
-[here](https://drive.google.com/open?id=1hea4aGqt_3IZi8UkvRKxQV5i4JbYw_q_&usp=sharing)
-
+---
 ## Eat / Drink / Stay
 
 You're in London - the options are limitless
 
+---
 ## Nearby
 
 The Thames crossing at Hammersmith can occasionally have an
