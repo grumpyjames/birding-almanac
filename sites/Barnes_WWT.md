@@ -34,7 +34,7 @@ least because its two signature rarities (Bittern and Jack Snipe)
 often require a bit of hard work to find.
 
 Before you continue - open [the official
-map](https://www.wwt.org.uk/userfiles/images/Centre%20maps/WWTLondon-MAP.jpg);
+map](https://www.wwt.org.uk/wetland-centres/london/plan-your-visit/london-map/);
 it has some names I'm going to rely on.
 
 If you want any hope at all of piece and quiet and you're visiting on
