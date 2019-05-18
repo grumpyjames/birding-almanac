@@ -132,17 +132,11 @@ with \
       }
     )
 
-
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
       sites_to_convert.append((filename, filename.split(".")[0]))
     elif filename.endswith(".png"):
       shutil.copyfile("sites/" + filename, "out/sites/" + filename)
-
-  with open("front.mustache") as front:
-    front_html = render_page(front.read())
-    with open(os.path.join("out", "index.html"), "w+") as out:
-      out.write(front_html)
 
   with open("about.mustache") as about:
     about_html = render_page(about.read())
