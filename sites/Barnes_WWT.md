@@ -21,7 +21,7 @@ West) driving isn't totally insane and there is a sizeable car park.
 ### How to do it
 
 If you prefer, this whole section is available
-[as a custom google map](https://drive.google.com/open?id=1hea4aGqt_3IZi8UkvRKxQV5i4JbYw_q_&usp=sharing)
+[as a custom google map](https://www.google.com/maps/d/viewer?mid=1hea4aGqt_3IZi8UkvRKxQV5i4JbYw_q_&ll=51.48163886851217%2C-0.2277705500000593&z=16)
 
 Like all WWT reserves, Barnes is well marketed and well visited - be
 prepared to share the reserve with a wide range of birding enthusiasm

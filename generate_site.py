@@ -243,10 +243,10 @@ with \
       feature_index.write(render_page(cells))
 
   home_items = ""
-  for item in home:
-    home_items += "<hr/>"
+  for index, item in enumerate(home):
+    if index > 0:
+      home_items += "<hr/>"
     home_items += pystache.render(fpi_template, item)
-  home_items += "<hr/>"
 
   index_html = render_page(home_items)
   with open("out/index.html", "+w") as index_file:
