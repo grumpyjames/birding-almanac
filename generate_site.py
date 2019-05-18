@@ -5,15 +5,17 @@ import pystache
 import shutil
 from bs4 import BeautifulSoup
 
+
 def as_html(md_file):
   return md_file.split(".md")[0] + ".html"
 
+
 def site_guide_item(
-        even,
-        site_name,
-        site_path,
-        blurb
-    ):
+    even,
+    site_name,
+    site_path,
+    blurb
+):
   row_class = 'left' if even else 'right'
   img_class = 'float-right' if even else 'float-left'
   return {
@@ -27,14 +29,15 @@ def site_guide_item(
     'blurb': blurb,
   }
 
+
 def feature_item(
-        even,
-        feature_name,
-        feature_path,
-        feature_item_title,
-        feature_item_path,
-        blurb,
-        ):
+    even,
+    feature_name,
+    feature_path,
+    feature_item_title,
+    feature_item_path,
+    blurb,
+):
   row_class = 'left' if even else 'right'
   img_class = 'float-right' if even else 'float-left'
   return {
@@ -47,6 +50,7 @@ def feature_item(
     'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
     'blurb': blurb,
   }
+
 
 home = [
   feature_item(
@@ -86,16 +90,17 @@ a start on a new list.</p>
 ]
 
 with \
-        open("page.mustache") as f,\
-        open("content.mustache") as c,\
-        open("front_page_item.mustache") as fpi,\
-        open('by_name_cell.mustache') as cell:
+    open("page.mustache") as f, \
+    open("content.mustache") as c, \
+    open("front_page_item.mustache") as fpi, \
+    open('by_name_cell.mustache') as cell:
   page_template = f.read()
   content_template = c.read()
   cell_template = cell.read()
   fpi_template = fpi.read();
 
   sites_to_convert = []
+
 
   def render_page(page_html):
     return pystache.render(
@@ -127,12 +132,13 @@ with \
       }
     )
 
+
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
       sites_to_convert.append((filename, filename.split(".")[0]))
     elif filename.endswith(".png"):
       shutil.copyfile("sites/" + filename, "out/sites/" + filename)
-      
+
   with open("front.mustache") as front:
     front_html = render_page(front.read())
     with open(os.path.join("out", "index.html"), "w+") as out:
@@ -149,7 +155,7 @@ with \
       site_markdown = site_file.read()
       site_html = markdown.markdown(site_markdown)
       soup = BeautifulSoup(site_html, features="html.parser")
-      sites_with_blurb.append({ 'name': site_name, 'blurb': soup.p.text })
+      sites_with_blurb.append({'name': site_name, 'blurb': soup.p.text})
 
       full_page_html = render_content(site_html, "")
       with open(os.path.join("out/sites", site_name + ".html"), "w+") as output:
