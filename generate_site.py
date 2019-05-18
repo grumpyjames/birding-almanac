@@ -205,6 +205,7 @@ with \
       elif file.endswith(".md"):
         feature_md_files.append(file)
 
+    feature_md_files.sort()
     for index, file in enumerate(feature_md_files):
       with open("features/" + feature + "/" + file) as feature_file:
         feature_html = markdown.markdown(feature_file.read())
