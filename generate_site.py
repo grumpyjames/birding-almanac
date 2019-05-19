@@ -72,8 +72,7 @@ a start on a new list.</p>
     "Part 1: Prologue",
     "part-01-prologue",
     """
-    <p>Where does this idea of a big year come from?</p>
-    <p>Why is 200 such a popular number to go for?</p>
+    <p>Where does this idea of a big year come from? Why is 200 such a popular number to go for in the UK?</p>
     <p>Let's try for a 200 bird year, and find out!</p>
     """
   ),
@@ -82,8 +81,7 @@ a start on a new list.</p>
     "Barnes WWT",
     "Barnes_WWT",
     """
-    <p>A WWT reserve in TfL Zone 2.</p>
-    <p>That can't possible work, can it?</p>
+    <p>A WWT reserve in TfL Zone 2. That can't possible work, can it?</p>
     <p>Spoiler alert: it very much can.</p>
     """
   )
