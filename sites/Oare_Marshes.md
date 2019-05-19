@@ -1,9 +1,10 @@
 ### Oare Marshes
 
-Either Kent's worst or best kept secret. Has wader quality that verges
-on Slimbridge like quality, and has a habit of producing some
-excellent rarities, particularly during fall passage.
+Either Kent's worst or best kept secret, Oare has wader quality that
+verges on Slimbridge levels, and a habit of producing some excellent
+rarities, particularly during fall passage.
 
+---
 ### Getting there
 
 Nearby Faversham is well served by High speed Southeastern services if
@@ -14,11 +15,13 @@ approaching from London. The reserve is then:
 * a ten minute drive or taxi ride 
 * a fifteen minute bus (hourly, not Sundays, [timetable](https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/South%20East/Kent/3%20wef%20180917.pdf)) followed by a ten minute walk; fafftastic.
 
+---
 ### Facilities
 
 Are entirely absent, and there's not a lot of cover if you're aiming
 for shifty wee behind a bush.
 
+---
 ### How to do it
 
 Like many wetland reserves, you should aim to time your arrival at
@@ -29,7 +32,7 @@ I remember first going to Oare some years ago and being astonished by
 both the number and the proximity of birds to the right of the road
 through the reserve. There are a few places you can park on the road
 which have superb views of the water and various scrapes. Partake of
-them if you can, if they're full (likely on a weekend) there's a
+them if you can. If they're full (likely on a weekend) there's a
 capacious car park at the end of the road.
 
 Cycle parking is restricted to whatever post/pole you can find to lock
@@ -84,6 +87,7 @@ Click
 [here](https://drive.google.com/open?id=1JRC277-AUIex8gll2OEfC0fcMFF04kOc&usp=sharing)
 for the annotated map version of the above.
 
+---
 ### Links
 
 Kent Ornithological Society maintains a yearly sightings blog for this
@@ -95,6 +99,7 @@ The page on [Birding for
 all](http://www.birdingforall.com/england/kent/oare-marshes-reserve/)
 illustrates the circular walk very well.
 
+---
 ### Eat / Drink / Stay
 
 Have unilaterally failed to eat at [The Three

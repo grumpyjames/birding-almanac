@@ -65,8 +65,18 @@ a start on a new list.</p>
     <p>The best laid plans of mice and men, however...</p>
     """
   ),
-  feature_item(
+  site_guide_item(
     False,
+    "Oare Marshes",
+    "Oare_Marshes",
+    """
+    <p>Either Kent's worst or best kept secret; I'm not sure which.</p>
+    <p>Wader quality that verges on Slimbridge levels, and a habit of producing some
+excellent rarities, particularly during fall passage.</p>
+    """
+  ),
+  feature_item(
+    True,
     "A 200 Bird Year",
     "a-200-bird-year",
     "Part 1: Prologue",
@@ -77,7 +87,7 @@ a start on a new list.</p>
     """
   ),
   site_guide_item(
-    True,
+    False,
     "Barnes WWT",
     "Barnes_WWT",
     """
