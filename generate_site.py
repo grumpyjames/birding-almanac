@@ -51,11 +51,29 @@ def feature_item(
     'blurb': blurb,
   }
 
+def welcome_item():
+  return {
+    'row-class': 'left',
+    'img-class': 'float-right',
+    'index-link': '#',
+    'index-title': 'Announcements',
+    'item-link': '#',
+    'item-title': 'Welcome to Average Birding',
+    'image': '/welcome-thumb.png',
+    'blurb': """
+      <p>A birding website by average birders, for birders of any feather.</p>
+<p>Our <a href="sites/index.html">site guides</a> offer introductions to birding locations. 
+Our <a href="features/">features</a>, in particular, <a href="features/a-200-bird-year">a 200 bird year?</a> offer a birding distraction. 
+Scroll down for links to our most recently updated pages.</p>    
+    """,
+  }
+
 
 home = [
+  welcome_item(),
   feature_item(
-    True,
-    "A 200 Bird Year",
+    False,
+    "A 200 Bird Year?",
     "a-200-bird-year",
     "Part 2: A false start",
     "part-02-a-false-start",
@@ -66,7 +84,7 @@ a start on a new list.</p>
     """
   ),
   site_guide_item(
-    False,
+    True,
     "Oare Marshes",
     "Oare_Marshes",
     """
@@ -76,8 +94,8 @@ excellent rarities, particularly during fall passage.</p>
     """
   ),
   feature_item(
-    True,
-    "A 200 Bird Year",
+    False,
+    "A 200 Bird Year?",
     "a-200-bird-year",
     "Part 1: Prologue",
     "part-01-prologue",
@@ -87,7 +105,7 @@ excellent rarities, particularly during fall passage.</p>
     """
   ),
   site_guide_item(
-    False,
+    True,
     "Barnes WWT",
     "Barnes_WWT",
     """
@@ -189,7 +207,7 @@ with \
     )
 
   feature_cells = render_feature(
-    "A 200 Bird Year",
+    "A 200 Bird Year?",
     "/features/a-200-bird-year",
     """
     <p>A journal of an attempt at a 200 bird year</p>
