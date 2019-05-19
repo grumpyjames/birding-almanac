@@ -82,7 +82,7 @@ a start on a new list.</p>
     "Barnes WWT",
     "Barnes_WWT",
     """
-    <p>A WWT reserve smack bang in TfL Zone 2.</p>
+    <p>A WWT reserve in TfL Zone 2.</p>
     <p>That can't possible work, can it?</p>
     <p>Spoiler alert: it very much can.</p>
     """

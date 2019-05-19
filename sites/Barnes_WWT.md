@@ -1,6 +1,6 @@
 ### Barnes WWT
 
-A WWT reserve smack bang in TfL Zone 2. That can't possible work, can
+A WWT reserve in TfL Zone 2. That can't possible work, can
 it? Surprisingly, it can.
 
 ---
