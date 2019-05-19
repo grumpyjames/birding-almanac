@@ -1,6 +1,6 @@
 ### Beadnell Bay
 
-An beautiful beach walk eventually leads to one of the UK's last
+A beautiful beach walk eventually leads to one of the UK's last
 Little Tern colonies at the [Long
 Nanny](https://www.nationaltrust.org.uk/embleton-and-newton-links/features/the-long-nanny-little-tern-site).
 
