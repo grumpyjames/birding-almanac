@@ -101,7 +101,7 @@ excellent rarities, particularly during fall passage.</p>
     "part-01-prologue",
     """
     <p>Where does this idea of a big year come from? Why is 200 such a popular number to go for in the UK?</p>
-    <p>Let's try for a 200 bird year, and find out!</p>
+    <p>Let's try for a 200 bird year and find out.</p>
     """
   ),
   site_guide_item(
