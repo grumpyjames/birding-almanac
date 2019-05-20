@@ -24,6 +24,9 @@ for shifty wee behind a bush.
 ---
 ### How to do it
 
+Before we start, here's [an annotated map version](https://www.google.com/maps/d/viewer?mid=1JRC277-AUIex8gll2OEfC0fcMFF04kOc&ll=51.343665150329166%2C0.892576149999968&z=16)
+of this guide, for the more geographically inclined.
+
 Like many wetland reserves, you should aim to time your arrival at
 Oare with a rising tide - it will push more of the birds on to the
 reserve, where they are easier to see.
@@ -31,9 +34,19 @@ reserve, where they are easier to see.
 I remember first going to Oare some years ago and being astonished by
 both the number and the proximity of birds to the right of the road
 through the reserve. There are a few places you can park on the road
-which have superb views of the water and various scrapes. Partake of
-them if you can. If they're full (likely on a weekend) there's a
-capacious car park at the end of the road.
+which have superb views of the water (the "East Flood") and various
+scrapes. Partake of them if you can. If they're full (likely on a weekend)
+there's a capacious car park at the end of the road.
+
+<figure class="figure">
+  <img
+    src="Oare_Marshes-first-sight.png"
+    class="figure-img img-fluid rounded"
+    alt="Love at first sight? There can't be too many reserves that greet you like this">
+  <figcaption class="figure-caption text-center">
+    Love at first sight? There can't be too many reserves that greet you like this
+  </figcaption>
+</figure>
 
 Cycle parking is restricted to whatever post/pole you can find to lock
 up to - there's a handrail on some steps up to the sea wall that I've
@@ -41,27 +54,51 @@ used to this end a couple of times.
 
 Once you're set - start by having a good old look at the main body of
 the reserve from the road. A visit during fall passage should mean the
-scrape that extends into the water from the road is chock a block with
+spit that extends into the water from the road is chock a block with
 Golden Plover, Dunlin, Avocet, Black Tailed Godwit and Redshank. A bit
-of searching should find a Ruff or two. A bit of luck and some more
-intensive searching as the summer starts to wane (late July to early
-September) might yield Spotted Redshank, Little Stint and Curlew
-Sandpiper (I saw four or five of the latter in August 2015 along with
-a summer plumage Knot; a very pleasant surprise).
+of searching should find a Ruff or two - check among the non-sleeping
+Godwits to the left and right of the spit.
+
+A bit of luck and some more intensive searching as the summer starts
+to wane (late July to early September) might yield Spotted Redshank,
+Little Stint and Curlew Sandpiper (I saw four or five of the latter in
+August 2015 along with a summer plumage Knot; a very pleasant
+surprise).
+
+In terms of where to look - in addition to the obvious mud - keep an
+eye on the edges of the East flood. Water Rail breed here and can be seen
+even in the height of summer. The edge of the spit poking out into the
+East flood is often a good place to find the tinier (read: scarcer)
+wader species, as well as a thin sandbank/mudflat that runs parallel
+to the road that sits almost in the centre of the East Flood.
+
+<figure class="figure">
+  <img
+    src="Oare_Marshes-yellow_wagtail.png"
+    class="figure-img img-fluid rounded"
+    alt="Yellow Wagtail (juvenile) on the rocks next to the sea wall. I think. Hmm.">
+  <figcaption class="figure-caption text-center">
+    Yellow Wagtail (juvenile) on the rocks next to the sea wall. I think. Hmm.
+  </figcaption>
+</figure>
 
 Once you start to feel like you've seen everything from the road, head
 towards the Swale to start the circular path around the reserve in a
 clockwise direction. Along the sea wall, watch out for wagtails (of
-all sorts); there should also be plenty of Curlew around (and possibly
-a Whimbrel or two).
+all sorts). On the extensive mud, there should also be plenty of
+Curlew around. During passage, inspect the curly-beaked inhabitants
+closely; Whimbrel turn up here quite frequently. In recent years, a
+returning Bonaparte's Gull has favoured this area, providing an
+excellent opportunity to hone your Gull skills (hint: its head is _way_
+more black than a Black-headed Gull).
 
 The hide at the point is worth a brief visit (although you can just as
 easily set up next to it) - Little Ringed and Ringed Plover often turn
-up on the mud flats to the North of it. To the East, Horse Sands may
-be worth a quick check for seals. Across the water, the South shore of
-the Isle of Sheppey hosts Swale NNR; it's worth scanning above the
-extensive reedbed for Marsh Harrier (frequent) and Short Eared Owl
-(possible; I've not seen them though).
+up on the mud flats to the North of it in significant numbers. To the
+East, Horse Sands may be worth a quick check for seals. Across the
+water, the South shore of the Isle of Sheppey hosts Swale NNR; it's
+worth scanning above the extensive reedbed for Marsh Harrier
+(frequent) and Short Eared Owl (possible; I've not seen them though).
 
 Heading inland from the hide, listen out for Bearded Reedling pinging
 in the reedbed to your right. If you're very patient you might manage
@@ -82,10 +119,6 @@ if you're the thorough sort, you might find a Snipe or two from it
 that you mightn't spot from elsewhere.
 
 Return to the road for one last look before heading off.
-
-Click
-[here](https://drive.google.com/open?id=1JRC277-AUIex8gll2OEfC0fcMFF04kOc&usp=sharing)
-for the annotated map version of the above.
 
 ---
 ### Links
