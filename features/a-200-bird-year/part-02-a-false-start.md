@@ -123,7 +123,15 @@ pushes its way back into the anonymity of the reedbed. We escape
 before we have to explain to any newcomers what they've just missed
 and head towards the Peacock hide.
 
-![A Bittern at Barnes (from a 2015 visit; didn't have a camera with us for this one!)](02-bittern.png "A Bittern at Barnes (from a 2015 visit; didn't have a camera with us for this one!)")
+<figure class="figure">
+  <img
+    src="02-bittern.png"
+    class="figure-img img-fluid rounded"
+    alt="A Bittern at Barnes (from a 2015 visit; didn't have a camera with us for this one!)">
+  <figcaption class="figure-caption text-center">
+    Beady eyed Barnes Bittern (from a 2015 visit; didn't have a camera with us for this one!)
+  </figcaption>
+</figure>
 
 There have been reports of Water Pipit from here. I am doubly
 sceptical; firstly of my ability to discern this bird from other
