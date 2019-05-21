@@ -43,7 +43,6 @@ the courtyard to catch up with the latest news, and have a quick look
 out from the observatory's giant glass frontage - I've been lucky
 enough to waltz straight on to a Bittern in there before.
 
----
 #### A quick Bittern side note
 
 I'm going to go out on a limb here and say that this is probably the
@@ -63,7 +62,6 @@ To maximise your chances of a decent view:
 
 Enough Bittern; let's go for an explore.
 
----
 #### Part one: the North side - Headley and Wildside hides
 
 Once you've convinced yourself the view from the observatory is free
@@ -106,7 +104,6 @@ Head back to the centre when you're finished; strongly consider
 whether you need coffee, a snack, or a use of the facilities; I
 usually require at least one.
 
----
 #### Part two: The East side
 
 You should now be ready for the second half of the reserve. Both hides
