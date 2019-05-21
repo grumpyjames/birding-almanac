@@ -115,6 +115,11 @@ excellent rarities, particularly during fall passage.</p>
   )
 ]
 
+os.makedirs("out", exist_ok=True)
+for file in os.listdir("."):
+  if file.endswith(".png"):
+    shutil.copyfile(file, "out/" + file)
+
 with \
     open("page.mustache") as f, \
     open("content.mustache") as c, \
