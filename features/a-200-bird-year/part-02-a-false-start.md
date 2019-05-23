@@ -97,6 +97,16 @@ breeze. Rainham might yield a Bearded Reedling or two, or maybe a
 Short-Eared Owl later in the day, but we're in Barnes to get a
 potential difficulty out of the way as soon as possible; the Bittern.
 
+<figure class="figure">
+  <img
+    src="02-bittern.png"
+    class="figure-img img-fluid rounded"
+    alt="Beady eyed Bittern at Barnes (from a 2015 visit)"/>
+  <figcaption class="figure-caption text-center">
+    Beady eyed Barnes Bittern (from a 2015 visit)
+  </figcaption>
+</figure>
+
 Bitterns can be elusive, but Barnes has, for me, proved quite
 reliable; I've seen two or three different birds on the reserve on
 cold winter days. Occasionally they might even be describable as
@@ -122,16 +132,6 @@ brought to an end a few minutes later when the Bittern unceremoniously
 pushes its way back into the anonymity of the reedbed. We escape
 before we have to explain to any newcomers what they've just missed
 and head towards the Peacock hide.
-
-<figure class="figure">
-  <img
-    src="02-bittern.png"
-    class="figure-img img-fluid rounded"
-    alt="A Bittern at Barnes (from a 2015 visit; didn't have a camera with us for this one!)">
-  <figcaption class="figure-caption text-center">
-    Beady eyed Barnes Bittern (from a 2015 visit; didn't have a camera with us for this one!)
-  </figcaption>
-</figure>
 
 There have been reports of Water Pipit from here. I am doubly
 sceptical; firstly of my ability to discern this bird from other

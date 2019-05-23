@@ -14,6 +14,16 @@ pointful) from there.
 There is good access from the Thames path if you're on a bike coming
 from the East.
 
+<figure class="figure">
+  <img
+    src="Barnes_WWT-greeter_geese.png"
+    class="figure-img img-fluid rounded"
+    alt="These geese may greet you should you approach from the river"/>
+  <figcaption class="figure-caption text-center">
+    These geese may greet you should you approach from the river
+  </figcaption>
+</figure>
+
 If you're in the same quadrant of London as the reserve (i.e South
 West) driving isn't totally insane and there is a sizeable car park.
 
@@ -87,6 +97,16 @@ Summer you should have a pleasant accompaniment of warbler background;
 in colder months, you might get something interesting amidst the tit
 flocks.
 
+<figure class="figure">
+  <img
+    src="Barnes_WWT-eiders.png"
+    class="figure-img img-fluid rounded"
+    alt="On a miserable day, you may be thankful of the company of the eiders in the collection"/>
+  <figcaption class="figure-caption text-center">
+    On a miserable day, you may be thankful of the company of the eiders in the collection
+  </figcaption>
+</figure>
+
 My experience of the Wildside hide varies wildly. In Autumn and
 Winter, I mostly visit for completeness - there might be a Pintail or
 two at the far end of the reservoir pond. Sometimes a vagrant (Ring
@@ -119,6 +139,16 @@ that way unless you hang around 'til dusk and catch one in flight. The
 Tower is much better for spying on the wader scrape and the grazing
 marsh; if there are interesting waders on the sight they'll almost
 certainly be found from the Tower.
+
+<figure class="figure">
+  <img
+    src="Barnes_WWT-tower_hide_view.png"
+    class="figure-img img-fluid rounded"
+    alt="Tower hide view (on a quiet day)"/>
+  <figcaption class="figure-caption text-center">
+    Tower hide view (on a quiet day)
+  </figcaption>
+</figure>
 
 While you wait for something of interest to turn up, or for one of the
 professionals to find a Jack Snipe, two of the Tower's more fixed
