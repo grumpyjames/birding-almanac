@@ -230,7 +230,7 @@ with \
     feature_files = os.listdir("features/" + feature)
     feature_md_files = []
     for file in feature_files:
-      if file.endswith(".png"):
+      if file.endswith(".png") or file.endswith(".jpg"):
         src = 'features/' + feature + '/' + file
         shutil.copyfile(src, 'out/' + src)
       elif file.endswith(".md"):

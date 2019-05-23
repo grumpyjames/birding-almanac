@@ -133,6 +133,16 @@ pushes its way back into the anonymity of the reedbed. We escape
 before we have to explain to any newcomers what they've just missed
 and head towards the Peacock hide.
 
+<figure class="figure">
+  <img
+    src="02-phonescope_bittern.jpg"
+    class="figure-img img-fluid rounded"
+    alt="Blurry phonescoped bittern - they all count!"/>
+  <figcaption class="figure-caption text-center">
+    Blurry phonescoped bittern - they all count!
+  </figcaption>
+</figure>
+
 There have been reports of Water Pipit from here. I am doubly
 sceptical; firstly of my ability to discern this bird from other
 pipits, and secondly of its ability to stay within the parts of the
