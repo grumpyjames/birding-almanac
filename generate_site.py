@@ -11,7 +11,7 @@ def create_website(output, home, render_at_time):
   os.makedirs(output, exist_ok=True)
 
   for file in os.listdir("."):
-    if file.endswith(".png"):
+    if file.endswith(".png") or file.endswith(".ico"):
       shutil.copyfile(file, os.path.join(output, file))
 
   with \
