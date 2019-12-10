@@ -1,3 +1,7 @@
+---
+publish_time: 2020-01-08T00:00:00.000Z
+updated_time: 2020-01-08T00:00:00.000Z
+---
 ### Hertfordshire Hawfinches
 
 This week brings many reports of Hawfinches. Perhaps one or two might

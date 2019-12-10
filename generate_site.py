@@ -7,7 +7,7 @@ import sys
 from bs4 import BeautifulSoup
 
 
-def create_website(output, home):
+def create_website(output, home, render_at_time):
   os.makedirs(output, exist_ok=True)
 
   for file in os.listdir("."):
@@ -72,6 +72,15 @@ def create_website(output, home):
     def as_html(md_file):
       return md_file.split(".md")[0] + ".html"
 
+    def parse_metadata(metadata_dict):
+      from datetime import datetime
+      format = "%Y-%m-%dT%H:%M:%S.%fZ"
+
+      return {
+        "publish_time": datetime.strptime(metadata_dict["publish_time"][0], format),
+        "updated_time": datetime.strptime(metadata_dict["updated_time"][0], format)
+      }
+
     os.makedirs(os.path.join(output, "sites"), exist_ok=True)
     for filename in os.listdir("sites"):
       if filename.endswith(".md"):
@@ -88,13 +97,21 @@ def create_website(output, home):
     for (f, site_name) in sites_to_convert:
       with open(os.path.join("sites", f)) as site_file:
         site_markdown = site_file.read()
-        site_html = markdown.markdown(site_markdown)
-        soup = BeautifulSoup(site_html, features="html.parser")
-        sites_with_blurb.append({'name': site_name, 'blurb': soup.p.text})
+        md = markdown.Markdown(extensions = ['meta'])
+        site_html = md.convert(site_markdown)
+        # noinspection PyUnresolvedReferences
+        metadata = parse_metadata(md.Meta)
+        if metadata["publish_time"] < render_at_time:
+          soup = BeautifulSoup(site_html, features="html.parser")
+          sites_with_blurb.append({
+            'name': site_name,
+            'blurb': soup.p.text,
+            'metadata': metadata
+          })
 
-        full_page_html = render_content(site_html, "")
-        with open(os.path.join(output, "sites", site_name + ".html"), "w+") as file_output:
-          file_output.write(full_page_html)
+          full_page_html = render_content(site_html, "")
+          with open(os.path.join(output, "sites", site_name + ".html"), "w+") as file_output:
+            file_output.write(full_page_html)
 
     cells = ""
     for (site) in sites_with_blurb:
@@ -138,30 +155,36 @@ def create_website(output, home):
       feature_md_files.sort()
       for index, file in enumerate(feature_md_files):
         with open("features/" + feature + "/" + file) as feature_file:
-          feature_html = markdown.markdown(feature_file.read())
+          md = markdown.Markdown(extensions = ['meta'])
+          feature_html = md.convert(feature_file.read())
+          # noinspection PyUnresolvedReferences
+          feature_metadata = parse_metadata(md.Meta)
+          if feature_metadata["publish_time"] < render_at_time:
+            soup = BeautifulSoup(feature_html, features="html.parser")
 
-          soup = BeautifulSoup(feature_html, features="html.parser")
+            features_with_blurb.append({
+              'url': as_html(file),
+              'name': (str(index + 1) + ": " + soup.h3.text),
+              'blurb': soup.p.text,
+              'metadata': feature_metadata
+            })
 
-          features_with_blurb.append({
-            'url': as_html(file),
-            'name': (str(index + 1) + ": " + soup.h3.text),
-            'blurb': soup.p.text
-          })
+            nav = []
+            if index > 0:
+              prev_file_link = as_html(feature_md_files[index - 1])
+              nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
+            if index + 1 < len(feature_md_files):
+              next_file_link = as_html(feature_md_files[index + 1])
+              nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
+            content_nav = "".join(nav)
+            full_page_html = render_content(feature_html, content_nav)
 
-          nav = []
-          if index > 0:
-            prev_file_link = as_html(feature_md_files[index - 1])
-            nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
-          if index + 1 < len(feature_md_files):
-            next_file_link = as_html(feature_md_files[index + 1])
-            nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
-          content_nav = "".join(nav)
-          full_page_html = render_content(feature_html, content_nav)
+            out_path = os.path.join(output, "features/" + feature + "/" + as_html(file))
+            with open(out_path, "w+") as file_output:
+              file_output.write(full_page_html)
 
-          out_path = os.path.join(output, "features/" + feature + "/" + as_html(file))
-          with open(out_path, "w+") as file_output:
-            file_output.write(full_page_html)
       feature_index_html = ""
+
       for f_w_b in features_with_blurb:
         feature_index_html += render_cell(
           f_w_b["name"],
@@ -289,4 +312,6 @@ excellent rarities, particularly during fall passage.</p>
 
 output = sys.argv[1]
 
-create_website(output, home)
+from datetime import datetime
+
+create_website(output, home, datetime.now())

@@ -1,3 +1,7 @@
+---
+publish_time: 2020-01-15T00:00:00.000Z
+updated_time: 2020-01-15T00:00:00.000Z
+---
 ### An unexpected little bunting
 
 This week's "please stay there until the weekend" report is a Little
