@@ -3,11 +3,184 @@ import os
 import markdown
 import pystache
 import shutil
+import sys
 from bs4 import BeautifulSoup
 
 
-def as_html(md_file):
-  return md_file.split(".md")[0] + ".html"
+def create_website(output, home):
+  os.makedirs(output, exist_ok=True)
+
+  for file in os.listdir("."):
+    if file.endswith(".png"):
+      shutil.copyfile(file, os.path.join(output, file))
+
+  with \
+      open("page.mustache") as f, \
+      open("content.mustache") as c, \
+      open("front_page_item.mustache") as fpi, \
+      open("feature_cell.mustache") as fc, \
+      open('by_name_cell.mustache') as cell:
+    page_template = f.read()
+    content_template = c.read()
+    cell_template = cell.read()
+    fpi_template = fpi.read()
+    fc_template = fc.read()
+
+    sites_to_convert = []
+
+
+    def render_page(page_html):
+      return pystache.render(
+        page_template,
+        {
+          'content': page_html
+        }
+      )
+
+
+    def render_content(content_html, content_nav):
+      page_html = pystache.render(
+        content_template,
+        {
+          'main-content': content_html,
+          'content-nav': content_nav
+        }
+      )
+      return render_page(page_html)
+
+
+    def render_cell(title, url, blurb):
+      return pystache.render(
+        cell_template,
+        {
+          'site_name': title,
+          'site_url': url,
+          'short_site_description': blurb
+        }
+      )
+
+    def render_feature(name, url, blurb_html):
+      return pystache.render(
+        fc_template,
+        {
+          'feature_url': url,
+          'feature_name': name,
+          'feature_description': blurb_html
+        }
+      )
+
+    def as_html(md_file):
+      return md_file.split(".md")[0] + ".html"
+
+    os.makedirs(os.path.join(output, "sites"), exist_ok=True)
+    for filename in os.listdir("sites"):
+      if filename.endswith(".md"):
+        sites_to_convert.append((filename, filename.split(".")[0]))
+      elif filename.endswith(".png"):
+        shutil.copyfile("sites/" + filename, os.path.join(output, "sites/" + filename))
+
+    with open("about.mustache") as about:
+      about_html = render_page(about.read())
+      with open(os.path.join(output, "about.html"), "w+") as out:
+        out.write(about_html)
+
+    sites_with_blurb = []
+    for (f, site_name) in sites_to_convert:
+      with open(os.path.join("sites", f)) as site_file:
+        site_markdown = site_file.read()
+        site_html = markdown.markdown(site_markdown)
+        soup = BeautifulSoup(site_html, features="html.parser")
+        sites_with_blurb.append({'name': site_name, 'blurb': soup.p.text})
+
+        full_page_html = render_content(site_html, "")
+        with open(os.path.join(output, "sites", site_name + ".html"), "w+") as file_output:
+          file_output.write(full_page_html)
+
+    cells = ""
+    for (site) in sites_with_blurb:
+      cells += render_cell(
+        site["name"].replace("_", " "),
+        site["name"] + '.html',
+        site["blurb"])
+
+    with open(os.path.join(output, 'sites/index.html'), "w+") as list_index:
+      cells = "<div class=\"row\">" + cells + "</div>"
+      list_index.write(
+        render_page(cells)
+      )
+
+    feature_cells = render_feature(
+      "A 200 Bird Year?",
+      "/features/a-200-bird-year",
+      """
+      <p>A journal of an attempt at a 200 bird year</p>
+      """
+    )
+
+    os.makedirs(os.path.join(output, "features"), exist_ok=True)
+    with open(os.path.join(output, 'features/index.html'), "w+") as features_index:
+      feature_cells = "<div class=\"row\">" + feature_cells + "</div>"
+      features_index.write(render_page(feature_cells))
+
+    features = os.listdir("features")
+    for feature in features:
+      features_with_blurb = []
+      os.makedirs(os.path.join(output, "features/" + feature), exist_ok=True)
+      feature_files = os.listdir("features/" + feature)
+      feature_md_files = []
+      for file in feature_files:
+        if file.endswith(".png") or file.endswith(".jpg"):
+          src = 'features/' + feature + '/' + file
+          shutil.copyfile(src, os.path.join(output, src))
+        elif file.endswith(".md"):
+          feature_md_files.append(file)
+
+      feature_md_files.sort()
+      for index, file in enumerate(feature_md_files):
+        with open("features/" + feature + "/" + file) as feature_file:
+          feature_html = markdown.markdown(feature_file.read())
+
+          soup = BeautifulSoup(feature_html, features="html.parser")
+
+          features_with_blurb.append({
+            'url': as_html(file),
+            'name': (str(index + 1) + ": " + soup.h3.text),
+            'blurb': soup.p.text
+          })
+
+          nav = []
+          if index > 0:
+            prev_file_link = as_html(feature_md_files[index - 1])
+            nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
+          if index + 1 < len(feature_md_files):
+            next_file_link = as_html(feature_md_files[index + 1])
+            nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
+          content_nav = "".join(nav)
+          full_page_html = render_content(feature_html, content_nav)
+
+          out_path = os.path.join(output, "features/" + feature + "/" + as_html(file))
+          with open(out_path, "w+") as file_output:
+            file_output.write(full_page_html)
+      feature_index_html = ""
+      for f_w_b in features_with_blurb:
+        feature_index_html += render_cell(
+          f_w_b["name"],
+          f_w_b["url"],
+          f_w_b["blurb"]
+        )
+      with open(os.path.join(output, "features/" + feature + "/index.html"), "w+") as feature_index:
+        cells = "<div class=\"row\">" + feature_index_html + "</div>"
+        feature_index.write(render_page(cells))
+
+    home_items = ""
+    for index, item in enumerate(home):
+      if index > 0:
+        home_items += "<hr/>"
+      home_items += pystache.render(fpi_template, item)
+
+    index_html = render_page(home_items)
+    with open(os.path.join(output, "index.html"), "+w") as index_file:
+      index_file.write(index_html)
 
 
 def site_guide_item(
@@ -68,7 +241,6 @@ Scroll down for links to our most recently updated pages.</p>
     """,
   }
 
-
 home = [
   welcome_item(),
   feature_item(
@@ -115,170 +287,6 @@ excellent rarities, particularly during fall passage.</p>
   )
 ]
 
-os.makedirs("out", exist_ok=True)
-for file in os.listdir("."):
-  if file.endswith(".png"):
-    shutil.copyfile(file, "out/" + file)
+output = sys.argv[1]
 
-with \
-    open("page.mustache") as f, \
-    open("content.mustache") as c, \
-    open("front_page_item.mustache") as fpi, \
-    open("feature_cell.mustache") as fc, \
-    open('by_name_cell.mustache') as cell:
-  page_template = f.read()
-  content_template = c.read()
-  cell_template = cell.read()
-  fpi_template = fpi.read()
-  fc_template = fc.read()
-
-  sites_to_convert = []
-
-
-  def render_page(page_html):
-    return pystache.render(
-      page_template,
-      {
-        'content': page_html
-      }
-    )
-
-
-  def render_content(content_html, content_nav):
-    page_html = pystache.render(
-      content_template,
-      {
-        'main-content': content_html,
-        'content-nav': content_nav
-      }
-    )
-    return render_page(page_html)
-
-
-  def render_cell(title, url, blurb):
-    return pystache.render(
-      cell_template,
-      {
-        'site_name': title,
-        'site_url': url,
-        'short_site_description': blurb
-      }
-    )
-
-  def render_feature(name, url, blurb_html):
-    return pystache.render(
-      fc_template,
-      {
-        'feature_url': url,
-        'feature_name': name,
-        'feature_description': blurb_html
-      }
-    )
-
-  for filename in os.listdir("sites"):
-    if filename.endswith(".md"):
-      sites_to_convert.append((filename, filename.split(".")[0]))
-    elif filename.endswith(".png"):
-      shutil.copyfile("sites/" + filename, "out/sites/" + filename)
-
-  with open("about.mustache") as about:
-    about_html = render_page(about.read())
-    with open(os.path.join("out", "about.html"), "w+") as out:
-      out.write(about_html)
-
-  sites_with_blurb = []
-  for (f, site_name) in sites_to_convert:
-    with open(os.path.join("sites", f)) as site_file:
-      site_markdown = site_file.read()
-      site_html = markdown.markdown(site_markdown)
-      soup = BeautifulSoup(site_html, features="html.parser")
-      sites_with_blurb.append({'name': site_name, 'blurb': soup.p.text})
-
-      full_page_html = render_content(site_html, "")
-      with open(os.path.join("out/sites", site_name + ".html"), "w+") as output:
-        output.write(full_page_html)
-
-  cells = ""
-  for (site) in sites_with_blurb:
-    cells += render_cell(
-      site["name"].replace("_", " "),
-      site["name"] + '.html',
-      site["blurb"])
-
-  with open('out/sites/index.html', "w+") as list_index:
-    cells = "<div class=\"row\">" + cells + "</div>"
-    list_index.write(
-      render_page(cells)
-    )
-
-  feature_cells = render_feature(
-    "A 200 Bird Year?",
-    "/features/a-200-bird-year",
-    """
-    <p>A journal of an attempt at a 200 bird year</p>
-    """
-  )
-
-  with open('out/features/index.html', "w+") as features_index:
-    feature_cells = "<div class=\"row\">" + feature_cells + "</div>"
-    features_index.write(render_page(feature_cells))
-
-  features = os.listdir("features")
-  for feature in features:
-    features_with_blurb = []
-    os.makedirs("out/features/" + feature, exist_ok=True)
-    feature_files = os.listdir("features/" + feature)
-    feature_md_files = []
-    for file in feature_files:
-      if file.endswith(".png") or file.endswith(".jpg"):
-        src = 'features/' + feature + '/' + file
-        shutil.copyfile(src, 'out/' + src)
-      elif file.endswith(".md"):
-        feature_md_files.append(file)
-
-    feature_md_files.sort()
-    for index, file in enumerate(feature_md_files):
-      with open("features/" + feature + "/" + file) as feature_file:
-        feature_html = markdown.markdown(feature_file.read())
-
-        soup = BeautifulSoup(feature_html, features="html.parser")
-
-        features_with_blurb.append({
-          'url': as_html(file),
-          'name': (str(index + 1) + ": " + soup.h3.text),
-          'blurb': soup.p.text
-        })
-
-        nav = []
-        if index > 0:
-          prev_file_link = as_html(feature_md_files[index - 1])
-          nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
-        if index + 1 < len(feature_md_files):
-          next_file_link = as_html(feature_md_files[index + 1])
-          nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
-        content_nav = "".join(nav)
-        full_page_html = render_content(feature_html, content_nav)
-
-        out_path = "out/features/" + feature + "/" + as_html(file)
-        with open(out_path, "w+") as output:
-          output.write(full_page_html)
-    feature_index_html = ""
-    for f_w_b in features_with_blurb:
-      feature_index_html += render_cell(
-        f_w_b["name"],
-        f_w_b["url"],
-        f_w_b["blurb"]
-      )
-    with open("out/features/" + feature + "/index.html", "w+") as feature_index:
-      cells = "<div class=\"row\">" + feature_index_html + "</div>"
-      feature_index.write(render_page(cells))
-
-  home_items = ""
-  for index, item in enumerate(home):
-    if index > 0:
-      home_items += "<hr/>"
-    home_items += pystache.render(fpi_template, item)
-
-  index_html = render_page(home_items)
-  with open("out/index.html", "+w") as index_file:
-    index_file.write(index_html)
+create_website(output, home)
