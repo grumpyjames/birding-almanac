@@ -310,8 +310,11 @@ excellent rarities, particularly during fall passage.</p>
   )
 ]
 
-output = sys.argv[1]
-
 from datetime import datetime
+output = sys.argv[1]
+if len(sys.argv) > 2:
+  render_at_time = datetime.strptime(sys.argv[2], "%Y-%m-%dT%H:%M:%S.%fZ")
+else:
+  render_at_time = datetime.now()
 
-create_website(output, home, datetime.now())
+create_website(output, home, render_at_time)
