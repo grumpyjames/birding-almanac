@@ -1,5 +1,6 @@
 import os
 
+from datetime import datetime
 import markdown
 import pystache
 import shutil
@@ -73,7 +74,6 @@ def create_website(output, home, render_at_time):
       return md_file.split(".md")[0] + ".html"
 
     def parse_metadata(metadata_dict):
-      from datetime import datetime
       format = "%Y-%m-%dT%H:%M:%S.%fZ"
 
       return {
@@ -225,6 +225,7 @@ def create_website(output, home, render_at_time):
     def convert(index, item):
       def feature_item(
           even,
+          publish_time,
           feature_name,
           feature_path,
           feature_item_title,
@@ -242,10 +243,13 @@ def create_website(output, home, render_at_time):
           'item-title': feature_item_title,
           'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
           'blurb': blurb,
+          'date': datetime.strftime(publish_time, "%B %-d, %Y"),
+          'time': datetime.strftime(publish_time, "%H:%M")
         }
 
       def site_guide_item(
           even,
+          publish_time,
           site_name,
           site_path,
           blurb
@@ -261,18 +265,22 @@ def create_website(output, home, render_at_time):
           'item-title': site_name,
           'image': '/sites/' + site_path + '-thumb.png',
           'blurb': blurb,
+          'date': datetime.strftime(publish_time, "%B %-d, %Y"),
+          'time': datetime.strftime(publish_time, "%H:%M")
         }
 
       even = index % 2 != 0
       if item["type"] == "site":
         return site_guide_item(
           even,
+          item["publish_time"],
           item["site_name"],
           item["site_path"],
           item["blurb"])
       elif item["type"] == "feature":
         return feature_item(
           even,
+          item["publish_time"],
           item["feature_title"],
           item["feature_path"],
           item["feature_item_title"],
@@ -307,13 +315,14 @@ def welcome_item():
 Our <a href="features/">features</a>, in particular, <a href="features/a-200-bird-year">a 200 bird year?</a> offer a birding distraction. 
 Scroll down for links to our most recently updated pages.</p>    
     """,
+    'date': "December 15, 2019",
+    'time': "19:48"
   }
 
 home = [
   welcome_item()
 ]
 
-from datetime import datetime
 output = sys.argv[1]
 if len(sys.argv) > 2:
   render_at_time = datetime.strptime(sys.argv[2], "%Y-%m-%dT%H:%M:%S.%fZ")

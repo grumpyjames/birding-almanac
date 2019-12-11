@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-01-02T00:00:00.000Z
-updated_time: 2020-01-02T00:00:00.000Z
+publish_time: 2020-01-02T11:14:00.000Z
+updated_time: 2020-01-02T11:14:00.000Z
 title: Part 02: A False Start
 ---
 ### A false start
