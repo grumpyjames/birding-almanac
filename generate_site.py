@@ -106,7 +106,8 @@ def create_website(output, home, render_at_time):
           sites_with_blurb.append({
             'name': site_name,
             'blurb': soup.p.text,
-            'metadata': metadata,
+            'publish_time': metadata["publish_time"],
+            'updated_time': metadata["updated_time"],
             'type': 'site',
             'site_name': site_name.replace("_", " "),
             'site_path': site_name
@@ -176,7 +177,8 @@ def create_website(output, home, render_at_time):
               'url': as_html(file),
               'name': (str(index + 1) + ": " + soup.h3.text),
               'blurb': soup.p.text,
-              'metadata': feature_metadata,
+              'publish_time': feature_metadata["publish_time"],
+              'updated_time': feature_metadata["updated_time"],
               'type': 'feature',
               'feature_path': feature,
               'feature_title': feature_title,
@@ -214,7 +216,7 @@ def create_website(output, home, render_at_time):
     front_page = []
     front_page.extend(all_features_with_blurb)
     front_page.extend(sites_with_blurb)
-    front_page = sorted(front_page, key=lambda item: item["metadata"]["publish_time"], reverse=True)
+    front_page = sorted(front_page, key=lambda item: item["publish_time"], reverse=True)
 
     home_items = ""
     for index, item in enumerate(home):
