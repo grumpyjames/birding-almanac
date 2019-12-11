@@ -67,11 +67,11 @@ class TemplateRenderer:
 
 
 def parse_metadata(metadata_dict):
-  format = "%Y-%m-%dT%H:%M:%S.%fZ"
+  date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
 
   return {
-    "publish_time": datetime.strptime(metadata_dict["publish_time"][0], format),
-    "updated_time": datetime.strptime(metadata_dict["updated_time"][0], format)
+    "publish_time": datetime.strptime(metadata_dict["publish_time"][0], date_format),
+    "updated_time": datetime.strptime(metadata_dict["updated_time"][0], date_format)
   }
 
 def create_website(output, home, render_at_time):
@@ -112,83 +112,45 @@ def about_page(templating, output):
       out.write(about_html)
 
 def front_page(templating, home, all_feature_items, sites_with_blurb, output):
-  front_page = []
-  front_page.extend(all_feature_items)
-  front_page.extend(sites_with_blurb)
-  front_page = sorted(front_page, key=lambda item: item["publish_time"], reverse=True)
+  front_page_items = []
+  front_page_items.extend(all_feature_items)
+  front_page_items.extend(sites_with_blurb)
+  front_page_items = sorted(front_page_items, key=lambda item: item["publish_time"], reverse=True)
   home_items = ""
   for index, item in enumerate(home):
     home_items += templating.render_front_page_item(item)
 
-  def feature_item(
-      even,
-      publish_time,
-      feature_name,
-      feature_path,
-      feature_item_title,
-      feature_item_path,
-      blurb,
-  ):
-    row_class = 'left' if even else 'right'
-    img_class = 'float-right' if even else 'float-left'
-    return {
-      'row-class': row_class,
-      'img-class': img_class,
-      'index-link': '/features/' + feature_path + '/index.html',
-      'index-title': feature_name,
-      'item-link': '/features/' + feature_path + '/' + feature_item_path + '.html',
-      'item-title': feature_item_title,
-      'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
-      'blurb': blurb,
-      'date': datetime.strftime(publish_time, "%B %-d, %Y"),
-      'time': datetime.strftime(publish_time, "%H:%M")
-    }
-
-  def site_guide_item(
-      even,
-      publish_time,
-      site_name,
-      site_path,
-      blurb
-  ):
-    row_class = 'left' if even else 'right'
-    img_class = 'float-right' if even else 'float-left'
-    return {
-      'row-class': row_class,
-      'img-class': img_class,
-      'index-link': '/sites/index.html',
-      'index-title': 'Site Guides',
-      'item-link': '/sites/' + site_path + '.html',
-      'item-title': site_name,
-      'image': '/sites/' + site_path + '-thumb.png',
-      'blurb': blurb,
-      'date': datetime.strftime(publish_time, "%B %-d, %Y"),
-      'time': datetime.strftime(publish_time, "%H:%M")
-    }
-
   def convert(index, item):
     even = index % 2 != 0
+    common = {
+      'row-class': ('left' if even else 'right'),
+      'img-class': ('float-right' if even else 'float-left'),
+      'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
+      'time': datetime.strftime(item["publish_time"], "%H:%M"),
+      'blurb': item["blurb"]
+    }
+
     if item["type"] == "site":
-      return site_guide_item(
-        even,
-        item["publish_time"],
-        item["site_name"],
-        item["site_path"],
-        item["blurb"])
+      custom = {
+        'index-link': '/sites/index.html',
+        'index-title': 'Site Guides',
+        'item-link': '/sites/' + item["site_path"] + '.html',
+        'item-title': item["site_name"],
+        'image': '/sites/' + item["site_path"] + '-thumb.png',
+      }
     elif item["type"] == "feature":
-      return feature_item(
-        even,
-        item["publish_time"],
-        item["feature_title"],
-        item["feature_path"],
-        item["feature_item_title"],
-        item["feature_item_path"],
-        item["blurb"]
-      )
+      custom = {
+        'index-link': '/features/' + item["feature_path"] + '/index.html',
+        'index-title': item["feature_title"],
+        'item-link': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '.html',
+        'item-title': item["feature_item_title"],
+        'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
+      }
     else:
       raise ("Unknown item type: " + item["type"])
+    return  {**common, **custom}
 
-  for (index, f) in enumerate(front_page):
+  for (index, f) in enumerate(front_page_items):
     home_items += "<hr/>"
     front_page_item = convert(index, f)
     home_items += templating.render_front_page_item(front_page_item)
