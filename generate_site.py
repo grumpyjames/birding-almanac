@@ -75,12 +75,6 @@ def parse_metadata(metadata_dict):
   }
 
 def create_website(output, home, render_at_time):
-  os.makedirs(output, exist_ok=True)
-
-  for file in os.listdir("."):
-    if file.endswith(".png") or file.endswith(".ico"):
-      shutil.copyfile(file, os.path.join(output, file))
-
   with \
       open("page.mustache") as f, \
       open("content.mustache") as c, \
@@ -95,66 +89,169 @@ def create_website(output, home, render_at_time):
       fc.read()
     )
 
-  sites_to_convert = []
+  os.makedirs(output, exist_ok=True)
+  copy_images(output)
+  about_page(templating, output)
+  sites_with_blurb = []
+  sites(templating, render_at_time, output, sites_with_blurb)
+  all_feature_items = []
+  features(templating, render_at_time, output, all_feature_items)
+  front_page(templating, home, all_feature_items, sites_with_blurb, output)
+
+
+def copy_images(output):
+  for file in os.listdir("."):
+    if file.endswith(".png") or file.endswith(".ico"):
+      shutil.copyfile(file, os.path.join(output, file))
+
+
+def about_page(templating, output):
+  with open("about.mustache") as about:
+    about_html = templating.render_page(about.read())
+    with open(os.path.join(output, "about.html"), "w+") as out:
+      out.write(about_html)
+
+def front_page(templating, home, all_feature_items, sites_with_blurb, output):
+  front_page = []
+  front_page.extend(all_feature_items)
+  front_page.extend(sites_with_blurb)
+  front_page = sorted(front_page, key=lambda item: item["publish_time"], reverse=True)
+  home_items = ""
+  for index, item in enumerate(home):
+    home_items += templating.render_front_page_item(item)
+
+  def feature_item(
+      even,
+      publish_time,
+      feature_name,
+      feature_path,
+      feature_item_title,
+      feature_item_path,
+      blurb,
+  ):
+    row_class = 'left' if even else 'right'
+    img_class = 'float-right' if even else 'float-left'
+    return {
+      'row-class': row_class,
+      'img-class': img_class,
+      'index-link': '/features/' + feature_path + '/index.html',
+      'index-title': feature_name,
+      'item-link': '/features/' + feature_path + '/' + feature_item_path + '.html',
+      'item-title': feature_item_title,
+      'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
+      'blurb': blurb,
+      'date': datetime.strftime(publish_time, "%B %-d, %Y"),
+      'time': datetime.strftime(publish_time, "%H:%M")
+    }
+
+  def site_guide_item(
+      even,
+      publish_time,
+      site_name,
+      site_path,
+      blurb
+  ):
+    row_class = 'left' if even else 'right'
+    img_class = 'float-right' if even else 'float-left'
+    return {
+      'row-class': row_class,
+      'img-class': img_class,
+      'index-link': '/sites/index.html',
+      'index-title': 'Site Guides',
+      'item-link': '/sites/' + site_path + '.html',
+      'item-title': site_name,
+      'image': '/sites/' + site_path + '-thumb.png',
+      'blurb': blurb,
+      'date': datetime.strftime(publish_time, "%B %-d, %Y"),
+      'time': datetime.strftime(publish_time, "%H:%M")
+    }
+
+  def convert(index, item):
+    even = index % 2 != 0
+    if item["type"] == "site":
+      return site_guide_item(
+        even,
+        item["publish_time"],
+        item["site_name"],
+        item["site_path"],
+        item["blurb"])
+    elif item["type"] == "feature":
+      return feature_item(
+        even,
+        item["publish_time"],
+        item["feature_title"],
+        item["feature_path"],
+        item["feature_item_title"],
+        item["feature_item_path"],
+        item["blurb"]
+      )
+    else:
+      raise ("Unknown item type: " + item["type"])
+
+  for (index, f) in enumerate(front_page):
+    home_items += "<hr/>"
+    front_page_item = convert(index, f)
+    home_items += templating.render_front_page_item(front_page_item)
+  index_html = templating.render_page(home_items)
+  with open(os.path.join(output, "index.html"), "+w") as index_file:
+    index_file.write(index_html)
+
+
+def features(
+    templating,
+    render_at_time,
+    output,
+    all_feature_items):
+
+  feature_cells = []
 
   def as_html(md_file):
-    return md_file.split(".md")[0] + ".html"
+    return md_file.rstrip(".md") + ".html"
 
-  def about_page(output, templating):
-    with open("about.mustache") as about:
-      about_html = templating.render_page(about.read())
-      with open(os.path.join(output, "about.html"), "w+") as out:
-        out.write(about_html)
-
-  about_page(output, templating)
-
-  sites_with_blurb = []
-
-  sites(templating, sites_to_convert, render_at_time, output, sites_with_blurb)
-
-  feature_cells = templating.render_feature(
-    "A 200 Bird Year?",
-    "/features/a-200-bird-year",
-    """
-    <p>A journal of an attempt at a 200 bird year</p>
-    """
-  )
+  def about_feature(path_to_feature):
+    with open(path_to_feature + '/about.md') as about_feature:
+      md = markdown.Markdown(extensions=['meta'])
+      feature_blurb = md.convert(about_feature.read())
+      # noinspection PyUnresolvedReferences
+      feature_title = md.Meta["feature_title"][0]
+      feature_cells.append(templating.render_feature(
+        feature_title,
+        "/" + path_to_feature,
+        feature_blurb
+      ))
+    return feature_title
 
   os.makedirs(os.path.join(output, "features"), exist_ok=True)
-  with open(os.path.join(output, 'features/index.html'), "w+") as features_index:
-    feature_cells = "<div class=\"row\">" + feature_cells + "</div>"
-    features_index.write(templating.render_page(feature_cells))
 
-  features = os.listdir("features")
-  all_features_with_blurb = []
-  for feature in features:
-    features_with_blurb = []
-    os.makedirs(os.path.join(output, "features/" + feature), exist_ok=True)
-    feature_files = os.listdir("features/" + feature)
+  feature_dir = os.listdir("features")
+  for feature in feature_dir:
+    feature_path = 'features/' + feature
+
+    feature_title = about_feature(feature_path)
+
+    feature_items = []
+    os.makedirs(os.path.join(output, feature_path), exist_ok=True)
+    feature_files = os.listdir(feature_path)
     feature_md_files = []
     for file in feature_files:
       if file.endswith(".png") or file.endswith(".jpg"):
-        src = 'features/' + feature + '/' + file
+        src = feature_path + '/' + file
         shutil.copyfile(src, os.path.join(output, src))
       elif file.endswith(".md") and file != "about.md":
         feature_md_files.append(file)
 
-    with open('features/' + feature + '/about.md') as about_feature:
-      md = markdown.Markdown(extensions = ['meta'])
-      md.convert(about_feature.read())
-      feature_title = md.Meta["feature_title"][0]
-
     feature_md_files.sort()
     for index, file in enumerate(feature_md_files):
-      with open("features/" + feature + "/" + file) as feature_file:
-        md = markdown.Markdown(extensions = ['meta'])
+      with open(feature_path + "/" + file) as feature_file:
+        md = markdown.Markdown(extensions=['meta'])
         feature_html = md.convert(feature_file.read())
         # noinspection PyUnresolvedReferences
         feature_metadata = parse_metadata(md.Meta)
         if feature_metadata["publish_time"] < render_at_time:
           soup = BeautifulSoup(feature_html, features="html.parser")
 
-          features_with_blurb.append({
+          # noinspection PyUnresolvedReferences
+          feature_items.append({
             'url': as_html(file),
             'name': (str(index + 1) + ": " + soup.h3.text),
             'blurb': soup.p.text,
@@ -177,14 +274,15 @@ def create_website(output, home, render_at_time):
           content_nav = "".join(nav)
           full_page_html = templating.render_content(feature_html, content_nav)
 
-          out_path = os.path.join(output, "features/" + feature + "/" + as_html(file))
+          out_path = os.path.join(output, feature_path + "/" + as_html(file))
           with open(out_path, "w+") as file_output:
             file_output.write(full_page_html)
-    all_features_with_blurb.extend(features_with_blurb)
+
+    all_feature_items.extend(feature_items)
 
     feature_index_html = ""
 
-    for f_w_b in features_with_blurb:
+    for f_w_b in feature_items:
       feature_index_html += templating.render_cell(
         f_w_b["name"],
         f_w_b["url"],
@@ -193,101 +291,20 @@ def create_website(output, home, render_at_time):
     with open(os.path.join(output, "features/" + feature + "/index.html"), "w+") as feature_index:
       cells = "<div class=\"row\">" + feature_index_html + "</div>"
       feature_index.write(templating.render_page(cells))
-
-  front_page = []
-  front_page.extend(all_features_with_blurb)
-  front_page.extend(sites_with_blurb)
-  front_page = sorted(front_page, key=lambda item: item["publish_time"], reverse=True)
-
-  home_items = ""
-  for index, item in enumerate(home):
-    home_items += templating.render_front_page_item(item)
-
-  def convert(index, item):
-    def feature_item(
-        even,
-        publish_time,
-        feature_name,
-        feature_path,
-        feature_item_title,
-        feature_item_path,
-        blurb,
-    ):
-      row_class = 'left' if even else 'right'
-      img_class = 'float-right' if even else 'float-left'
-      return {
-        'row-class': row_class,
-        'img-class': img_class,
-        'index-link': '/features/' + feature_path + '/index.html',
-        'index-title': feature_name,
-        'item-link': '/features/' + feature_path + '/' + feature_item_path + '.html',
-        'item-title': feature_item_title,
-        'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
-        'blurb': blurb,
-        'date': datetime.strftime(publish_time, "%B %-d, %Y"),
-        'time': datetime.strftime(publish_time, "%H:%M")
-      }
-
-    def site_guide_item(
-        even,
-        publish_time,
-        site_name,
-        site_path,
-        blurb
-    ):
-      row_class = 'left' if even else 'right'
-      img_class = 'float-right' if even else 'float-left'
-      return {
-        'row-class': row_class,
-        'img-class': img_class,
-        'index-link': '/sites/index.html',
-        'index-title': 'Site Guides',
-        'item-link': '/sites/' + site_path + '.html',
-        'item-title': site_name,
-        'image': '/sites/' + site_path + '-thumb.png',
-        'blurb': blurb,
-        'date': datetime.strftime(publish_time, "%B %-d, %Y"),
-        'time': datetime.strftime(publish_time, "%H:%M")
-      }
-
-    even = index % 2 != 0
-    if item["type"] == "site":
-      return site_guide_item(
-        even,
-        item["publish_time"],
-        item["site_name"],
-        item["site_path"],
-        item["blurb"])
-    elif item["type"] == "feature":
-      return feature_item(
-        even,
-        item["publish_time"],
-        item["feature_title"],
-        item["feature_path"],
-        item["feature_item_title"],
-        item["feature_item_path"],
-        item["blurb"]
-      )
-    else:
-      raise("Unknown item type: " + item["type"])
-
-  for (index, f) in enumerate(front_page):
-    home_items += "<hr/>"
-    front_page_item = convert(index, f)
-    home_items += templating.render_front_page_item(front_page_item)
-
-  index_html = templating.render_page(home_items)
-  with open(os.path.join(output, "index.html"), "+w") as index_file:
-    index_file.write(index_html)
+  with open(os.path.join(output, 'features/index.html'), "w+") as features_index:
+    feature_rows = ("<div class=\"row\">" + feature_cell + "</div>" for feature_cell in feature_cells)
+    features_index.write(templating.render_page("".join(feature_rows)))
 
 
 def sites(
     templating,
-    sites_to_convert,
     render_at_time,
     output,
     sites_with_blurb):
   os.makedirs(os.path.join(output, "sites"), exist_ok=True)
+
+  sites_to_convert = []
+
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
       sites_to_convert.append((filename, filename.split(".")[0]))
