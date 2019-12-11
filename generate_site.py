@@ -106,7 +106,10 @@ def create_website(output, home, render_at_time):
           sites_with_blurb.append({
             'name': site_name,
             'blurb': soup.p.text,
-            'metadata': metadata
+            'metadata': metadata,
+            'type': 'site',
+            'site_name': site_name.replace("_", " "),
+            'site_path': site_name
           })
 
           full_page_html = render_content(site_html, "")
@@ -140,6 +143,7 @@ def create_website(output, home, render_at_time):
       features_index.write(render_page(feature_cells))
 
     features = os.listdir("features")
+    all_features_with_blurb = []
     for feature in features:
       features_with_blurb = []
       os.makedirs(os.path.join(output, "features/" + feature), exist_ok=True)
@@ -149,8 +153,14 @@ def create_website(output, home, render_at_time):
         if file.endswith(".png") or file.endswith(".jpg"):
           src = 'features/' + feature + '/' + file
           shutil.copyfile(src, os.path.join(output, src))
-        elif file.endswith(".md"):
+        elif file.endswith(".md") and file != "about.md":
           feature_md_files.append(file)
+
+      feature_title = None
+      with open('features/' + feature + '/about.md') as about_feature:
+        md = markdown.Markdown(extensions = ['meta'])
+        md.convert(about_feature.read())
+        feature_title = md.Meta["feature_title"][0]
 
       feature_md_files.sort()
       for index, file in enumerate(feature_md_files):
@@ -166,7 +176,12 @@ def create_website(output, home, render_at_time):
               'url': as_html(file),
               'name': (str(index + 1) + ": " + soup.h3.text),
               'blurb': soup.p.text,
-              'metadata': feature_metadata
+              'metadata': feature_metadata,
+              'type': 'feature',
+              'feature_path': feature,
+              'feature_title': feature_title,
+              'feature_item_path': file.rstrip(".md"),
+              'feature_item_title': md.Meta["title"][0]
             })
 
             nav = []
@@ -182,6 +197,7 @@ def create_website(output, home, render_at_time):
             out_path = os.path.join(output, "features/" + feature + "/" + as_html(file))
             with open(out_path, "w+") as file_output:
               file_output.write(full_page_html)
+      all_features_with_blurb.extend(features_with_blurb)
 
       feature_index_html = ""
 
@@ -195,57 +211,84 @@ def create_website(output, home, render_at_time):
         cells = "<div class=\"row\">" + feature_index_html + "</div>"
         feature_index.write(render_page(cells))
 
+    front_page = []
+    front_page.extend(all_features_with_blurb)
+    front_page.extend(sites_with_blurb)
+    front_page = sorted(front_page, key=lambda item: item["metadata"]["publish_time"], reverse=True)
+
     home_items = ""
     for index, item in enumerate(home):
-      if index > 0:
-        home_items += "<hr/>"
       home_items += pystache.render(fpi_template, item)
+
+    def convert(index, item):
+      def feature_item(
+          even,
+          feature_name,
+          feature_path,
+          feature_item_title,
+          feature_item_path,
+          blurb,
+      ):
+        row_class = 'left' if even else 'right'
+        img_class = 'float-right' if even else 'float-left'
+        return {
+          'row-class': row_class,
+          'img-class': img_class,
+          'index-link': '/features/' + feature_path + '/index.html',
+          'index-title': feature_name,
+          'item-link': '/features/' + feature_path + '/' + feature_item_path + '.html',
+          'item-title': feature_item_title,
+          'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
+          'blurb': blurb,
+        }
+
+      def site_guide_item(
+          even,
+          site_name,
+          site_path,
+          blurb
+      ):
+        row_class = 'left' if even else 'right'
+        img_class = 'float-right' if even else 'float-left'
+        return {
+          'row-class': row_class,
+          'img-class': img_class,
+          'index-link': '/sites/index.html',
+          'index-title': 'Site Guides',
+          'item-link': '/sites/' + site_path + '.html',
+          'item-title': site_name,
+          'image': '/sites/' + site_path + '-thumb.png',
+          'blurb': blurb,
+        }
+
+      even = index % 2 != 0
+      if item["type"] == "site":
+        return site_guide_item(
+          even,
+          item["site_name"],
+          item["site_path"],
+          item["blurb"])
+      elif item["type"] == "feature":
+        return feature_item(
+          even,
+          item["feature_title"],
+          item["feature_path"],
+          item["feature_item_title"],
+          item["feature_item_path"],
+          item["blurb"]
+        )
+      else:
+        raise("Unknown item type: " + item["type"])
+
+    for (index, f) in enumerate(front_page):
+      home_items += "<hr/>"
+      front_page_item = convert(index, f)
+      home_items += pystache.render(fpi_template, front_page_item)
 
     index_html = render_page(home_items)
     with open(os.path.join(output, "index.html"), "+w") as index_file:
       index_file.write(index_html)
 
-
-def site_guide_item(
-    even,
-    site_name,
-    site_path,
-    blurb
-):
-  row_class = 'left' if even else 'right'
-  img_class = 'float-right' if even else 'float-left'
-  return {
-    'row-class': row_class,
-    'img-class': img_class,
-    'index-link': '/sites/index.html',
-    'index-title': 'Site Guides',
-    'item-link': '/sites/' + site_path + '.html',
-    'item-title': site_name,
-    'image': '/sites/' + site_path + '-thumb.png',
-    'blurb': blurb,
-  }
-
-
-def feature_item(
-    even,
-    feature_name,
-    feature_path,
-    feature_item_title,
-    feature_item_path,
-    blurb,
-):
-  row_class = 'left' if even else 'right'
-  img_class = 'float-right' if even else 'float-left'
-  return {
-    'row-class': row_class,
-    'img-class': img_class,
-    'index-link': '/features/' + feature_path + '/index.html',
-    'index-title': feature_name,
-    'item-link': '/features/' + feature_path + '/' + feature_item_path + '.html',
-    'item-title': feature_item_title,
-    'image': '/features/' + feature_path + '/' + feature_item_path + '-thumb.png',
-    'blurb': blurb,
-  }
 
 def welcome_item():
   return {
@@ -265,49 +308,7 @@ Scroll down for links to our most recently updated pages.</p>
   }
 
 home = [
-  welcome_item(),
-  feature_item(
-    False,
-    "A 200 Bird Year?",
-    "a-200-bird-year",
-    "Part 2: A false start",
-    "part-02-a-false-start",
-    """
-    <p>Many birders are up bright and early on New Year's Day, eager to make
-a start on a new list.</p>
-    <p>The best laid plans of mice and men, however...</p>
-    """
-  ),
-  site_guide_item(
-    True,
-    "Oare Marshes",
-    "Oare_Marshes",
-    """
-    <p>Either Kent's worst or best kept secret; I'm not sure which.</p>
-    <p>Wader quality that verges on Slimbridge levels, and a habit of producing some
-excellent rarities, particularly during fall passage.</p>
-    """
-  ),
-  feature_item(
-    False,
-    "A 200 Bird Year?",
-    "a-200-bird-year",
-    "Part 1: Prologue",
-    "part-01-prologue",
-    """
-    <p>Where does this idea of a big year come from? Why is 200 such a popular number to go for in the UK?</p>
-    <p>Let's try for a 200 bird year and find out.</p>
-    """
-  ),
-  site_guide_item(
-    True,
-    "Barnes WWT",
-    "Barnes_WWT",
-    """
-    <p>A WWT reserve in TfL Zone 2. That can't possible work, can it?</p>
-    <p>Spoiler alert: it very much can.</p>
-    """
-  )
+  welcome_item()
 ]
 
 from datetime import datetime
