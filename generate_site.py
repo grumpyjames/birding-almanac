@@ -31,16 +31,26 @@ class TemplateRenderer:
       }
     )
 
-  def render_content(self, content_html, content_nav):
-    page_html = pystache.render(
+  def render_content_page(
+      self,
+      publish_time,
+      content_html,
+      content_nav,
+      pinned):
+    page_html = self.render_content(publish_time, content_html, content_nav, pinned)
+    return self.render_page(page_html)
+
+  def render_content(self, publish_time, content_html, content_nav, pinned):
+    return pystache.render(
       self.content_template,
       {
+        'date': datetime.strftime(publish_time, "%B %-d, %Y"),
+        'time': datetime.strftime(publish_time, "%H:%M"),
+        'pinned': pinned,
         'main-content': content_html,
         'content-nav': content_nav
       }
     )
-    return self.render_page(page_html)
-
 
   def render_cell(self, title, url, blurb):
     return pystache.render(
@@ -68,13 +78,14 @@ class TemplateRenderer:
 
 def parse_metadata(metadata_dict):
   date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
-
+  pinned = metadata_dict["pinned"][0] if "pinned" in metadata_dict else None
   return {
     "publish_time": datetime.strptime(metadata_dict["publish_time"][0], date_format),
-    "updated_time": datetime.strptime(metadata_dict["updated_time"][0], date_format)
+    "updated_time": datetime.strptime(metadata_dict["updated_time"][0], date_format),
+    "pinned": pinned
   }
 
-def create_website(output, home, render_at_time):
+def create_website(output, render_at_time):
   with \
       open("page.mustache") as f, \
       open("content.mustache") as c, \
@@ -94,9 +105,11 @@ def create_website(output, home, render_at_time):
   about_page(templating, output)
   sites_with_blurb = []
   sites(templating, render_at_time, output, sites_with_blurb)
+  blogs_with_blurb = {}
+  blog(templating, render_at_time, output, blogs_with_blurb)
   all_feature_items = []
   features(templating, render_at_time, output, all_feature_items)
-  front_page(templating, home, all_feature_items, sites_with_blurb, output)
+  front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb, output)
 
 
 def copy_images(output):
@@ -111,14 +124,13 @@ def about_page(templating, output):
     with open(os.path.join(output, "about.html"), "w+") as out:
       out.write(about_html)
 
-def front_page(templating, home, all_feature_items, sites_with_blurb, output):
+def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb, output):
   front_page_items = []
   front_page_items.extend(all_feature_items)
   front_page_items.extend(sites_with_blurb)
+  front_page_items.extend(blogs_with_blurb["other_posts"])
   front_page_items = sorted(front_page_items, key=lambda item: item["publish_time"], reverse=True)
-  home_items = ""
-  for index, item in enumerate(home):
-    home_items += templating.render_front_page_item(item)
+  front_page_items = blogs_with_blurb["pinned_posts"] + front_page_items
 
   def convert(index, item):
     even = index % 2 != 0
@@ -127,7 +139,8 @@ def front_page(templating, home, all_feature_items, sites_with_blurb, output):
       'img-class': ('float-right' if even else 'float-left'),
       'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
       'time': datetime.strftime(item["publish_time"], "%H:%M"),
-      'blurb': item["blurb"]
+      'blurb': item["blurb"],
+      'pinned': item["pinned"]
     }
 
     if item["type"] == "site":
@@ -138,6 +151,14 @@ def front_page(templating, home, all_feature_items, sites_with_blurb, output):
         'item-title': item["site_name"],
         'image': '/sites/' + item["site_path"] + '-thumb.png',
       }
+    elif item["type"] == "blog":
+      custom = {
+        'index-link': '/blog/index.html',
+        'index-title': 'Blog',
+        'item-link': '/blog/' + item["blog_path"] + '.html',
+        'item-title': item["title"],
+        'image': '/blog/' + item["blog_path"] + '-thumb.png',
+      }
     elif item["type"] == "feature":
       custom = {
         'index-link': '/features/' + item["feature_path"] + '/index.html',
@@ -147,12 +168,19 @@ def front_page(templating, home, all_feature_items, sites_with_blurb, output):
         'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
       }
     else:
-      raise ("Unknown item type: " + item["type"])
+      raise Exception("Unknown item type: " + item["type"])
     return  {**common, **custom}
 
+  home_items = ""
+  first = True
+  if len(front_page_items) > 20:
+    raise Exception("Time to implement pagination, Jimbo")
+
   for (index, f) in enumerate(front_page_items):
-    home_items += "<hr/>"
-    front_page_item = convert(index, f)
+    if not first:
+      home_items += "<hr/>"
+    first = False
+    front_page_item = convert(index + 1, f)
     home_items += templating.render_front_page_item(front_page_item)
   index_html = templating.render_page(home_items)
   with open(os.path.join(output, "index.html"), "+w") as index_file:
@@ -219,6 +247,7 @@ def features(
             'blurb': soup.p.text,
             'publish_time': feature_metadata["publish_time"],
             'updated_time': feature_metadata["updated_time"],
+            'pinned': feature_metadata["pinned"],
             'type': 'feature',
             'feature_path': feature,
             'feature_title': feature_title,
@@ -234,7 +263,8 @@ def features(
             next_file_link = as_html(feature_md_files[index + 1])
             nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
           content_nav = "".join(nav)
-          full_page_html = templating.render_content(feature_html, content_nav)
+          full_page_html = templating.render_content_page(
+            feature_metadata["publish_time"], feature_html, content_nav, feature_metadata["pinned"])
 
           out_path = os.path.join(output, feature_path + "/" + as_html(file))
           with open(out_path, "w+") as file_output:
@@ -258,6 +288,82 @@ def features(
     features_index.write(templating.render_page("".join(feature_rows)))
 
 
+def blog(
+    templating,
+    render_at_time,
+    output,
+    blogs_with_blurb):
+  os.makedirs(os.path.join(output, "blog"), exist_ok=True)
+
+  blogs_to_convert = []
+
+  for filename in os.listdir("blog"):
+    if filename.endswith(".md"):
+      blogs_to_convert.append((filename, filename.rstrip(".md")))
+    elif filename.endswith(".png"):
+      shutil.copyfile("blog/" + filename, os.path.join(output, "blog/" + filename))
+
+  pinned_posts = []
+  other_posts = []
+
+  for (file, blog_name) in blogs_to_convert:
+    with open(os.path.join("blog", file)) as blog_file:
+      blog_markdown = blog_file.read()
+      md = markdown.Markdown(extensions=['meta'])
+      blog_html = md.convert(blog_markdown)
+      # noinspection PyUnresolvedReferences
+      metadata = parse_metadata(md.Meta)
+      if metadata["publish_time"] < render_at_time:
+        soup = BeautifulSoup(blog_html, features="html.parser")
+        blog_content_html = templating.render_content(metadata["publish_time"], blog_html, "", metadata["pinned"])
+        full_page_html = templating.render_page(blog_content_html)
+
+        # noinspection PyUnresolvedReferences
+        post = {
+          'name': blog_name,
+          'blurb': soup.p.text,
+          'publish_time': metadata["publish_time"],
+          'updated_time': metadata["updated_time"],
+          'pinned': metadata["pinned"],
+          'type': 'blog',
+          'blog_name': blog_name.replace("_", " "),
+          'blog_path': blog_name,
+          'title': md.Meta["title"][0],
+          'html': blog_content_html
+        }
+
+        if metadata["pinned"]:
+          pinned_posts.append(post)
+        else:
+          other_posts.append(post)
+
+        with open(os.path.join(output, "blog", blog_name + ".html"), "w+") as file_output:
+          file_output.write(full_page_html)
+
+  other_posts = sorted(other_posts, key=lambda item: item["publish_time"], reverse=True)
+
+  all_posts = []
+  all_posts.extend(pinned_posts)
+  all_posts.extend(other_posts)
+  first = True
+
+  if len(all_posts) > 5:
+    raise Exception("Time to implement pagination, Jimbo")
+
+  list_index_content = ""
+  for blog in all_posts:
+    if not first:
+      list_index_content += "<hr/>"
+    list_index_content += blog["html"]
+    first = False
+
+  with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
+    list_index.write(templating.render_page(list_index_content))
+
+  blogs_with_blurb["pinned_posts"] = pinned_posts
+  blogs_with_blurb["other_posts"] = other_posts
+
+
 def sites(
     templating,
     render_at_time,
@@ -269,7 +375,7 @@ def sites(
 
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
-      sites_to_convert.append((filename, filename.split(".")[0]))
+      sites_to_convert.append((filename, filename.rstrip(".md")))
     elif filename.endswith(".png"):
       shutil.copyfile("sites/" + filename, os.path.join(output, "sites/" + filename))
   for (f, site_name) in sites_to_convert:
@@ -286,12 +392,13 @@ def sites(
           'blurb': soup.p.text,
           'publish_time': metadata["publish_time"],
           'updated_time': metadata["updated_time"],
+          'pinned': metadata["pinned"],
           'type': 'site',
           'site_name': site_name.replace("_", " "),
           'site_path': site_name
         })
 
-        full_page_html = templating.render_content(site_html, "")
+        full_page_html = templating.render_content_page(metadata["publish_time"], site_html, "", metadata["pinned"])
         with open(os.path.join(output, "sites", site_name + ".html"), "w+") as file_output:
           file_output.write(full_page_html)
 
@@ -308,33 +415,10 @@ def sites(
     )
 
 
-def welcome_item():
-  return {
-    'row-class': 'left',
-    'img-class': 'float-right',
-    'index-link': '#',
-    'index-title': 'Announcements',
-    'item-link': '#',
-    'item-title': 'Welcome to Average Birding',
-    'image': '/welcome-thumb.png',
-    'blurb': """
-      <p>A birding website by average birders, for birders of any feather.</p>
-<p>Our <a href="sites/index.html">site guides</a> offer introductions to birding locations. 
-Our <a href="features/">features</a>, in particular, <a href="features/a-200-bird-year">a 200 bird year?</a> offer a birding distraction. 
-Scroll down for links to our most recently updated pages.</p>    
-    """,
-    'date': "December 15, 2019",
-    'time': "19:48"
-  }
-
-home = [
-  welcome_item()
-]
-
 output = sys.argv[1]
 if len(sys.argv) > 2:
   render_at_time = datetime.strptime(sys.argv[2], "%Y-%m-%dT%H:%M:%S.%fZ")
 else:
   render_at_time = datetime.now()
 
-create_website(output, home, render_at_time)
+create_website(output, render_at_time)
