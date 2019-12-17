@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport"
@@ -17,7 +17,7 @@
         font-family: Georgia, Serif;
         background-color: #ddd;
         margin-top: 1rem;
-        margin-bottom: 1rem;
+<!--        margin-bottom: 1rem;-->
       }
 
       h3.header {
@@ -133,38 +133,49 @@
         max-width: 100%;
         min-height: 100vh;
       }
+
+      #footer {
+        min-height: 15px;
+
+        font-weight: bold;
+
+      }
+
     </style>
-  </head>
-  <body>
-    <div class="container container-small content">
-      <div class="row">
-	<div class="col-sm">
-	  <h3 class="header">Average Birding</h3>
-	</div>
-      </div>
-      <div class="row">
-	<div class="col-sm" style="padding-left: 0px; padding-right: 0px">
-	  <img src="/sanderling.png" class="img-fluid"/>
-	</div>
-      </div>
-      <div id="nav" class="row small bg-light">
-	<div>
-	  <a class="nav-item active" href="/">Home</a>
-	</div>
-    <div>
-        <a class="nav-item active" href="/blog/">Blog</a>
+</head>
+<body>
+<div class="container container-small content">
+    <div class="row">
+        <div class="col-sm">
+            <h3 class="header">Average Birding</h3>
+        </div>
     </div>
-	<div>
-	  <a class="nav-item active" href="/sites/">Site Guide</a>
-	</div>
-	<div>
-	  <a class="nav-item active" href="/features/">Features</a>
-	</div>
-	<div>
-	  <a class="nav-item active" href="/about.html">About</a>
-	</div>
-      </div>
-      {{{content}}}
+    <div class="row">
+        <div class="col-sm" style="padding-left: 0px; padding-right: 0px">
+            <img src="/sanderling.png" class="img-fluid"/>
+        </div>
     </div>
-  </body>
+    <div id="nav" class="row small bg-light">
+        <div>
+            <a class="nav-item active" href="/">Home</a>
+        </div>
+        <div>
+            <a class="nav-item active" href="/blog/">Blog</a>
+        </div>
+        <div>
+            <a class="nav-item active" href="/sites/">Site Guide</a>
+        </div>
+        <div>
+            <a class="nav-item active" href="/features/">Features</a>
+        </div>
+        <div>
+            <a class="nav-item active" href="/about.html">About</a>
+        </div>
+    </div>
+    {{{content}}}
+    <div id="footer" class="row">
+        <h6 class="text-center col-md-12">Copyright © 2019, averagebirding.com</h6>
+    </div>
+</div>
+</body>
 </html>
