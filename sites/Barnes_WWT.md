@@ -4,14 +4,14 @@ updated_time: 2019-12-18T10:13:00.000Z
 ---
 ### Barnes WWT
 
-A WWT reserve in TfL Zone 2. That can't possible work, can
+A WWT reserve in TfL Zone 2. That can't possibly work, can
 it? Surprisingly, it can.
 
 ---
 ### Getting there
 
 Public transport options are pretty good - either get National Rail to
-Barnes and then a short bus trip (or ten minute walk) or tube to
+Barnes and then a short bus trip (or ten-minute walk) or tube to
 Hammersmith and grab a bus (slightly longer, walk probably less
 pointful) from there.
 
@@ -61,7 +61,7 @@ enough to waltz straight on to a Bittern in there before.
 
 I'm going to go out on a limb here and say that this is probably the
 most reliable place in the UK to see Bittern in the Winter. The site
-is small, well birded, well stocked (reports of up to five Bitterns on
+is small, well birded, well stocked (reports of up to five Bitterns in
 a single day) and well reported, so if there is a Bittern:
 
   * Someone will spot it
@@ -87,13 +87,13 @@ collection from the reserve proper often holds a Reed Bunting or a
 Cetti's Warbler.
 
 Headley should be a relatively quick stop, unless it's a freezing cold
-day, in which case you may find it's warmth rather trickier to
+day, in which case you may find it's warmth rather tricky to
 leave. Scan the reedbed in front carefully; it could have Bittern or
 Water Rail hiding within it, or a Cetti's Warbler (to the left of the
 hide, usually) if Spring has sprung. I've seen Stock Dove and Green
 Woodpecker meandering around on the grassy peninsula that extends from
-the right side of the hide, so give that a strong examination as
-well. Once you get bored enough to start looking at gulls, it's
+the right side of the hide, so give that a concerted staring at too. Once you 
+get bored enough to start looking at gulls, it's
 probably time to move on.
 
 Take whatever route you like to the Wildside hide. In Spring and
@@ -113,8 +113,8 @@ flocks.
 
 My experience of the Wildside hide varies wildly. In Autumn and
 Winter, I mostly visit for completeness - there might be a Pintail or
-two at the far end of the reservoir pond. Sometimes a vagrant (Ring
-necked duck, or duck that must not be named) turns up here. More
+two at the far end of the reservoir pond. Sometimes a vagrant (Ring-necked 
+duck, or duck that must not be named) turns up here. More
 likely there will not be very much at all; perhaps a goose or a gull
 on the sad little mud island immediately in front of the hide.
 
@@ -141,7 +141,7 @@ Redshank.
 If you reach Peacock Tower Bitternless, you're probably going to stay
 that way unless you hang around 'til dusk and catch one in flight. The
 Tower is much better for spying on the wader scrape and the grazing
-marsh; if there are interesting waders on the sight they'll almost
+marsh; if there are interesting waders on the site they'll almost
 certainly be found from the Tower.
 
 <figure class="figure">
@@ -166,15 +166,15 @@ side of the scrape.
 In general, once I am tired of the Tower I am ready to go home - even
 if on a super quiet day all of the above has taken ninety minutes. If,
 at that point, it isn't freezing cold, consider taking the long way
-back via the rear of the sheltered lagoon, it's a pleasant walk, and
-often has plenty of littlies to keep one entertained; it's a good
+back via the rear of the sheltered lagoon; it's a pleasant walk, and
+often has plenty of littlies to keep one entertained. A good
 place to find the year's first Chiffchaff or Willow Warbler in the
-Spring, in addition.
+Spring.
 
 ---
 ## Eat / Drink / Stay
 
-You're in London - the options are limitless
+You're in London - the options are limitless.
 
 ---
 ## Nearby

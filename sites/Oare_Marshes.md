@@ -15,9 +15,10 @@ Nearby Faversham is well served by High speed Southeastern services if
 approaching from London. The reserve is then:
 
 * a good hour's walk (use the Saxon Shore Way)
-* a twenty minute cycle
-* a ten minute drive or taxi ride 
-* a fifteen minute bus (hourly, not Sundays, [timetable](https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/South%20East/Kent/3%20wef%20180917.pdf)) followed by a ten minute walk; fafftastic.
+* a twenty-minute cycle
+* a ten-minute drive or taxi ride 
+* a fifteen-minute bus (hourly, not Sundays, [timetable](https://tiscon-maps-stagecoachbus.s3.amazonaws
+.com/Timetables/South%20East/Kent/3%20wef%20180917.pdf)) followed by a ten-minute walk; fafftastic.
 
 ---
 ### Facilities
@@ -58,8 +59,8 @@ used to this end a couple of times.
 
 Once you're set - start by having a good old look at the main body of
 the reserve from the road. A visit during fall passage should mean the
-spit that extends into the water from the road is chock a block with
-Golden Plover, Dunlin, Avocet, Black Tailed Godwit and Redshank. A bit
+spit that extends into the water from the road is chock-a-block with
+Golden Plover, Dunlin, Avocet, Black-tailed Godwit and Redshank. A bit
 of searching should find a Ruff or two - check among the non-sleeping
 Godwits to the left and right of the spit.
 

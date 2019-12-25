@@ -155,15 +155,16 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
       custom = {
         'index-link': '/blog/index.html',
         'index-title': 'Blog',
-        'item-link': '/blog/' + item["blog_path"] + '.html',
+        'item-link': '/blog/' + item["blog_path"] + '/index.html',
         'item-title': item["title"],
-        'image': '/blog/' + item["blog_path"] + '-thumb.png',
+        'image': '/blog/' + item["blog_path"] + '/' + item["blog_path"] +
+                 '-thumb.png',
       }
     elif item["type"] == "feature":
       custom = {
         'index-link': '/features/' + item["feature_path"] + '/index.html',
         'index-title': item["feature_title"],
-        'item-link': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '.html',
+        'item-link': '/features/' + item["feature_path"] + '/',
         'item-title': item["feature_item_title"],
         'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
       }
@@ -295,19 +296,21 @@ def blog(
     blogs_with_blurb):
   os.makedirs(os.path.join(output, "blog"), exist_ok=True)
 
-  blogs_to_convert = []
-
-  for filename in os.listdir("blog"):
-    if filename.endswith(".md"):
-      blogs_to_convert.append((filename, filename.rstrip(".md")))
-    elif filename.endswith(".png"):
-      shutil.copyfile("blog/" + filename, os.path.join(output, "blog/" + filename))
-
   pinned_posts = []
   other_posts = []
 
-  for (file, blog_name) in blogs_to_convert:
-    with open(os.path.join("blog", file)) as blog_file:
+  for blog_name in os.listdir("blog"):
+    blog_output_dir = os.path.join(output, "blog", blog_name)
+    os.makedirs(blog_output_dir, exist_ok=True)
+    blog_input_dir = os.path.join("blog", blog_name)
+    for filename in os.listdir(os.path.join("blog", blog_name)):
+      if filename.endswith(".png"):
+        shutil.copyfile(
+          os.path.join(blog_input_dir, filename),
+          os.path.join(blog_output_dir, filename))
+
+    blog_markdown_path = os.path.join(blog_input_dir, blog_name + ".md")
+    with open(blog_markdown_path) as blog_file:
       blog_markdown = blog_file.read()
       md = markdown.Markdown(extensions=['meta'])
       blog_html = md.convert(blog_markdown)
@@ -315,8 +318,22 @@ def blog(
       metadata = parse_metadata(md.Meta)
       if metadata["publish_time"] < render_at_time:
         soup = BeautifulSoup(blog_html, features="html.parser")
-        blog_content_html = templating.render_content(metadata["publish_time"], blog_html, "", metadata["pinned"])
+        for img in soup.find_all('img'):
+          if not img['src'].startswith('/'):
+            img['src'] = blog_name + '/' + img['src']
+
+        blog_content_html = templating.render_content(
+          metadata["publish_time"],
+          blog_html,
+          "",
+          metadata["pinned"])
         full_page_html = templating.render_page(blog_content_html)
+
+        blog_index_html = templating.render_content(
+          metadata["publish_time"],
+          str(soup),
+          "",
+          metadata["pinned"])
 
         # noinspection PyUnresolvedReferences
         post = {
@@ -329,7 +346,7 @@ def blog(
           'blog_name': blog_name.replace("_", " "),
           'blog_path': blog_name,
           'title': md.Meta["title"][0],
-          'html': blog_content_html
+          'html': blog_index_html
         }
 
         if metadata["pinned"]:
@@ -337,10 +354,14 @@ def blog(
         else:
           other_posts.append(post)
 
-        with open(os.path.join(output, "blog", blog_name + ".html"), "w+") as file_output:
+        blog_index_path = os.path.join(blog_output_dir, "index.html")
+        with open(blog_index_path, "w+") as file_output:
           file_output.write(full_page_html)
 
-  other_posts = sorted(other_posts, key=lambda item: item["publish_time"], reverse=True)
+  other_posts = sorted(
+    other_posts,
+    key=lambda item: item["publish_time"],
+    reverse=True)
 
   all_posts = []
   all_posts.extend(pinned_posts)

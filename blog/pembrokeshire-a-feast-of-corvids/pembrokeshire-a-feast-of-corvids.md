@@ -7,11 +7,10 @@ title: Pembrokeshire: A Feast of Corvids
 ### Pembrokeshire
 
 Land of my forefathers (my grandparents lived in the area until I was
-maybe four years old)! What can a trip to Pembrokeshire offer in
-October other than the assurance that the weather will be pants?
-Corvids. Lots of corvids.
+maybe four years old)! What can a trip to Pembrokeshire in October offer other
+ than the assurance that the weather will be pants? Corvids. Lots of corvids.
 
-Pronoun guidance: this was a James only trip.
+Pronoun guidance: this was an AB1 only trip.
 
 #### Getting there
 
@@ -68,7 +67,7 @@ I manage to get up early, and get out to Porth Clais, where I smugly
 claim a free carparking ticket with the National Trust card that I
 remembered to bring with me at the last minute. The car park's alive
 with bird song; nothing too exciting though, mostly finches, wrens,
-robins, and the occasional wintry looking Chiffchaff.
+robins, and the occasional wintry-looking Chiffchaff.
 
 I head out along the western side of the River Alun towards the
 coast. Plenty of activity follows me, but the light's a right pain, so
@@ -84,6 +83,16 @@ day, perching in the gorse and scrub along the fences separating the
 inland farm from the 'coast'. I take some terrible photos of them
 before moving on.
 
+<figure class="figure">
+  <img
+    src="wren-and-mipit.png"
+    class="figure-img img-fluid rounded"
+    alt="Wren and Mipit play hide and seek on a gate"/>
+  <figcaption class="figure-caption text-center">
+    Wren and Mipit play hide and seek on a gate
+  </figcaption>
+</figure>
+
 I turn the walk into a circuit by heading inland at an opportune
 moment; the return half is less exciting (although the sheer number of
 Crows and Rooks is remarkable), but there's a Grey Wagtail and a
@@ -97,7 +106,7 @@ used to live. Not least because both of my bird news sources are
 telling me there are Snow Buntings at Dale Airfield.
 
 The drive to Dale is _fraught_. I remember that travelsickness was an
-everpresent companion as a child, and even as a driver some of the
+ever-present companion as a child, and even as a driver some of the
 route to Dale is enough to make me feel queasy. A detour through
 Little Haven (big sign!) doesn't help either - I can only assume the
 roads were built for Hobbits.
@@ -135,11 +144,21 @@ the air, be they Jackdaws, other Ravens or Choughs. I take a seat on a
 comfy (and, it turns out, somewhat damp) tussock to watch them for a
 bit; Ravens are great. And, particularly at distance, occasionally a
 bit difficult to split from Rook and Crow, and this is a good time to
-mentally store a better representation of their jizz.
+mentally store a better representation of their giss.
+
+<figure class="figure">
+  <img
+    src="gronk.png"
+    class="figure-img img-fluid rounded"
+    alt="Gronk!"/>
+  <figcaption class="figure-caption text-center">
+    Gronk!
+  </figcaption>
+</figure>
 
 With half an eye on the time and the light, I start to make my way
 North along the coast path. The Chough family decide to do a fly-past
-(delightful), and three Goldfinch make an appearance on the cliff
+(delightful), and three Goldfinches make an appearance on the cliff
 fence, but this is otherwise uneventful. I get back to the car and
 steel myself for the drive to Dale Airfield, which I guess will
 involve some congested single-track road.
@@ -177,6 +196,16 @@ photo. Immediately I'm glad few other people have seen me doing
 this. But I'm even more glad to see the five Snow Buntings this pair
 are trying to photograph.
 
+<figure class="figure">
+  <img
+    src="dale-snow-bunting.png"
+    class="figure-img img-fluid rounded"
+    alt="The cutest of the buntings"/>
+  <figcaption class="figure-caption text-center">
+    The cutest of the buntings
+  </figcaption>
+</figure>
+
 Predictably, just as the birds get into range of my camera, the group
 decides their comfort radius have been breached, and take off,
 circling back around to the Northern end of this bit of the service
@@ -193,11 +222,22 @@ even more chuffed (Choughed?) to have found them than I am; I feel
 fortunate to have had the opportunity to put him on to them.
 
 Time and light pulls me on once more - I'd like to have a look at
-Marloes Sands before the light's crap. I manage to circuit the
+Marloes Sands before the light dulls. I manage to circuit the
 buntings without disturbing them, and take a few good shots of the
 beach; the light is perfect, smug. I take one final opportunity to
 bother the buntings on the way back to the car before starting the
 journey back to St. David's.
+
+<figure class="figure">
+  <img
+    src="marloes-sands.png"
+    class="figure-img img-fluid rounded"
+    alt="Perfect light for a swim?"/>
+  <figcaption class="figure-caption text-center">
+    Perfect light for a swim?
+  </figcaption>
+</figure>
+
 
 #### Monday
 
@@ -224,6 +264,17 @@ the something like 1,000 birds that flap past me over the next couple of
 hours. I sit down in the pub in Solva for a pint and some grub
 wondering if this is just something that happens on the coastline all
 the time.
+
+<figure class="figure">
+  <img
+    src="chaffinches-on-the-move.png"
+    class="figure-img img-fluid rounded"
+    alt="Chaffinches on the move"/>
+  <figcaption class="figure-caption text-center">
+    Chaffinches on the move
+  </figcaption>
+</figure>
+
 
 In my reverie, however, I neglect to notice that I'm sitting on the
 nozzle of my water bladder enough for it to be slowly but surely
@@ -260,6 +311,16 @@ quarters the common South of the road, before crossing the road
 (almost perfectly above me), and floating down into the trees there to
 roost. Ok, good start!
 
+<figure class="figure">
+  <img
+    src="dowrog.png"
+    class="figure-img img-fluid rounded"
+    alt="Suitably bleak for a raptor roost"/>
+  <figcaption class="figure-caption text-center">
+    Suitably bleak for a raptor roost
+  </figcaption>
+</figure>
+
 I set up my scope to be able to scan the area where the Harrier set
 down. And then, for a good half an hour, absolutely nothing happens. I
 spend more time glancing at the birders I can see at the top of the
@@ -273,17 +334,17 @@ on, and they were quite excited to see a Marsh Harrier. We have a good
 chat about good local patches in the area, before they give up and go
 home for a cup of tea (it's very, very cold, and nearly dark). With
 the very last photons of light, I _think_ I can pick out a Short-eared
-Owl in a grassy patch just to the North of the road, but I go boz-eyed
+Owl in a grassy patch just to the North of the road, but I go boss-eyed
 trying to get a solid ID; it's just too dark.
 
 Speaking of the dark, it is now total. And I'm a good 3km from
 home. Probably the least bad way back is along the A487, but that's
 also in use by traffic, at 50mph, and is free of lighting. So it's a
 rather frightening half an hour game of phone-light traffic dodging on
-the way home. Dowrog shows potentially though: I resolve, tomorrow, to
+the way home. Dowrog shows potential though: I resolve, tomorrow, to
 arrive earlier, and _in a car_.
 
-After making it home, I check pembsbirds and discover I have made the
+After making it home, I check Pembs Birds and discover I have made the
 news _twice_, first as [a visiting Birder from
 London](http://pembsbirds.blogspot.com/2019/10/dowrog-update.html),
 and secondly as [a mainland
@@ -316,6 +377,16 @@ disappearing several times across an hour or so. And then, again,
 nothing. We wait in hope of an end of day Short-eared Owl, but to no
 avail, the Hen Harriers will just have to do.
 
+<figure class="figure">
+  <img
+    src="dowrog-hen-harrier.png"
+    class="figure-img img-fluid rounded"
+    alt="Not my finest work, but still."/>
+  <figcaption class="figure-caption text-center">
+    Not my finest work, but still.
+  </figcaption>
+</figure>
+
 #### Wednesday
 
 A frustrating day, with a trip to Narberth only to discover the bike
@@ -329,8 +400,18 @@ The estuary is bridged by the Newport-Moylgrove road, and apart from
 the central section, the bridge is one-third parking spaces. Great!
 It's possible to bird from the car a bit here, but it's clear things
 will be better with a scope from outside. There's a good group of
-Curlew's in the water, plenty of Redshanks, one or two Dunlin, some
+Curlews in the water, plenty of Redshanks, one or two Dunlin, some
 noisy geese, and a cute Common Redshank.
+
+<figure class="figure">
+  <img
+    src="nevern-estuary.png"
+    class="figure-img img-fluid rounded"
+    alt="The view from the bridge"/>
+  <figcaption class="figure-caption text-center">
+    The view from the bridge
+  </figcaption>
+</figure>
 
 A pair of birders return from a walk along the Northern side of the
 estuary claiming to have found Ringed Plovers. Not an opportunity to
@@ -340,7 +421,7 @@ on the inland side of the bridge. Delightful.
 
 There's still a fair chunk of day left. My OS map shows me that the
 Nevern goes into a steep sided valley that's well treed not far
-away. Hmm. Dipper country? A bit of Googling suggests yes. A swift
+away. Hmm. Dipper country? A bit of Googling suggests so. A swift
 drive to the village of Nevern later, and I'm on a footpath following
 the path of the river again. Well, river. Stream. This has got Dipper
 written all over it. At other times of year I'd be hopeful of
@@ -384,27 +465,37 @@ St. David's follows.
 The wind has subsided since yesterday, and the opportunity to visit
 Ramsey island cannot be declined. Even though it probably should be,
 because, despite the lack of wind, it's misty, rainy, and otherwise
-thoroughly miserable. Still. I have suitable clothing to cope with
+thoroughly miserable. Still, I have suitable clothing to cope with
 this.
 
-But, frankly, even with decent clothing, there isn't much to
+But frankly, even with decent clothing, there isn't much to
 see. There's a young seal pup frolicking near the place the boat drops
 you off, and the warden is cheerful, and knowledgeable about what's on
 the island (although, between the lines, I can hear she is telling me
 that, barring the seals, the birding is a bit sketchy).
 
-There is a Chough or two, a Kestrel, and plenty of Ravens, but really,
-what there is, mostly, is a lot of moisture, all of it determined to
+There is a Chough or two, a Kestrel and plenty of Ravens, but really
+what there is, mostly, is a lot of moisture and all of it determined to
 sit on the lenses of my glasses. Should've worn contacts! I zip round
 the island walking circuit in record time. In the shop, several other
 folk are sheltering with cups of tea, and I join them for a birding
-chinwag. We get into talking about other birding islands: The Farnes,
+chinwag. We get talking about other birding islands: The Farnes,
 mostly; I mention that Handa is also worth a visit (more on both
 another time). Eventually, it's time to head to the boat. And it turns
 out that we're going to be the last trip of the year, and we're taking
 one of the wardens with us, so we all lend a hand helping her get her
 stuff on to the boat. One lonely chap and his dog are left
 behind. Hopefully they'll remember to fetch him another day.
+
+<figure class="figure">
+  <img
+    src="ramsey-island-maybe.png"
+    class="figure-img img-fluid rounded"
+    alt="Ramsey Island. Maybe."/>
+  <figcaption class="figure-caption text-center">
+    Ramsey Island. Maybe.
+  </figcaption>
+</figure>
 
 #### Friday
 
@@ -442,7 +533,7 @@ from a branch which looks almost flycatchery. Huh? What the hell is
 that? I eventually pick it up as it sits on top of a handy nearby
 gravestone, and it's a Black Redstart! And here's me trundling around
 town without my camera. Sod sod sod. A quick sprint back to
-accommodation fixes this, at the cost of ten or fifteen minutes light,
+accommodation fixes this, at the cost of ten or fifteen minutes' light,
 and a bead on the bird. When it does turn up again, it isn't
 comfortable with me being close enough to get a good shot, and various
 tourists decide that, obviously, the strange bird man must be best
