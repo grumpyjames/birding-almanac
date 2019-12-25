@@ -275,6 +275,12 @@ def features(
 
     feature_index_html = ""
 
+    if len(feature_items) == 0:
+      feature_index_html += templating.render_cell(
+        "There's nothing here yet",
+        "#",
+        "But there will be soon :-)"
+      )
     for f_w_b in feature_items:
       feature_index_html += templating.render_cell(
         f_w_b["name"],
