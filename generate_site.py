@@ -112,10 +112,21 @@ def create_website(output, render_at_time):
   front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb, output)
 
 
+# copy only if different, to preserve timestamps and prevent resync.
+def lazy_image_copy(src, target):
+  import filecmp
+  if not filecmp.cmp(src, target):
+    shutil.copyfile(src, target)
+  else:
+    print("Not copying " + src + " to " + target + " : they're identical!")
+
 def copy_images(output):
   for file in os.listdir("."):
     if file.endswith(".png") or file.endswith(".ico"):
-      shutil.copyfile(file, os.path.join(output, file))
+      lazy_image_copy(
+        file,
+        os.path.join(output, file)
+      )
 
 
 def about_page(templating, output):
@@ -164,7 +175,7 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
       custom = {
         'index-link': '/features/' + item["feature_path"] + '/index.html',
         'index-title': item["feature_title"],
-        'item-link': '/features/' + item["feature_path"] + '/',
+        'item-link': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '.html',
         'item-title': item["feature_item_title"],
         'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
       }
@@ -227,7 +238,7 @@ def features(
     for file in feature_files:
       if file.endswith(".png") or file.endswith(".jpg"):
         src = feature_path + '/' + file
-        shutil.copyfile(src, os.path.join(output, src))
+        lazy_image_copy(src, os.path.join(output, src))
       elif file.endswith(".md") and file != "about.md":
         feature_md_files.append(file)
 
@@ -258,14 +269,18 @@ def features(
 
           nav = []
           if index > 0:
-            prev_file_link = as_html(feature_md_files[index - 1])
+            previous_file = feature_md_files[index - 1]
+            prev_file_link = as_html(previous_file)
             nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
           if index + 1 < len(feature_md_files):
             next_file_link = as_html(feature_md_files[index + 1])
             nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
           content_nav = "".join(nav)
           full_page_html = templating.render_content_page(
-            feature_metadata["publish_time"], feature_html, content_nav, feature_metadata["pinned"])
+            feature_metadata["publish_time"],
+            feature_html,
+            content_nav,
+            feature_metadata["pinned"])
 
           out_path = os.path.join(output, feature_path + "/" + as_html(file))
           with open(out_path, "w+") as file_output:
@@ -311,7 +326,7 @@ def blog(
     blog_input_dir = os.path.join("blog", blog_name)
     for filename in os.listdir(os.path.join("blog", blog_name)):
       if filename.endswith(".png"):
-        shutil.copyfile(
+        lazy_image_copy(
           os.path.join(blog_input_dir, filename),
           os.path.join(blog_output_dir, filename))
 
@@ -404,7 +419,7 @@ def sites(
     if filename.endswith(".md"):
       sites_to_convert.append((filename, filename.rstrip(".md")))
     elif filename.endswith(".png"):
-      shutil.copyfile("sites/" + filename, os.path.join(output, "sites/" + filename))
+      lazy_image_copy("sites/" + filename, os.path.join(output, "sites/" + filename))
   for (f, site_name) in sites_to_convert:
     with open(os.path.join("sites", f)) as site_file:
       site_markdown = site_file.read()
