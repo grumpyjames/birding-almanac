@@ -268,13 +268,13 @@ def features(
           })
 
           nav = []
-          if index > 0:
-            previous_file = feature_md_files[index - 1]
-            prev_file_link = as_html(previous_file)
-            nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
-          if index + 1 < len(feature_md_files):
-            next_file_link = as_html(feature_md_files[index + 1])
-            nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
+          # if index > 0:
+          #   previous_file = feature_md_files[index - 1]
+          #   prev_file_link = as_html(previous_file)
+          #   nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
+          # if index + 1 < len(feature_md_files):
+          #   next_file_link = as_html(feature_md_files[index + 1])
+          #   nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
           content_nav = "".join(nav)
           full_page_html = templating.render_content_page(
             feature_metadata["publish_time"],
