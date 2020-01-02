@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-01-02T11:14:00.000Z
-updated_time: 2020-01-02T11:14:00.000Z
+publish_time: 2020-01-05T11:14:00.000Z
+updated_time: 2020-01-05T11:14:00.000Z
 title: Part 02: A False Start
 ---
 ### A false start
@@ -12,6 +12,8 @@ a start on a new list. The best laid plans of mice and men, however...
 schemes for a visit to Barnes or Rainham were ruled out by a malaise
 that confined me to quarters until long after the best part of the day
 had departed.
+
+This post covers birds seen between January 1st and 7th, 2018. 
 
 #### A walk in the park
 
