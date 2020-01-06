@@ -115,10 +115,10 @@ def create_website(output, render_at_time):
 # copy only if different, to preserve timestamps and prevent resync.
 def lazy_image_copy(src, target):
   import filecmp
-  if not filecmp.cmp(src, target):
+  if not os.path.exists(target):
     shutil.copyfile(src, target)
-  else:
-    print("Not copying " + src + " to " + target + " : they're identical!")
+  elif not filecmp.cmp(src, target):
+    shutil.copyfile(src, target)
 
 def copy_images(output):
   for file in os.listdir("."):
@@ -340,7 +340,8 @@ def blog(
       if metadata["publish_time"] < render_at_time:
         soup = BeautifulSoup(blog_html, features="html.parser")
         for img in soup.find_all('img'):
-          if not img['src'].startswith('/'):
+          if not img['src'].startswith('/') \
+             and not img['src'].startswith('http'):
             img['src'] = blog_name + '/' + img['src']
 
         blog_content_html = templating.render_content(
