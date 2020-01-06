@@ -254,6 +254,7 @@ def features(
 
           # noinspection PyUnresolvedReferences
           feature_items.append({
+            'html': feature_html,
             'url': as_html(file),
             'name': (str(index + 1) + ": " + soup.h3.text),
             'blurb': soup.p.text,
@@ -267,24 +268,25 @@ def features(
             'feature_item_title': md.Meta["title"][0]
           })
 
-          nav = []
-          # if index > 0:
-          #   previous_file = feature_md_files[index - 1]
-          #   prev_file_link = as_html(previous_file)
-          #   nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
-          # if index + 1 < len(feature_md_files):
-          #   next_file_link = as_html(feature_md_files[index + 1])
-          #   nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
-          content_nav = "".join(nav)
-          full_page_html = templating.render_content_page(
-            feature_metadata["publish_time"],
-            feature_html,
-            content_nav,
-            feature_metadata["pinned"])
+    for index, feature_item in enumerate(feature_items):
+      nav = []
+      if index > 0:
+        previous_file = feature_md_files[index - 1]
+        prev_file_link = as_html(previous_file)
+        nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
+      if index + 1 < len(feature_items):
+        next_file_link = as_html(feature_md_files[index + 1])
+        nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
+      content_nav = "".join(nav)
+      full_page_html = templating.render_content_page(
+        feature_item["publish_time"],
+        feature_item["html"],
+        content_nav,
+        feature_item["pinned"])
 
-          out_path = os.path.join(output, feature_path + "/" + as_html(file))
-          with open(out_path, "w+") as file_output:
-            file_output.write(full_page_html)
+      out_path = os.path.join(output, feature_path + "/" + feature_item["url"])
+      with open(out_path, "w+") as file_output:
+        file_output.write(full_page_html)
 
     all_feature_items.extend(feature_items)
 
