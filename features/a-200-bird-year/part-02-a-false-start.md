@@ -8,16 +8,16 @@ title: Part 02: A False Start
 Many birders are up bright and early on New Year's Day, eager to make
 a start on a new list. The best laid plans of mice and men, however...
 
-...are often besmirched by a soul-destroying hangover. The grand
-schemes for a visit to Barnes or Rainham were ruled out by a malaise
-that confined me to quarters until long after the best part of the day
-had departed.
+...are often besmirched by a soul-destroying hangover, in AB1's case.
+The grand schemes for a visit to Barnes or Rainham were ruled out by a
+ malaise that confined me to quarters until long after the best part of 
+ the day had departed.
 
 This post covers birds seen between January 1st and 7th, 2018. 
 
 #### A walk in the park
 
-I was escorted out of the house by Emma around four in the afternoon
+I was escorted out of the house by AB2 around four in the afternoon
 for a walk around the Hampstead Heath extension and Golders Hill
 Park. Neither of these are tremendous sites for scarcities or
 rarities, but they do have some attractions in the Winter. Amongst the
@@ -45,8 +45,8 @@ me on the cycle to work; daily sightings of parrot crossbills in
 Broxbourne Woods frustrate me as I sit at work, wondering if they will
 hang on until the weekend.
 
-I manage to sell Emma a wintry walk in the woods. We link up with a
-train to Bayford and set off in search off the crossbills from
+I manage to sell AB2 a wintry walk in the woods (at the weekend). We link up 
+with a train to Bayford and set off in search of crossbills from
 there. I am pleasantly surprised by the amount of birdlife before we
 even get near - the scenery is remarkable for a place only forty
 minutes out of London.
@@ -91,7 +91,7 @@ the golf course on the road there.
 
 It's a successful trip; I've managed to combine a mild twitch with a
 decent walk, a selection of year ticks, a decent lunch and a small
-pleasant town. Emma is sufficiently entertained to allow the
+pleasant town. AB2 is sufficiently entertained to allow the
 possibility of heading to Barnes the next day.
 
 #### A walk around WWT London
@@ -118,7 +118,7 @@ Bitterns can be elusive, but Barnes has, for me, proved quite
 reliable; I've seen two or three different birds on the reserve on
 cold winter days. Occasionally they might even be describable as
 confiding - on one occasion one even climbed up the front of the reed
-bed in beautiful sunshine as if to pose for photos. For Emma though,
+bed in beautiful sunshine as if to pose for photos. For AB2 though,
 they've proven a bit of a bogey species; despite multiple attempts,
 she's not seen one, and has started to question their existence.
 
