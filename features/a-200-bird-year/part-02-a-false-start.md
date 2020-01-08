@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-01-05T11:14:00.000Z
-updated_time: 2020-01-05T11:14:00.000Z
+publish_time: 2020-01-07T23:14:00.000Z
+updated_time: 2020-01-07T23:14:00.000Z
 title: Part 02: A False Start
 ---
 ### A false start
@@ -20,7 +20,7 @@ This post covers birds seen between January 1st and 7th, 2018.
 I was escorted out of the house by AB2 around four in the afternoon
 for a walk around the Hampstead Heath extension and Golders Hill
 Park. Neither of these are tremendous sites for scarcities or
-rarities, but they do have some attractions in the Winter. Amongst the
+rarities, but they do have some attractions in the Winter. Among the
 Black-headed Gulls, a reliable few Common Gulls hang - not a bad tick,
 given their inapt naming. The Heath extension yields some excellent
 views of Redwing, and a Great Spotted Woodpecker made a quick flypast
@@ -29,7 +29,7 @@ as we reached the end of the extension and turned towards GHP.
 The walk around GHP is hard work; I am struggling to keep my eyes open
 when I should be interrogating the flocks of small birds for any signs
 of a Goldcrest (or possibly even a Firecrest). A little band of
-long-tailed tits flops across the path; something amongst them is
+Long-tailed tits flops across the path; something amongst them is
 considerably chunkier; a finch rather than a tit. The usual suspects
 don't match - this is a flecked grey bird with some green hints. My
 unwilling brain loads up the 'less usual' finches datafile and offers
@@ -41,7 +41,7 @@ list.
 #### A walk in the woods
 
 The week passes without any helpful species displaying themselves to
-me on the cycle to work; daily sightings of parrot crossbills in
+me on the cycle to work; daily sightings of Parrot Crossbills in
 Broxbourne Woods frustrate me as I sit at work, wondering if they will
 hang on until the weekend.
 
@@ -60,7 +60,7 @@ another pleasant surprise - they're a bird that might otherwise have
 required a more directed bit of seeking out later in the year.
 
 With all these distractions, we're a good ninety minutes later into
-the woods than I'd hoped. We interrogate some serious looking
+the woods than I'd hoped. We interrogate some serious-looking
 birders. The news isn't good; no-one's seen them today, and some of
 these folks have been in the area for several hours. We follow the
 directions given "keep going until you reach the crossroads" as best
@@ -90,8 +90,8 @@ back towards the station renewed, and pick up a bonus Mistle Thrush on
 the golf course on the road there.
 
 It's a successful trip; I've managed to combine a mild twitch with a
-decent walk, a selection of year ticks, a decent lunch and a small
-pleasant town. AB2 is sufficiently entertained to allow the
+decent walk, a selection of year ticks, a decent lunch and a pleasant 
+little town. AB2 is sufficiently entertained to allow the
 possibility of heading to Barnes the next day.
 
 #### A walk around WWT London
@@ -108,29 +108,29 @@ potential difficulty out of the way as soon as possible; the Bittern.
   <img
     src="02-bittern.png"
     class="figure-img img-fluid rounded"
-    alt="Beady eyed Bittern at Barnes (from a 2015 visit)"/>
+    alt="Beady-eyed Bittern at Barnes (from a 2015 visit)"/>
   <figcaption class="figure-caption text-center">
-    Beady eyed Barnes Bittern (from a 2015 visit)
+    Beady-eyed Barnes Bittern (from a 2015 visit)
   </figcaption>
 </figure>
 
 Bitterns can be elusive, but Barnes has, for me, proved quite
 reliable; I've seen two or three different birds on the reserve on
 cold winter days. Occasionally they might even be describable as
-confiding - on one occasion one even climbed up the front of the reed
+confiding - once one even climbed up the front of the reed
 bed in beautiful sunshine as if to pose for photos. For AB2 though,
 they've proven a bit of a bogey species; despite multiple attempts,
 she's not seen one, and has started to question their existence.
 
 Even without the Bittern, Barnes should yield most of the Winter
-wildfowl species - there's almost always a pair of wintering Pintail,
+wildfowl species - there's almost always a pair of wintering Pintail
 and a smattering of Shelduck. We head out on to the reserve in good
 spirits; there are already reports of a Bittern from the Dulverton
 hide. The usual plan (Wildside, then back via the visitor centre round
 to the Peacock tower) is put aside and we head there directly.
 
 There's excitement in the hide as we enter; we squeeze in and set up a
-scope on the right hand side, and by listening in on the more
+scope on the right-hand side and, by listening in on the more
 experienced voices explaining what's going on, quickly get on to the
 Bittern in the opposite reedbed. Well, that was easy! A few folks in
 the hide are struggling to locate the bird, so after having a decent
@@ -157,10 +157,10 @@ reserve where I'm going to be able to pick it out. As such, not a lot
 of effort is extended scanning for it; the Water Pipit's existence is
 roundly brought into question by all concerned, and we refocus.
 
-A pair of Peregrine Falcons nest on Charing Cross Hospital every year,
-and outside of breeding season they can often be seen on a couple of
-favourite perching points. A glance through the bins finds a couple of
-promising looking shapes, and a look through the scope confirms it;
+A pair of Peregrine Falcons nest on Charing Cross Hospital every year
+and, outside of breeding season, they can often be seen on a few favourite 
+perching points. A glance through the bins finds a couple of
+promising-looking shapes, and a look through the scope confirms it;
 Peregrine Falcon is, remarkably, the first raptor of 2018. The usual
 Pintail pair are quickly located on the main lake to round off a
 productive weekend; we head home to warm up.
