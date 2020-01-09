@@ -13,7 +13,12 @@ it? Surprisingly, it can.
 Public transport options are pretty good - either get National Rail to
 Barnes and then a short bus trip (or ten-minute walk) or tube to
 Hammersmith and grab a bus (slightly longer, walk probably less
-pointful) from there.
+pointful) from there. 
+
+<strong>Please note</strong>: At pixel time, [Hammersmith Bridge](https://tfl
+.gov.uk/status-updates/major-works-and-events/hammersmith-bridge-closure) is 
+closed to all motor traffic, which will add a bus change if you're coming 
+from the North side on public transport.
 
 There is good access from the Thames path if you're on a bike coming
 from the East.
@@ -122,7 +127,7 @@ In Spring and Summer, however, Wildside offers the best view of the two
 grassy edges (and fencing) of the grazing marsh. Pipits (meadow,
 water, some occasional claims of more exciting varieties), wagtails
 (pied, grey and yellow), chats (stone and whin) and Wheatear should be
-carefully looked for.
+carefully looked for. A Wryneck famously paid a visit in 2019!
 
 Head back to the centre when you're finished; strongly consider
 whether you need coffee, a snack, or a use of the facilities; I
@@ -162,6 +167,14 @@ sitting on the railings on the side visible from the
 reserve. Secondly, in the warmer months, the Tower comes with Sand
 Martins - there's an obvious bank where they nest of the right hand
 side of the scrape.
+
+A word on Jack Snipe, if you want to have a go. A scope and a lot of
+free time are highly recommended. The leftmost and largest island of
+the wader scrape has been where I've had luck in the past - carefully
+search any vegetation for signs of life; the edges of the thicker
+stuff tend to be good. Common Snipe may also give you a place to
+start. More dedicated folk than I have also found them by scouring the
+grazing marsh. Good luck!
 
 In general, once I am tired of the Tower I am ready to go home - even
 if on a super quiet day all of the above has taken ninety minutes. If,

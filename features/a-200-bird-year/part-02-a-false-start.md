@@ -96,13 +96,15 @@ possibility of heading to Barnes the next day.
 
 #### A walk around WWT London
 
-We arrive at Barnes (a.k.a WWT London) just after 10:30am with the
-bright eyes and bushy tail that should have been deployed six days
-previous. Why Barnes (and not Rainham)? I'll give you a clue: it's
-cold, but the sun is shining, and there's only a slight
-breeze. Rainham might yield a Bearded Reedling or two, or maybe a
-Short-Eared Owl later in the day, but we're in Barnes to get a
-potential difficulty out of the way as soon as possible; the Bittern.
+We arrive at Barnes (a.k.a [WWT London](/sites/Barnes_WWT.html)) just after 
+10:30am with the bright eyes and bushy tails that should have been deployed six days
+previous. 
+
+Why Barnes (and not Rainham)? I'll give you a clue: it's cold, but the sun is
+shining, and there's only a slight breeze. Rainham might yield a Bearded 
+Reedling or two, or maybe a Short-Eared Owl later in the day, but we're in 
+Barnes to get a potential difficulty out of the way as soon as possible; the
+Bittern.
 
 <figure class="figure">
   <img
