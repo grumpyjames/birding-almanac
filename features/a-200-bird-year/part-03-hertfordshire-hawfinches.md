@@ -25,12 +25,12 @@ end of a forty minute train journey.
 The cycle from Hertford North to Bramfield has some surprises, though;
 a Red Kite floats above the road. A collection of blobs in a furrowed
 field catches my eye as I cycle by. The bird book section of the brain
-pipes up excitedly: "were those grey partridges?" Well, potentially,
+pipes up excitedly: "were those Grey Partridges?" Well, potentially,
 but could you be quicker next time? I turn the bike around, retrace my
 steps (pedal strokes?) and cast my eyes over where the blobs were.
 
 Were being the operative word. As the area is now blob
-free. Hmm. That's quite the disappearing act. There are hints of bird
+free. Hmm. Quite the disappearing act. There are hints of bird
 along the ridges of the furrows, but they could just as easily be
 rocks. A watched field never boils, they say, so I briefly examine my
 phone to make sure I'm still on the right track. I am. No further
@@ -39,8 +39,8 @@ however.
 
 There, that ought to suffice. I glance quickly at the field, and what
 were hints of blobs are now blobs once more, fooled into action by my
-pretence of non-interest. Even better, they clearly _are_ grey
-partridges; a bird I've never seen in the wild before. Hertfordshire's
+pretence of non-interest. Even better, they clearly _are_ Grey
+Partridges; a bird I've never seen in the wild before. Hertfordshire's
 already gone up in my birding estimation, and we're only a couple of
 weeks into the year.
 
