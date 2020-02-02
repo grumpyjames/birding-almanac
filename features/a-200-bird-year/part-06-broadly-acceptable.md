@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-01-31T21:11:33.000Z
-updated_time: 2020-01-31T21:11:33.000Z
+publish_time: 2020-02-01T21:11:33.000Z
+updated_time: 2020-02-01T21:11:33.000Z
 title: Part 06: Broadly Acceptable
 ---
 
