@@ -10,7 +10,10 @@ The next weekend stays mysteriously free. A short-notice winter trip
 to Norfolk is hastily planned; we'll do our usual trip of picking up a
 car from Stansted Airport and driving the rest of the way.
 
-Pronoun guidance: as ever, AB1 is the nominated driver.
+This entry covers the Saturday of that weekend (27th January 2018); enough 
+happened to merit separate entries for each day.
+
+Pronoun guidance: as ever, AB1 is the designated driver.
 
 #### An inauspicious hostelry
 
@@ -34,7 +37,7 @@ better than I managed the last time I was here), kit up and traipse
 off along the trail towards the Wash. There's just enough light to not
 need a torch.
 
-I'm halfway between excited and fearful - the RSPB's website
+I'm vacillating between excited and fearful - the RSPB's website
 maintains a list of the dates it is sensible to see this spectacle,
 and while yesterday was listed, today is not. I'm hoping there's enough
 noise in that schedule that we're going to be lucky; I'm going to be
