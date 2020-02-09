@@ -2,7 +2,6 @@
 publish_time: 2019-12-17T20:13:00.000Z
 updated_time: 2019-12-17T20:13:00.000Z
 title: Welcome to Average Birding
-pinned: True
 ---
 
 ### Welcome to Average Birding
