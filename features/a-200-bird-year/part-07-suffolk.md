@@ -65,7 +65,7 @@ all count.
 #### Minsmere
 
 The next morning, we split into two teams; one is heading to Minsmere,
-the other is going shopping. The Minsmere team is Emma, Dad and I. The
+the other is going shopping. The Minsmere team is AB2, Dad and I. The
 best bird we see is, in fact, just outside the reserve - there's a
 Glossy Ibis bimbling around in the fields just before the
 road-with-the-terrifying-bumps in.
