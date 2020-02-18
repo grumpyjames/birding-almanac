@@ -80,9 +80,9 @@ five-minute crawl along the terrible road to Shellness village later, and we're 
 
 After a brief wander to look at the beach (Brent Geese and Oystercatchers 
 mostly), we set off around the reserve. We're hopeful, again, for Short-eared
- Owl, but there's also, from what [I've been reading]
- (http://lettersfromsheppey.blogspot.com/2019/), the possibility of 
- coming across some White-fronted Geese, or even a Bean Goose!
+Owl, but there's also, from what [I've been reading](http://lettersfromsheppey.blogspot.com/2019/), 
+the possibility of 
+coming across some White-fronted Geese, or even a Bean Goose!
  
 What we mostly get, however, is a continuum of Brent Geese. Flying over. 
 Honking in the distance. Honking in nearby fields. Occasionally some Greylags 
@@ -286,7 +286,7 @@ forty minutes has passed before we're back on the gravel track between the
 first hides and the car park, and surely no more than ten minutes before we 
 have the farm buildings within an easy glance.
 
-A bunch of confused looking birdings ambush us. "Is this where the Owls are?"
+A bunch of confused looking birders ambush us. "Is this where the Owls are?"
  Hmm. There's some ambiguity in that question. Which owls, we ask? "The Long
 and the Short-eared ones." Oh. "Some bloke in a mac told us to wander down 
 here and there'd be people looking." Ah. Well, that isn't us, but we can at 
@@ -300,7 +300,7 @@ through the binoculars are more suggestive of Buzzard than owl. Perhaps only
 the leftmost one of them is a Short-eared Owl? No, I'm totally wrong, all 
 three are Shorties. Brilliant. We haven't even got to the Long-eared Owls yet
 and the gang we've rescued are already very pleased with us. We deliver them 
-to the small group of folks ogling the still present Long-Eareds (how did 
+to the small group of folks ogling the still present Long-eareds (how did 
 they miss these people?) and then get on with our own session of gawping 
 unbelievingly at the Short-eareds.
 
