@@ -208,7 +208,7 @@ def features(
   feature_cells = []
 
   def as_html(md_file):
-    return md_file.rstrip(".md") + ".html"
+    return md_file.replace(".md", "") + ".html"
 
   def about_feature(path_to_feature):
     with open(path_to_feature + '/about.md') as about_feature:
@@ -264,7 +264,7 @@ def features(
             'type': 'feature',
             'feature_path': feature,
             'feature_title': feature_title,
-            'feature_item_path': file.rstrip(".md"),
+            'feature_item_path': file.replace(".md", ""),
             'feature_item_title': md.Meta["title"][0]
           })
 
@@ -420,7 +420,7 @@ def sites(
 
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
-      sites_to_convert.append((filename, filename.rstrip(".md")))
+      sites_to_convert.append((filename, filename.replace(".md", "")))
     elif filename.endswith(".png"):
       lazy_image_copy("sites/" + filename, os.path.join(output, "sites/" + filename))
   for (f, site_name) in sites_to_convert:
