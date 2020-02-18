@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-02-09T12:38:00.000Z
-updated_time: 2020-02-09T12:38:00.000Z
+publish_time: 2020-02-09T20:38:00.000Z
+updated_time: 2020-02-09T20:38:00.000Z
 title: Part 07: Suffolk
 ---
 
@@ -10,13 +10,13 @@ Or: Out East, again: Circumstances conspire to bring us back to Stansted to
 pick up a different car the following weekend. 
 
 Dad's just turned 65, and is triumphantly retiring. We're meeting up with 
-immediate family in Aldeburgh to celebrate, taking the Friday off to allow 
-for a bit of gentle birding on the way.
+family in Aldeburgh to celebrate, taking the Friday off to allow for a bit of
+gentle birding on the way.
 
 Pronoun guidance: AB1 __still__ driving. This entry covers the events of 
 February 2nd-4th, 2018.
 
-#### Hazlewood Marsh
+#### Hazlewood Marshes
 
 The omens are good - before we've left the environs of the airport
 we're two ticks up; there are Rooks in the car park, and a Sparrowhawk
@@ -27,7 +27,7 @@ isn't in it.
 Did I mention the gentle bit? I should emphasise it. Last weekend we
 overdid it; too much driving, not enough meandering. We're not going
 to go on giant detours to find things this time; we'll just pick up
-what's on the way. Our first stop is Hazlewood marsh, where there are
+what's on the way. Our first stop is Hazlewood Marshes, where there are
 reports of Coues' Arctic Redpoll. I am ignoring the "Coues'" part, to
 be honest. A Common Redpoll would do nicely, any old Arctic would be a
 luxury; it wouldn't be unusual to miss the entire species across the year.
@@ -41,7 +41,7 @@ and wildfowl to see from the hide (along with the year's first Meadow
 Pipits), but the best thing is the tranquillity of the place. Thursday 
 suddenly seems like a very long time ago. What a place.
 
-There is still no sign of the c-a-r on the way back, and we feel
+There is still no sign of the C-A-R on the way back, and we feel
 thoroughly vindicated in our decision to go for an explore
 instead. Onward to Aldeburgh...
 
@@ -81,8 +81,8 @@ road-with-the-terrifying-bumps in.
 </figure>
 
 Dad is mostly here for Marsh Harrier, and there are enough of them to 
-prove satisfactory. We pick up Whooper Swan for the year from the Bittern 
-hide, and additionally some Siskins from the woodland behind, but little else.
+prove satisfactory. We pick up our first Whooper Swans of the year from the 
+Bittern hide, and additionally some Siskins from the woodland behind, but little else.
 We do a quick lap around the beach route (Stonechat the only saving grace) 
 before scooting off to rendezvous with team shopping in Dunwich.
 
@@ -107,4 +107,4 @@ Sunday is a birding write-off, but a walking triumph - we overcome a
 foul Northerly wind to walk to Thorpeness for a delicious lunch. Afterwards, 
 there only remains the drive back to Stansted to drop off the car, and a
 sleepy National Express coach ride back to Golders. Not as many ticks
-as our previous weekend, but just as pleasant a trip.
+as our previous weekend, but a very pleasant trip.
