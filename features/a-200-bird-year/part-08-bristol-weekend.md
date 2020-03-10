@@ -63,7 +63,8 @@ smart duck, all told). Gallons of Golden Plover? (That's enough alliteration
     class="figure-img img-fluid rounded"
     alt="These are greasy plovers (they'll get a hold on you; believe it!)"/>
   <figcaption class="figure-caption text-center">
-    These are greasy plovers (they'll get a hold on you; believe it!)
+    <a href="https://www.youtube.com/watch?v=2aJ2Vh_e2dQ">These are greasy 
+    plovers (they'll get a hold on you; believe it!)</a>
   </figcaption>
 </figure>
 
@@ -85,15 +86,15 @@ break from the watery lot.
 </figure>
 
 Onwards again; the next real stop is the Tower hide. Again, it's
-_very_ busy. How is Slimbridge more jam packed than WWT London? I'm
+_very_ busy. How is Slimbridge more jam-packed than WWT London? I'm
 torn between being pleased that there's so much birding enthusiasm and
 feeling mildly claustrophobic.
 
 Mum doesn't seem comfortable either. Although this may be because the 
-surfeit of greylag geese has brought into focus the total lack of 
-any of the white fronted variety. Having stuffed myself into a seat at the 
-side of the hide, I happen across a remedy - a bunch of six white fronted 
-geese flies in and lands. There's something quite prideful about a goose and
+surfeit of Greylag Geese has brought into focus the total lack of 
+any of the white-fronted variety. Having stuffed myself into a seat at the 
+side of the hide, I happen across a remedy - a bunch of six White-fronted 
+Geese flies in and lands. There's something quite prideful about a goose and
 the white around the beak this lot have seems to amplify it. This is _our_
 reserve, we'll have you know.
 
@@ -108,12 +109,12 @@ reserve, we'll have you know.
 </figure>
 
 In other goose news, there are a few Barnacle spotted around in the mud in 
-front of us; probably wild according to the professionals in the hide. To 
+front of us; probably wild, according to the professionals in the hide. To 
 complete Mum's target list, there are also several cranes poking about.
 
-We beat a retreat from the Tower hide, and after a brief discussion,
+We beat a retreat from the Tower hide and, after a brief discussion,
 from the reserve itself; we have a lunch plan to make and some more
-exploring to do - birding wise not a lot happens, but we can recommend
+exploring to do - birding-wise not a lot happens, but we can recommend
 [The Red Lion](http://www.redlionarlingham.co.uk/) if you're in need
 of a meal and the world and his wife (+ several large dogs and 
 inappropriately large vehicle) have already flooded Frampton.
@@ -132,14 +133,14 @@ inappropriately large vehicle) have already flooded Frampton.
 
 We trespass further on parental time the next day by commandeering a
 lift to Bristol. There's a hook though; we're going via Aust Warth,
-where, by all accounts, there ought to be a short eared owl or two for
+where, by all accounts, there ought to be a Short-eared Owl or two for
 us to catch up with.
 
 Aust is between the two Severn bridges. The land feels quite broken up
-- "it's neither fish nor fowl" cries AB2; a remarkably unbruised idiom. I'm 
-reminded of various Pratchettian descriptions of parts of Lancre. The RSPB would probably
-describe it as having 'big skies' (please, make it stop). It's definitely 
-wild. And a bit grubby. 
+- "it's neither fish nor fowl" cries AB2; a remarkably unbruised idiom, for 
+her vernacular. I'm reminded of various Pratchettian descriptions of parts of Lancre.
+The RSPB would probably describe it as having 'big skies' (please, make it 
+stop). It's definitely wild. And a bit grubby. 
 
 There's a reedbed at the North East end (the M48 crossing), and an old ferry 
 crossing. We park nearby (it seems to be the only appropriate road) and have 
@@ -180,5 +181,5 @@ before it becomes plain to us that, sadly, it's time to make a
 move. Given we'd given up, we're now all the more appreciative of the
 treat we've just had.
 
-February total: we're up to 109. A mid March finish may have been
+February total: we're up to 109. A mid-March finish may have been
 overly optimistic.
