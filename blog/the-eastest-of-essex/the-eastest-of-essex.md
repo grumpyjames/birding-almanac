@@ -125,7 +125,7 @@ yields only geese, and the wind quickly persuades us to move on.
 Our penultimate stop is South of the Wigborough Road causeway. Lots of bird 
 websites refer to this particular bit of the reservoir as "Billet's Farm 
 Screen", without any reference to how to get there. Once you're in the area, 
-there are potentially helpful signs, but to remove all possible double, park
+there are potentially helpful signs, but to remove all possible doubt, park
 [here](https://www.google.co.uk/maps/place/51%C2%B048'54.6%22N+0%C2%B050'54.7%22E), 
 and from there there's an obvious path to a screen that looks out over one of the reservoir's lobes.
 
@@ -179,7 +179,7 @@ is visible from one route, and other routes are very muddy.
 From what we can work out, for our schedule and level of enthusiasm there's 
 only one viable circular route anyway, and so, unfortunately, this 
 information is of little use to us and, despite the clear confusion this 
-arises in our car-park friend, head off in the direction she explicitly 
+causes in our car-park friend, head off in the direction she explicitly 
 advised us against.
 
 Despite the name, most of this reserve is woodland rather than estuary. There
@@ -197,7 +197,7 @@ Eventually the path turns left, and, as we cross the railway line, we finally
 catch sight of a house for Essex, and make appropriate jokes (it doesn't 
 look big enough to house all of Essex, etc).
 
-We head back to Dovercourt for a lunch of baked goods, before heading into     
+We head back to Dovercourt for a lunch of baked goods, before heading into 
 Harwich proper to walk our way around the [Maritime Trail](https://www.harwich-society.co.uk/harwich-maritime-trail-map/)
 . If you've got a couple of hours to spend in the town, we would recommend 
 this, not least because it will give you the opportunity to scout which pubs 
