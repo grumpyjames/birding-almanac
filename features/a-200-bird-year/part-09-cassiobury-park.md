@@ -10,7 +10,8 @@ Our first trip this month ends up being a bit closer to home. I decide,
 arbitrarily, that this is the year I am going to track down Lesser-spotted 
 woodpecker.
  
-Pronoun guidance: AB1 arbitrarily decided.
+Pronoun guidance: AB1 arbitrarily decided. This post covers the events of 
+March 10th, 2018. 
 
 #### Lesser-spotted Woodpecker 
 
