@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-03-28T08:35:00.000Z
-updated_time: 2020-03-28T08:35:00.000Z
+publish_time: 2020-04-10T08:35:00.000Z
+updated_time: 2020-04-10T08:35:00.000Z
 title: The Eastest Of Essex
 ---
 
@@ -16,10 +16,10 @@ Pronoun guidance: AB1's Mum.
 Proving that, occasionally, advertising is worth something, we spy a 
 birding boat trip around the River Stour that happens to sail near Mum's 
 birthday. This ties in nicely with our general plan to visit more of the 
-coast to see which bits we like; let's make a weekend of it.
+coast to see which bits we like.
 
 The ship sails from Harwich on the Sunday. This is inaccessible enough that we 
-should make a weekend of it; heck, let's take a Friday off as well.
+should make a weekend of it; heck, let's take a Friday off while we're at it.
 
 Where else to go though? Well, on the way, we could perhaps visit Abberton 
 Reservoir, the RSPB's Old Hall Marshes, or maybe Essex Wildlife Trust's 
@@ -89,7 +89,7 @@ their directions are about as helpful as they are forthcoming.
 
 We spend a while glowering at huge chunks of reservoir and shoreline in 
 search of Peregrine, Smew, or Long-tailed Duck and find nothing but Coot. 
-Either or perseverance or sheer hopelessness melts the frozen hearts of the 
+Either perseverance or sheer hopelessness melts the frozen hearts of the 
 local pair, and quietly, one admits "might have a pair of Long-tailed Duck".
 
 This time the directions are better; look at that man-made bit with the 
@@ -120,14 +120,15 @@ this continues to be a universal sign of decent pub.
 
 We leave the pub satisfied, but there's still some birding to do. We can have
 a look at a bit more of the reservoir from the Layer Breton causeway. This 
-yields only geese, and the wind quickly persuades us to move on.
+yields only geese, and the wind quickly encourages us to move on.
 
 Our penultimate stop is South of the Wigborough Road causeway. Lots of bird 
 websites refer to this particular bit of the reservoir as "Billet's Farm 
 Screen", without any reference to how to get there. Once you're in the area, 
 there are potentially helpful signs, but to remove all possible doubt, park
 [here](https://www.google.co.uk/maps/place/51%C2%B048'54.6%22N+0%C2%B050'54.7%22E), 
-and from there there's an obvious path to a screen that looks out over one of the reservoir's lobes.
+and from there, there's an obvious path to a screen that looks out over one 
+of the reservoir's lobes.
 
 A horde of gulls are angry that we have worked this out, and rise up in the 
 air in protest.
@@ -142,7 +143,7 @@ air in protest.
   </figcaption>
 </figure>
 
-We reach the screen unscathed by gulls, and are treated to the first bit of 
+We reach the screen unscathed by gulls and are treated to the first bit of 
 sunshine of the day. The warmth is almost tangible. Almost. From the screen -
 more wildfowl; huge rafts of Teal and Wigeon whistling, peeping and 
 squeaking. They might not be uncommon but the sound of a huge flock of them 
@@ -150,8 +151,8 @@ is undeniably cheerful.
 
 To the right; a sizable fleet of Goosander. Perhaps our Smew is amongst them?
 Yes indeed! In the sunlight, too, and without the tedious frequency of 
-diving that would make it difficult to get everyone on to. Which is a 
-relief, because despite the sunshine, we're all desperate to get back to the 
+diving that would make it difficult to get everyone on to it. Which is a 
+relief, because despite the sunshine, we're all keen to get back to the 
 car.
 
 Only a brief sojourn at the Wigborough Road causeway to take a closer look 
@@ -172,25 +173,25 @@ rushing back to the warmth of the car and setting out for Harwich.
 #### Saturday
 
 We make it to the RSPB's [Stour Estuary](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/stour-estuary/) reserve
-for around half past ten; not a bad start for this group. Unfortunately, we 
-are then assailed by busybodies. Apparently, Grayson Perry's [house for Essex](https://www.living-architecture.co.uk/the-houses/a-house-for-essex/)
-is visible from one route, and other routes are very muddy.
-
-From what we can work out, for our schedule and level of enthusiasm there's 
-only one viable circular route anyway, and so, unfortunately, this 
-information is of little use to us and, despite the clear confusion this 
-causes in our car-park friend, head off in the direction she explicitly 
-advised us against.
+for around half past ten; not a bad start for this group. Further progress 
+temporarily flounders on exiting our vehicle, when we are assailed by 
+busybodies. Allegedly, Grayson Perry's [house for Essex](https://www.living-architecture.co.uk/the-houses/a-house-for-essex/)
+is visible from one route and other routes are very muddy. From what we can 
+work out, however, for our schedule and level of enthusiasm, there's 
+only one viable circular route, making this unbidden information of 
+little use to us and, despite the clear confusion this 
+causes our new car park companions, we head off in the direction 
+we've explicitly been advised against.
 
 Despite the name, most of this reserve is woodland rather than estuary. There
 are two hides overlooking the estuary, but they're too far for us to 
-walk today. There is a screen at the Copperas bay viewing point that _is_ on 
-our route though, and what a view it has! Loads and loads of waders; 
+walk today. There is a screen at the Copperas Bay viewing point that _is_ on 
+our route and what a view it has! Loads and loads of waders; 
 Black-tailed Godwits, Beefcake Plover, Dunlin, and after a bit of squinting 
-through the scope, a few Knot as well. All good year ticks for Mum.
+through the scope, a few Knot as well. All welcome year ticks for Mum.
 
 We don't tarry long though - it's not warm enough to stay still in the shade.
-A slightly more open area alongside the water yields a pair of Buzzards 
+A slightly more open area alongside the water yields a pair of Buzzards, 
 floating above the woodland inland. We walk past a collection of dwellings 
 that look delightful, but that also yell "Flood risk" in my subconscious. 
 Eventually the path turns left, and, as we cross the railway line, we finally
@@ -201,19 +202,19 @@ We head back to Dovercourt for a lunch of baked goods, before heading into
 Harwich proper to walk our way around the [Maritime Trail](https://www.harwich-society.co.uk/harwich-maritime-trail-map/)
 . If you've got a couple of hours to spend in the town, we would recommend 
 this, not least because it will give you the opportunity to scout which pubs 
-you will visit later. We discovered the [Hanover Inn](https://www.hanoverinn.co.uk/)
+to visit later. We discovered the [Hanover Inn](https://www.hanoverinn.co.uk/)
 was serving Colchester Brewery's [Brazilian Coffee Porter](https://www.colchesterbrewery.com/beer/brazilian)
-- an opportunity not to be missed.
+- an opportunity not to be passed up.
 
 We can also recommend Harwich Town as an excellent place if you like big 
 boats. As we were finishing the maritime trail, a giant container ship was 
 docking across the water at Felixstowe with the assistance of a couple of 
-tugs.
+tugs - a spectacle worth watching.
 
 #### Sunday
 
 We turn up for the boat trip obscenely early; a poor plan, because this means
-we end up hanging around on our near the boat freezing our arses off. At 
+we end up hanging around on or near the boat freezing our arses off. At 
 least if the boat was moving there would be distractions.
 
 Yes, of course, despite everyone layering like nobody's business, it's a 
