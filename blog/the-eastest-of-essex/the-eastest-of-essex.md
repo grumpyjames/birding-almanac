@@ -221,6 +221,16 @@ Yes, of course, despite everyone layering like nobody's business, it's a
 clear day, and that means it is absolutely arctic. The only people on the 
 boat not constantly shivering are the professionals. They kindly only mention
 that today's weather is better than average two or three times.
+
+<figure class="figure">
+  <img
+    src="setting-sail.png"
+    class="figure-img img-fluid rounded"
+    alt="Off we go"/>
+  <figcaption class="figure-caption text-center">
+    Off we go
+  </figcaption>
+</figure>
  
 We finally set off. The format is as follows: we boat 'up' the estuary as far
 as Mistley, and then all the way back again. A hot lunch is served in 
@@ -244,6 +254,26 @@ Slavonian Grebe from the shore - probably from quite near where we were
 yesterday, in fact. Try as we might though, we can't find them; the best we 
 get from our increased vigilance is an unexpected Shag.
 
+<figure class="figure">
+  <img
+    src="shag.png"
+    class="figure-img img-fluid rounded"
+    alt="Unexpected (but not unwelcome)"/>
+  <figcaption class="figure-caption text-center">
+    Unexpected (but not unwelcome)
+  </figcaption>
+</figure>
+
+<figure class="figure">
+  <img
+    src="galley.png"
+    class="figure-img img-fluid rounded"
+    alt="Good for eating _and_ sheltering from the cold"/>
+  <figcaption class="figure-caption text-center">
+    Good for eating _and_ sheltering from the cold
+  </figcaption>
+</figure>
+
 We disappear below decks to warm up with some lunch - sausage and mash; very 
 nice. We reappear and spend some more time looking for Slavonian Grebe. 
 Despite continuing reports of sightings from the South shore, we find nothing
@@ -252,19 +282,57 @@ starts to slim a group of Scaup are found floating off the starboard bow
 (that's the front, right? --Ed).
 
 The closer we get to Mistley, the better things get - really good views of 
-big groups of waders - lots of Avocet and Black-tailed Godwit in particular. 
+big groups of waders - lots of Avocet and Black-tailed Godwit in particular.
+
+<figure class="figure">
+  <img
+    src="mistley-waders.png"
+    class="figure-img img-fluid rounded"
+    alt="All of them got rather spooked by the boat, but the views were still good"/>
+  <figcaption class="figure-caption text-center">
+    All of them got rather spooked by the boat, but the views were still good
+  </figcaption>
+</figure>
+
 We're informed that the Co-op car-park in Manningtree has frequently been 
 _the_ place for rarities along this bit of the coast. Filed for future 
 reference!
 
 The time comes to turn the boat around and head home. The search for 
 Slavonian begins again in earnest - the shared boat scope is put to the test 
-for extended periods, but still, no dice. A quick trip belowdecks for further
-coffee (the warmest thing for a mile in any direction) and some more gawping 
-at the House for Essex occupy provide some brief distractions from the cold.
+for extended periods, but still, no dice.
+
+A quick trip belowdecks for further coffee (the warmest thing for a mile in 
+any direction) and some more gawping at the House for Essex occupy provide 
+some brief distractions from the cold.
+
+<figure class="figure">
+  <img
+    src="house-for-essex.png"
+    class="figure-img img-fluid rounded"
+    alt="Still doesn't seem big enough"/>
+  <figcaption class="figure-caption text-center">
+    Still doesn't seem big enough   
+  </figcaption>
+</figure>
+
 
 As we start to approach Harwich and the end of our journey, we're treated to 
 some flocks of Brent Geese flying across the water, and some more enormous 
-boats.
+boats on the Felixstowe side of the estuary.
+
+<figure class="figure">
+  <img
+    src="big-boats.png"
+    class="figure-img img-fluid rounded"
+    alt="Who doesn't like these?"/>
+  <figcaption class="figure-caption text-center">
+    Who doesn't like these?
+  </figcaption>
+</figure>
+
+It's been a great trip - despite the cold, the novelty didn't wear off at any
+point. A solid recommend for this if you happen to find yourself near Harwich
+ in the Winter months. 
 
 
