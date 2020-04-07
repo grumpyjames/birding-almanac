@@ -239,18 +239,18 @@ there's one pro-birder calling out what's happening, and he has an assistant
 with a scope scanning the water and generally working out what's of interest 
 that's just out of eyeshot.
 
-To start with, things are quiet; our host tells us instead about some of his 
-extensive experience in conservation in the local area in the gaps, which is 
+To start with, things are quiet; our host tells us instead about 
+some of his extensive experience in conservation in the local area, which is 
 _fascinating_. After a while, some birds start to turn up. We bump into good 
 numbers of ducks in Erwarton Bay; lots of Wigeon and Teal, and a sprinkling 
-of Red-breasted Merganser; these continue to pop-up across the trip; great!
+of Red-breasted Merganser; these continue to pop up across the trip; great!
 
-As we continue, the banks of the river get muddier, and we switch from ducks 
+As we continue, the banks of the river get muddier and we switch from ducks 
 to waders, picking up Bar-tailed Godwit to add to yesterday's Black-tailed, 
 plus more Knot, Dunlin, Redshank and Curlews.
 
-Further up the river starts to widen again, and there's exciting news of 
-Slavonian Grebe from the shore - probably from quite near where we were 
+Further up, the river starts to widen again and there's exciting news of 
+Slavonian Grebe from the shore - probably quite near where we were 
 yesterday, in fact. Try as we might though, we can't find them; the best we 
 get from our increased vigilance is an unexpected Shag.
 
@@ -274,12 +274,12 @@ get from our increased vigilance is an unexpected Shag.
   </figcaption>
 </figure>
 
-We disappear below decks to warm up with some lunch - sausage and mash; very 
-nice. We reappear and spend some more time looking for Slavonian Grebe. 
-Despite continuing reports of sightings from the South shore, we find nothing
-. Eventually we begin to approach Mistley, and, excitement, as the channel 
-starts to slim a group of Scaup are found floating off the starboard bow 
-(that's the front, right? --Ed).
+We disappear below deck to warm up with some lunch - sausage and mash 
+followed by apple pie and cream; very nice. Post-pie we emerge above deck and 
+spend some more time looking for Slavonian Grebe. Despite continuing reports of 
+sightings from the South shore, we find nothing. Eventually we begin to approach
+Mistley and, excitement, as the channel starts to slim, a group of Scaup are
+found floating off the starboard bow (that's to the front and right, right? --Ed).
 
 The closer we get to Mistley, the better things get - really good views of 
 big groups of waders - lots of Avocet and Black-tailed Godwit in particular.
@@ -303,8 +303,8 @@ Slavonian begins again in earnest - the shared boat scope is put to the test
 for extended periods, but still, no dice.
 
 A quick trip belowdecks for further coffee (the warmest thing for a mile in 
-any direction) and some more gawping at the House for Essex occupy provide 
-some brief distractions from the cold.
+any direction) and some more gawping at the House for Essex provide some brief
+distractions from the cold.
 
 <figure class="figure">
   <img
@@ -315,7 +315,6 @@ some brief distractions from the cold.
     Still doesn't seem big enough   
   </figcaption>
 </figure>
-
 
 As we start to approach Harwich and the end of our journey, we're treated to 
 some flocks of Brent Geese flying across the water, and some more enormous 
@@ -333,6 +332,6 @@ boats on the Felixstowe side of the estuary.
 
 It's been a great trip - despite the cold, the novelty didn't wear off at any
 point. A solid recommend for this if you happen to find yourself near Harwich
- in the Winter months. 
+in the Winter months. 
 
 

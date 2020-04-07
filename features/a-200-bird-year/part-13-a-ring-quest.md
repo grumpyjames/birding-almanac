@@ -10,8 +10,8 @@ The weekend of the 7th arrives. I am on call on the Saturday; I need
 to stay near an internet connection. AB2 disappears off to meet some
 of our friends for a night out in South London. Trouble. 
 
-Pronoun guidance: AB1 would never agree to go for a night out in South London
-. This post covers the events of 7th-8th April 2018.
+Pronoun guidance: AB1 would never agree to go for a night out in South London. 
+This post covers the events of 7th-8th April 2018.
 
 #### Saturday: Effective altruism
 
@@ -61,18 +61,18 @@ very honest face I can turn around and say "once we're into this wood
 it gets a lot better".
 
 A Red Kite sheltering on the edge of the wood provides a further
-distraction, and the general mood improves. On the exit of the woods,
+distraction and the general mood improves. On the exit of the woods,
 we start to climb Pitstone Hill. It's here that the landscape starts
 to open up a bit, and my radar tells me this isn't the last place we
 might find an Ouzel. I blitz up to the top of the hill to obtain the
-best view, and to the North, sitting on a fence, is a blob of roughly
+best view and, to the North, sitting on a fence, is a blob of roughly
 the right size and colour. Probably just a Blackbird. Nope; there's
-that patch of white on the chest; my first ever Ring Ouzel. Woo. AB2
+that patch of white on the chest; my first ever Ring Ouzel. Woohoo. AB2
 catches up; the bird obliges her with a decent view as well.
 
 We're now back into solid walk territory - we might as well get to the
 end of the trail at the top of Ivinghoe beacon. I push my luck by taking the
-steep descent down the North side. More complaints ensue. 
+steep descent down the North side. Further complaints ensue. 
 
 <figure class="figure">
   <img
@@ -91,4 +91,4 @@ crisps in record time.
 A pair of Little Gulls have been frequenting the nearby Wilstone reservoir, 
 but that's too far for us today; even my non-hungover feet protest at the 
 thought. After a brief cameo from the first Swallow of summer, all that 
-remains is a return walk down the utterly lifeless grand union canal.
+remains is a return walk down the utterly lifeless Grand Union Canal.
