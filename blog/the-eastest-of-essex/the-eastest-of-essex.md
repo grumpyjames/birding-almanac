@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-04-10T08:35:00.000Z
-updated_time: 2020-04-10T08:35:00.000Z
+publish_time: 2020-04-10T15:17:00.000Z
+updated_time: 2020-04-10T15:17:00.000Z
 title: The Eastest Of Essex
 ---
 
@@ -13,13 +13,14 @@ Pronoun guidance: AB1's Mum.
 
 #### Research
 
-Proving that, occasionally, advertising is worth something, we spy a 
-birding boat trip around the River Stour that happens to sail near Mum's 
-birthday. This ties in nicely with our general plan to visit more of the 
-coast to see which bits we like.
+Proving that, occasionally, advertising is worth something, in Birdwatch's ad
+section we spy a birding boat trip around the River Stour that just happens to 
+sail near Mum's birthday. This ties in nicely with our general plan to visit
+more of the coast to see which bits we like.
 
-The ship sails from Harwich on the Sunday. This is inaccessible enough that we 
-should make a weekend of it; heck, let's take a Friday off while we're at it.
+[The ship](https://www.sbvictor.co.uk/) sails from Harwich on the Sunday. 
+This is inaccessible enough that we should make a weekend of it; heck, let's 
+take a Friday off while we're at it.
 
 Where else to go though? Well, on the way, we could perhaps visit Abberton 
 Reservoir, the RSPB's Old Hall Marshes, or maybe Essex Wildlife Trust's 
@@ -96,11 +97,11 @@ This time the directions are better; look at that man-made bit with the
 building on the end that juts out into the reservoir. Now come back towards 
 us. There.
 
-Even then, this is not easy work; this is close to the limit of pur little 
-travelscope, and the waves whipped up by the freezing cold wind outside hide 
+Even then, this is not easy work; this is close to the limit of our little 
+scope, and the waves whipped up by the freezing cold wind outside hide 
 both birds for significant periods. I wrangle the scope for a moment or 
 two, and, after a few false positives, I pick up a pair of birds that are 
-definitively Long-tailed Ducks - even at this range.
+definitively Long-tailed Ducks, even at this range.
 
 They are _utterly invisible_ with binoculars, however. And Mum has not had 
 quite the level of scope practice we have had. I explain the concept of 
@@ -174,7 +175,7 @@ rushing back to the warmth of the car and setting out for Harwich.
 
 We make it to the RSPB's [Stour Estuary](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/stour-estuary/) reserve
 for around half past ten; not a bad start for this group. Further progress 
-temporarily flounders on exiting our vehicle, when we are assailed by 
+temporarily founders on exiting our vehicle, when we are assailed by 
 busybodies. Allegedly, Grayson Perry's [house for Essex](https://www.living-architecture.co.uk/the-houses/a-house-for-essex/)
 is visible from one route and other routes are very muddy. From what we can 
 work out, however, for our schedule and level of enthusiasm, there's 
@@ -204,7 +205,7 @@ Harwich proper to walk our way around the [Maritime Trail](https://www.harwich-s
 this, not least because it will give you the opportunity to scout which pubs 
 to visit later. We discovered the [Hanover Inn](https://www.hanoverinn.co.uk/)
 was serving Colchester Brewery's [Brazilian Coffee Porter](https://www.colchesterbrewery.com/beer/brazilian)
-- an opportunity not to be passed up.
+- an opportunity not to be missed.
 
 We can also recommend Harwich Town as an excellent place if you like big 
 boats. As we were finishing the maritime trail, a giant container ship was 
@@ -334,4 +335,12 @@ It's been a great trip - despite the cold, the novelty didn't wear off at any
 point. A solid recommend for this if you happen to find yourself near Harwich
 in the Winter months. 
 
-
+<figure class="figure">
+  <img
+    src="sbvictor.png"
+    class="figure-img img-fluid rounded"
+    alt="Sailing barge Victor"/>
+  <figcaption class="figure-caption text-center">
+    Sailing barge Victor
+  </figcaption>
+</figure>
