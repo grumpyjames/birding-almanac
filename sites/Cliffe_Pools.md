@@ -105,8 +105,7 @@ ago.
 The Hoo Peninsula's sprawl is apparently also very good; I've never
 managed to get to it, though. 
 
-The RSPB's [Northward
-Hill](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/northward-hill)
+The RSPB's [Northward Hill](https://www.rspb.org.uk/reserves-and-events/reserves-a-z/northward-hill)
 reserve is also within range, but again; I've not been (but I'd be
 tempted to bet Cliffe Pools is better...)
 
