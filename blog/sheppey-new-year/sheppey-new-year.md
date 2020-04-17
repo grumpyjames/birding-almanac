@@ -268,7 +268,7 @@ wondering if we're losing our collective grip on reality.
 </figure>
  
 It's totally worth it when we get there. Even on a grey day the view from
-the hide is great. And there are boatloads of Grey Plover, after a brief 
+the hide is great. And there are boatloads of Grey Plover, which, after a brief 
 consult with the bird book, will now forever be Beefcake Plover, because they
 are such hilarious chunks compared to their Plover brethren. There's a 
 good collection of other waders, too, and a few ducks off back in the 
