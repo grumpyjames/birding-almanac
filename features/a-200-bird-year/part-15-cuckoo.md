@@ -17,7 +17,7 @@ Pronoun guidance: AB1 flies solo. This post covers the events of April
 #### An early start
 
 I swoop out of the house around 6:45am. That should be early enough. Today's
-target is Cuckoo, and the venue is Two Tree Island, a landfill site that was 
+target is Cuckoo, and the venue is [Two Tree Island](https://www.essexwt.org.uk/nature-reserves/two-tree-island), a landfill site that was 
 filled long enough ago to have transitioned back into a nature reserve. It's 
 either a forty-minute walk, or two ten-minute walks and a little wait at 
 Chalkwell station to get there. It turns out I am lazy; it probably helps 
@@ -40,14 +40,16 @@ Island (a small pond surrounded by reeds; at one edge, a makeshift
 hide/blind sits). The Cuckoo sounds very close indeed from here, but I
 still can't see it. 
 
-A few Reed Warblers flit around in the reeds making their
-uncomfortable little scritchy noise; a Whitethroat jumps around in a
-tangle of bushes off to the right. "Cuckoo! Cuckoo!" yells a bird on
-the treeline behind it. Not a trick of the sound then; the bird is at
-most fifteen metres away - that's flat out confiding for Cuckoo. The
-bird poses for long enough for me to take a couple of photos of it,
-and to my surprise, is enough of a performer to cuckoo once or twice
-when I work out how to take a video of it, too.
+A few Reed Warblers are making their uncomfortable little scritchy noise in 
+the reeds; they're not friendly enough to make an appearance though, sadly. A 
+Whitethroat jumps around in a tangle of bushes off to the right. "Cuckoo! 
+Cuckoo!" yells a bird on the treeline behind it. Not a trick of the
+sound then; the bird is at most fifteen metres away - that's flat out 
+confiding for Cuckoo. The bird poses for long enough for me to take a 
+couple of photos of it, and to my surprise, is enough of a performer to 
+cuckoo once or twice when I work out how to take a video of it, too (since 
+lost; photo import process apparently fails to consider possibility of video;
+ gutted!).
 
 <figure class="figure">
   <img
