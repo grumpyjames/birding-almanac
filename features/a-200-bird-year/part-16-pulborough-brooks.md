@@ -19,10 +19,10 @@ Pronoun guidance: AB1's on the coach. This post covers the events of April
 
 Now, I've not been to Pulborough before, but I have seen it pop up
 before during passage months on BirdGuides, when an interesting wader
-or two drops in for a day or two. 
+or two drops in for one or more days. 
 
-Going on the RSPB trip should also provide some expert assistance; I'm 
-assuming that there's going to be some sort of group leader who knows their 
+Going on the RSPB trip should provide some expert assistance; I'm 
+assuming there's going to be some sort of group leader who knows their 
 stuff and at least a few other semi-serious folk along for the ride. After 
 nearly four months of amateur (average, even) self-guiding, this will make a 
 pleasant change.
@@ -31,13 +31,13 @@ Well, that's decided then. I manage to get hold of the organiser of the
 coach, and there are still spaces; let's go for it. What possible perils could
 a coach full of mixed ability birders present?
 
-The coach leaves from outside embankment station at 8am on the
+The coach leaves from outside Embankment station at 8am on the
 Saturday. I'm there before the coach is; I mooch about in a way that
 broadcasts "too tired to interact with people right now" - this works
 perfectly, and I board the coach having only had to confirm my
 identity to the organiser.
 
-There's mild consternation when a family of folk delays the set off time by 
+There's mild consternation when a family of folk delays the set-off time by 
 turning up late. Inside the coach, the population is split. There's a pleasing 
 balance of "they're only five minutes away" versus "well, they know the 
 rules, we can't wait for everyone". My two minds can see both sides of this 
@@ -49,7 +49,7 @@ London is now a sun-kissed panorama of grassy fields and woodlands. We're
 five to ten minutes out from the reserve. Well done, sleep governor. 
 
 In those ten minutes, I work out that I have neglected to bring my RSPB 
-membership card. Much faffing and attempting to contact AB2 ensures, with 
+membership card. Much faffing and attempting to contact AB2 ensues, with 
 little success. Curses. In the end, the reserve staff don't even 
 check; the non-RSPB members have been given free passes, so it's assumed that
 non-pass holders are members (accurate, I suppose; the group seems to be free
@@ -67,7 +67,7 @@ first swifts of the year are scything around over the pool at the
 rear of the reserve. A touch too far away to hear them; shame.
 
 The plan of this outing now starts to take shape. We're going on a
-well known route, led by a man named Andrew Peel. There are a good twenty of 
+well-known route, led by a man named Andrew Peel. There are a good twenty of 
 us - how will this work? A few peel off with their own itineraries in mind, 
 but a big group still remains. At least half of the fun of this is going to 
 be seeing how this works!
@@ -101,7 +101,7 @@ Attenborough). We're treated to good views of Willow Warbler and
 Blackcap in the same area. No Nightingale though.
 
 We turn right to explore the North end of the reserve. There's another
-large pool there, and a vast hide capable of supporting a group lunch
+large pool there and a vast hide capable of supporting a group lunch
 stop. On the way, there's another viewpoint over the pool. There's not
 a lot in terms of waders, but the wire fence that bisects the area
 from side to side is laden with hirundines; all three species are
@@ -128,16 +128,16 @@ helps too. What a neck these birds have! I wonder how fast the head
 accelerates when the compact s-shape snaps straight to pick up a prey
 item.
  
-A pair of linnets pops up and down in a bush on the left. There
+A pair of Linnets pop up and down in a bush on the left. There
 is great excitement at the appearance of a water vole in a nearby
 channel. Thinking about it, this perhaps isn't a great surprise. WWT
-Arundel is only a few miles down the river Arun from here, and on a previous 
-visit I'd happily describe that area as overrun with water voles. One would 
+Arundel is only a few miles down the river Arun from here and, on a previous 
+visit, I'd easily describe that area as overrun with water voles. One would 
 hope that the population would spread around a bit!
 
 We hang here too long for my liking; the available birding is
 exhausted very soon after my limited food supply. I suppose
-that's my fault for not bringing a more diverse set of snacks. I take
+that's my fault for not bringing a more bountiful set of snacks. I take
 the opportunity to execute a sneaky wee while the rest of the group
 finishes up.
 
@@ -148,11 +148,11 @@ described as sedge (Having looked this up, I'm less convinced -Ed). Funnily
 enough, this would be a good place to pick up Sedge Warbler or Grasshopper 
 Warbler. We're here at the wrong time of day though; unless there's been 
 constant murk and rain and the sun is only just coming out, 2-3pm tends 
-to be moribund. We find a few Blackcaps but nothing else.
+to be moribund. We find a few Blackcaps, but nothing else.
 
 Further along, we encounter the second 'lens-good-birding-average'
 incident of the year. A man approaches us to ask "what is this that I've 
-taken a photo of?" It's a greenfinch. I am mystified that these folks can 
+taken a photo of?" It's a Greenfinch. I am mystified that these folks can 
 spend so much on camera kit, be clearly interested in birds, but also be so 
 green. They don't carry binoculars either. Odd. Each to their own, however!
 
@@ -171,14 +171,15 @@ this year.
 The group tarries in the Nightingale area on the way back to the
 visitor centre; I plough on; I've exhausted my food supply and these
 people don't deserve to have to cope with a hungry AB1. A chocolate brownie 
-and a coffee later I am restored.
+and a coffee later and I am restored.
 
 #### Post-reserve bonuses
 
 The group slowly filters in; they managed to track down a Nightingale
 and had good views. Vicarious happiness abound; interesting - hadn't
 realised that the success of other birders would be so contagious. It
-probably helps that I've already seen one. 
+probably helps that I've already seen one (and had a recent injection of 
+calories -Ed). 
 
 As a bonus, it appears I have been inducted into the "semi-serious birders" 
 category. Or possibly it's just that one of this group, a friendly chap named
@@ -187,8 +188,8 @@ trundle off into the sandy woodland area that's accessible from the car park
 in the hope of tracking down Woodlark; there's an area that's being 
 deliberately maintained in the hope of attracting them.
 
-This trip has no success birding wise, but it's good to get to know
-these members of this crew; they are a likeable bunch with great
+This trip has no success birding-wise, but it's good to get to know
+the members of this crew; they are a likeable bunch with great
 enthusiasm for birding, tempered by, I suspect, a lot of experience of
 finding bugger all.
 
@@ -198,10 +199,10 @@ distracting me from travel sickness by telling me about the works of
 the West London Bird Group that he runs. 
 
 Excellent - more opportunities to go birding with people who know what they're
-doing. Somehow I make it all the way back to embankment without heaving (and,
+doing. Somehow I make it all the way back to Embankment without heaving (and,
 all the time, paying enough attention to keep the conversation going). I 
 stumble around Embankment for a while until the world stops spinning, then 
-get on the Northern line home. Four tick day; new people met, no major 
+get on the Northern line home. Four-tick day; new people met, no major 
 social embarassment; jolly good.
 
 #### April roundup

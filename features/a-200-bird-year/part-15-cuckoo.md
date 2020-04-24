@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-04-21T20:46:00.000Z
-updated_time: 2020-04-21T20:46:00.000Z
+publish_time: 2020-04-24T08:38:00.000Z
+updated_time: 2020-04-24T08:38:00.000Z
 title: Part 14: Cuckoo
 ---
 
@@ -11,7 +11,7 @@ Leigh-on-Sea, where AB2's parents reside. There are plans for
 Saturday day, but there is a small window available for a bit of
 birding early on the Saturday morning.
 
-Pronoun guidance: AB1's sneaks out. This post covers the events of April 
+Pronoun guidance: AB1 flies solo. This post covers the events of April 
 21-22, 2018.
 
 #### An early start
@@ -19,7 +19,7 @@ Pronoun guidance: AB1's sneaks out. This post covers the events of April
 I swoop out of the house around 6:45am. That should be early enough. Today's
 target is Cuckoo, and the venue is Two Tree Island, a landfill site that was 
 filled long enough ago to have transitioned back into a nature reserve. It's 
-either a forty minute walk, or two ten minute walks and a little wait at 
+either a forty-minute walk, or two ten-minute walks and a little wait at 
 Chalkwell station to get there. It turns out I am lazy; it probably helps 
 that the station platform at Chalkwell has a beautiful view over the giant 
 mudflats that extend from the beach out into the estuary.
@@ -32,7 +32,7 @@ well; I've managed six before 8am on previous trips.
  
 I cross on to the island. The Cuckoo is, by my ears, on the
 Eastern half, so at the first opportunity I turn left off the
-road and into the reserve proper.
+road and into the reserve.
 
 The other good thing about Two Tree is that it is compact. Within a
 couple of minutes I'm near the main feature of the East side of the
@@ -40,8 +40,8 @@ Island (a small pond surrounded by reeds; at one edge, a makeshift
 hide/blind sits). The Cuckoo sounds very close indeed from here, but I
 still can't see it. 
 
-A few reed warblers flit around in the reeds making their
-uncomfortable little scritchy noise; a whitethroat jumps around in a
+A few Reed Warblers flit around in the reeds making their
+uncomfortable little scritchy noise; a Whitethroat jumps around in a
 tangle of bushes off to the right. "Cuckoo! Cuckoo!" yells a bird on
 the treeline behind it. Not a trick of the sound then; the bird is at
 most fifteen metres away - that's flat out confiding for Cuckoo. The
@@ -97,7 +97,7 @@ months. Even if none of them are Lesser, the pedant in me adds.
 There are a couple of hides at the Western limit of the island; one of
 them looks out on to a scrape where there are often some excellent
 waders. I wander in to find a couple of folks already in residence. I
-settle down into a seat and have a good scan. There's a good number of
+settle down into a seat and have a good scan. There's a decent number of
 Avocets, and plenty of Redshank and Oystercatcher too. A few ducks are
 floating about; none of them particularly remarkable.
 
@@ -107,7 +107,7 @@ Oystercatcher. And that one? Canada Goose. Boom. I can cope with this level
 of questioning _all_ day. The problem is this: I've found two waders at
 the back that definitely aren't Redshank, Oystercatcher, or
 Avocet. These two folks are not going to be able to help me work out
-what it is. A scope view would make things much easier, but I've left
+what they are. A scope view would make things much easier, but I've left
 mine back in London.
 
 Thankfully, the two birds in question aren't in a hurry to go
@@ -123,7 +123,7 @@ This is an excellent tick. Greenshank won't breed anywhere near here -
 they pass through once in Spring on their way to breeding grounds much
 further North (read: Scotland) and then again, in the Autumn, on the
 way back. I explain all of this to my hide companions and they make
-positive noises but are otherwise unmoved. I make some excuses about
+positive noises, but are otherwise unmoved. I make some excuses about
 breakfast and head out. After a third Greenshank is poking about in
 the creek as I round the North-Western corner (having seen two, this
 one is easier to pick out), the rest of the walk is uneventful; my
