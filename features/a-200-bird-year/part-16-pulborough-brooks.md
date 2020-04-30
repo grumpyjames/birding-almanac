@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-04-28T08:46:00.000Z
-updated_time: 2020-04-28T08:46:00.000Z
+publish_time: 2020-04-30T18:26:00.000Z
+updated_time: 2020-04-30T18:26:00.000Z
 title: Part 15: Pulborough Brooks
 ---
 
@@ -13,7 +13,7 @@ mention that the [RSPB Central London group](https://ww2.rspb.org.uk/groups/cent
 Pulborough Brooks on the same day.
 
 Pronoun guidance: AB1's on the coach. This post covers the events of April 
-28th, 2018.
+28th, 2018. Cover photo of GWE actually from Dungeness!
 
 #### A first time for everything
 
@@ -77,12 +77,12 @@ reserve is definitely going to focus on passerines; it's a
 mixture of scrubby bramble and light birch woodland. Whitethroat is the 
 default bird. Still no Lesser Whitethroat, though - there are three or four 
 people who are good enough with their ears to pick it out very quickly (what 
-a treat!), and they can't hear one.
+a treat), and they can't hear one.
 
 Andrew marshalls the group around this area at roughly the pace I'd
 choose; tarrying here and there when he picks up a hint of something 
 interesting, but not too long. It's when he shushes a few stragglers at the 
-back of the group that I know I'm in the hands of a professional, though! The
+back of the group that I know I'm in the hands of a professional, though. The
 guilty parties quieten down and exchange suitably chastened looks.
 
 #### No stress Nightingale dip
@@ -108,8 +108,8 @@ from side to side is laden with hirundines; all three species are
 present. House Martin is new for the year for me.
 
 The scoped among us set up to provide a better views; a few
-enthusiasts are given some helpful tips to differentiate between Sand
-Martin (brown, obvious collar, chunky), House Martin (Black, well,
+enthusiasts dispense some helpful tips to differentiate between Sand
+Martin (brown, obvious collar, chunky), House Martin (black, well,
 blue sheen, obvious white patch on rump, chunky) and Swallow
 (slimmer, red patch at top of chest, more delicate tail fork). 
 
@@ -154,7 +154,7 @@ Further along, we encounter the second 'lens-good-birding-average'
 incident of the year. A man approaches us to ask "what is this that I've 
 taken a photo of?" It's a Greenfinch. I am mystified that these folks can 
 spend so much on camera kit, be clearly interested in birds, but also be so 
-green. They don't carry binoculars either. Odd. Each to their own, however!
+green. They don't carry binoculars either. Odd. Each to their own, I suppose.
 
 The rest of the circuit is mostly uneventful; we do _hear_ a Sedge
 Warbler in a bush off to the left of one of the paths, but despite its
@@ -169,7 +169,7 @@ tick to have; the owls near where we live have been almost entirely absent
 this year.
 
 The group tarries in the Nightingale area on the way back to the
-visitor centre; I plough on; I've exhausted my food supply and these
+visitor centre; I plough on; I'm running on vapours - these
 people don't deserve to have to cope with a hungry AB1. A chocolate brownie 
 and a coffee later and I am restored.
 
@@ -179,7 +179,7 @@ The group slowly filters in; they managed to track down a Nightingale
 and had good views. Vicarious happiness abound; interesting - hadn't
 realised that the success of other birders would be so contagious. It
 probably helps that I've already seen one (and had a recent injection of 
-calories -Ed). 
+calories -AB2). 
 
 As a bonus, it appears I have been inducted into the "semi-serious birders" 
 category. Or possibly it's just that one of this group, a friendly chap named
