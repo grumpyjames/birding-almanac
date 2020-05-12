@@ -108,12 +108,12 @@ leg. This is significantly less remarkable in terms of flycatchers: we
 don't see any. A moment of brief excitement is afforded when the path
 plunges down to a tiny waterway that's emitted from a bridge the road
 goes over at the top. The opportunity for stepping stones is declined
-by Mum (dodgy hip) and Emma (solidarity) but enthusiastically taken on
+by Mum (dodgy hip) and AB2 (solidarity) but enthusiastically taken on
 by Chris and I. We are duly rewarded when a chubby brown bird that can
 only be a Dipper drills up the tiny valley and perches on a set of
 rocks not ten feet from those we just crossed.
 
-Urgent signalling towards the road-route-takers follows. Mum and Emma
+Urgent signalling towards the road-route-takers follows. Mum and AB2
 arrive after what seems like an eternity and we enter the "you two are
 making stuff up zone" while we wait for the bird to
 reappear. Thankfully, within a minute or so it does, and puts on a
