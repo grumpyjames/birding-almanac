@@ -24,7 +24,7 @@ Bowers as well; from Benfleet station back to Pitsea.
 
 Duly kitted out with the scope bag, I set out from Benfleet. The public footpath
 is well marked, but not so well maintained. Once again, I am made to regret my
-choice of shorts.This time, unfortunately, thorns are involved and even at my
+choice of shorts. This time, unfortunately, thorns are involved and even at my
 advanced age and with noticeable dodging skill, they manage to cause me some 
 damage. I take out some of my anger by swearing at some black headed gulls for
 being insufficiently interesting.
