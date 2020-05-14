@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-05-07T20:05:00.000Z
-updated_time: 2020-05-07T20:05:00.000Z
+publish_time: 2020-05-13T12:05:00.000Z
+updated_time: 2020-05-13T12:05:00.000Z
 title: Part 17: Padley Gorge
 ---
 
@@ -32,7 +32,7 @@ way. This is the third or fourth annual performance of this "they're
 usually here, and here, but of course, they aren't today, the little
 gits" performance, and it loses none of its charm in repetition. One
 day I'll see Lesser Whitethroat atop these little bushes near the
-bridge, but today is not it.
+bridge, but not today.
 
 #### Padley (via Chesterfield)
 
@@ -53,7 +53,7 @@ more exact directions: when you reach some walls off to the right of
 the path, have a look for a numbered nest box; there should be a pair
 around there.
 
-Walls are subsequently located. Are they the right walls? Perhaps we
+Some walls are subsequently located, but are they the right walls? Perhaps we
 should have asked for further identifying details. We snake our way
 through them and come to a stop where it feels like there is no path
 any more. At this point, we start to hear a call that we don't
@@ -87,7 +87,7 @@ well. Luxury.
 
 We manage to peel ourselves back on to the walk a few minutes
 later. Very slow progress is made; almost every bird we see (and hear,
-now we know what they sound like) is another pied flycatcher; the
+now we know what they sound like) is another Pied Flycatcher; the
 numbered nest boxes are a big hit. We guess we've probably seen
 somewhere between seven and ten pairs by the time we emerge from the
 woods at the top of the gorge (we guess our first serious birder was
@@ -95,11 +95,11 @@ too early, before the insects they feed on were active), as well as a
 fair few Willow Warblers that stoutly resisted any attempts to be
 turned into Wood Warblers.
 
-On exiting the wood, the scenery opens out a bit; there's still a few
+On exiting the wood, the scenery opens out a bit; there are still a few
 trees here and there, but mostly we've got a sort of mixed
 woodland/grassland/moorland border. If we're going to see Redstarts,
 I'd expect to see them here. We don't. I blame the not insignificant
-numbers of picnicking tourists and the overpriced ice-cream van.
+numbers of picnicking tourists and the overpriced ice cream van.
 
 #### A bonus tick on the way back
 
@@ -167,7 +167,7 @@ frameborder='0' width='340' height='220'></iframe>
 There are intermittent spurts of unmistakable Gropper, but exactly
 whereabouts in this bush is unclear. And there's a lot of bush to
 check. We circle around the edge of it in the hope of
-triangulating. No joy. The growing anorak (they are actually all
+triangulating. No joy. The growing anorak (they are literally all
 wearing anoraks, this isn't a slur) team make themselves useful
 pointing out a very cryptic Garden Warbler having a disagreement with
 a pair of Blackcaps. I've never managed to clap eyes on this precise

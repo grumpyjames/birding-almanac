@@ -1,17 +1,18 @@
 ---
-publish_time: 2020-05-13T08:23:00.000Z
-updated_time: 2020-05-13T08:23:00.000Z
-title: Part 17: Kentish Bank Holiday Monday
+publish_time: 2020-05-14T18:23:00.000Z
+updated_time: 2020-05-14T18:23:00.000Z
+title: Part 18: Kentish Bank Holiday Monday
 ---
 
 ### Kentish Bank Holiday Monday
 
 This early May bank holiday isn't over yet! Although, given we're
 eight ticks up already, perhaps we've earned a rest. What's that they say 
-about the wicked?
+about the wicked, though?
 
 Pronoun guidance: AB1's friends, who now prefer AB2. This post covers the 
-events of May 7, 2018.
+events of May 7, 2018. Cover photo: some fig leaves to cover the embarrassing 
+lack of relevant photos to this post.
 
 #### To High-Speed One, Once More
  
@@ -69,16 +70,16 @@ in the day, the sure sign of approval.
 
 At this point, I'm not even thinking about birds, I'm just enjoying
 the walk. As we pass underneath a railway bridge and head towards a
-large set of farm buildings, I hear an unusual dove like noise. Interesting. 
+large set of farm buildings, I hear an unusual dove-like noise. Interesting. 
 People have described Turtle Doves as 'purring'; is this what they mean? 
 Worth a look, in any case.
 
 The source of the noise is sitting in a giant tree at the opposite edge of 
-the field the road we're walking borders. It's just on the edge of being 
-identifiable; the sun's quite low; plenty of light, but colours are tricky. Is
-the top of that wing showing a warm brown colouration? It could be. I can't 
-convince myself of the id at this distance, so I get the xeno-canto page for 
-Turtle Dove up for some audio confirmation. Unmistakable.
+the field we're in. It's just on the edge of being identifiable; the sun's quite
+low; plenty of light, but colours are tricky. Is the top of that wing showing a
+warm brown colouration? It could be. I can't convince myself of the id at this
+distance, so I get the xeno-canto page for Turtle Dove up for some audio 
+confirmation. Unmistakable.
 
 <div style="display: block; margin: 0 auto; text-align: center">
 <iframe src='https://www.xeno-canto.org/181391/embed' scrolling='no' 
@@ -96,6 +97,6 @@ as the way out, only with more sparrows.
 
 The light at the end of the tunnel is the promise of a very greasy meal from 
 a fish and chip shop back in the centre of town. We collapse into a set of 
-plastic chairs and enjoy our hard earned nosh. We stagger back to the station
+plastic chairs and enjoy our hard-earned nosh. We stagger back to the station
 and board the train home; excellent day out, bonus tick, fish and chips to
 finish; a very good bank holiday all round.
