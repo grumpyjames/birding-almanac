@@ -1,10 +1,10 @@
 ---
 publish_time: 2020-05-15T08:41:00.000Z
 updated_time: 2020-05-15T08:41:00.000Z
-title: Part 19: Dip And Duck
+title: Part 19: The Five Ds of Birding
 ---
 
-### The five ds of birding
+### The Five Ds of Birding
 
 Dodge, duck, dip, dive and dodge. Dodgeball's a great film. Don't @ me. This 
 weekend, a bit of all five things is in store. 
