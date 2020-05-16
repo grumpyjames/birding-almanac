@@ -6,7 +6,7 @@ title: Part 21: The Farne Islands...and more!
 
 ### The Farne Islands...and more!
 
-Continuing our avoidance of any mention of republican unfriendly events in 
+Continuing our avoidance of any mention of republican-unfriendly events in 
 the capital, from Newcastle we travel to Beadnell. And from there, well, 
 there's a place we really have to go...
 
@@ -15,7 +15,7 @@ Pronoun guidance: AB1's bird tourettes make him no nautical friends.
 
 #### Thursday night
 
-After a united effort phone-nagging from AB2, Kate and I, Steve
+After a united effort phone-nagging from AB2, Kate and I, Dixon
 returns from work. We shove all manner of useful bedding into a car
 (note to self: shoving large amounts of bedding into a small car can
 make a journey a lot more comfortable) and set off North.
@@ -48,7 +48,7 @@ The next day, we're back in Seahouses. In a hurry. We're booked on the
 10am boat to Staple Island. At around half past nine, we read the
 small print on the booking that reckons we should attempt to be there
 around half an hour before that time, i.e now. Much haste ensues. "I'm
-in the car" is shouted at various times to chivvy folks along. Steve,
+in the car" is shouted at various times to chivvy folks along. Dixon,
 in the rush, forgets his binoculars. Honestly.
 
 We career back into Seahouses with moments to spare, only to be told
@@ -57,7 +57,7 @@ too much swell, and it isn't safe. We're advised to try the boat just
 after 12 instead; alrighty then. We rearrange our plans; the afternoon
 trip to Bamburgh now becomes the morning trip to Bamburgh. 
 
-The Grace Darling RNLI museum is duly visited (Steve, Kate and I wait
+The Grace Darling RNLI museum is duly visited (Dixon, Kate and I wait
 outside for several hours while AB2 reads every single item of text
 within it), and the castle (universally agreed to be overpriced) is gawped at
 from the car park. We return to Seahouses in time to pick up lunch items 
@@ -105,7 +105,7 @@ are too tricky to find across the year, but why not find them today?
 
 We alight on Inner Farne and are not immediately attacked by hordes of
 angry Arctic Terns. We guess that only starts to happen once the
-chicks are hatched; the last time we were here a couple of weeks later
+chicks are hatched; the last time we were here, it was a couple of weeks later
 in the year. 
 
 <figure class="figure">
@@ -324,7 +324,7 @@ Brilliant.
 
 We're not quite done for the day - we've got one Tern species left to
 find. The National Trust look after a reserve at Long Nanny, which,
-conveniently, lies a half hour walk from Beadnell Bay. We set off
+conveniently, lies a half-hour walk from Beadnell Bay. We set off
 along the beach in the hope of catching them before it gets dark.
 
 We reach the part of the beach where there are a great many signs
@@ -372,7 +372,7 @@ can point us at some Little Terns.
 
 On the way to the bridge from the beach, there's a distraction. A lamb
 has managed to get itself out of a collection of fields and is in some
-distress. I take a laissez faire attitude: if it can get out, it can
+distress. I take a laissez-faire attitude: if it can get out, it can
 get back in. Unfortunately, both Dixons are scout leaders, and this is
 not a situation they can allow to continue. 
 
@@ -383,12 +383,12 @@ the best anyone else gets is a fleeting glimpse as it ghosts off into the
 distance.
 
 After a few failed capture attempts, the team splits in two: AB2 and
-I head off to the reserve before it gets dark, Steve and Kate go after
+I head off to the reserve before it gets dark, Dixon and Kate go after
 the lamb. I wonder out loud if we'll ever see them again.
 
 We cross the bridge and scoot into the reserve. There is indeed a
 warden, equipped with the usual scope. A lot of chat follows, but none
-of it is tern related, so I get my own scope set up and have a stare
+of it is tern-related, so I get my own scope set up and have a stare
 down at the large group of terns sitting on the edge of the
 beach. 
 

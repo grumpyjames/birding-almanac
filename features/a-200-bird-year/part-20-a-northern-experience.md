@@ -7,7 +7,7 @@ title: Part 20: A Northern Experience
 ### A Northern Experience
 
 It's time to get out of the London - there's a royal wedding happening. Let's
-away to the North. Specifically, the North-East.
+away to the North. Specifically, the North East.
 
 This post covers the events of May 17th 2018. Pronoun guidance: AB1 doesn't 
 fall asleep.
@@ -24,7 +24,7 @@ Newcastle upon Tyne).
 Our outbound train renders our organisation moot by being more than an hour 
 behind schedule; we get a complete refund of our £30 tickets and lose an hour
 of sleep; not a deal we'd take if we had the option. A short taxi ride later and
-we reach the new abode of the Dixons (Kate and Steve). To bed! For we rise at
+we reach the new abode of the Dixons (Kate and Stephen). To bed! For we rise at
 6:30 for 7.
 
 #### The North Pennines
@@ -49,7 +49,7 @@ trills as it circles upwards at the left hand side. I feel unsuitably
 warm and dry; that sound is more often a harbinger of being on the
 coast (usually in Wales) on a cold grey day with squally showers. We
 get out of the car to have a look around, and that starts to work on
-the temperature part of that, at least.
+the temperature part of that feeling, at least.
 
 I've given this field a good scan and found a great many Lapwings,
 some Oystercatchers and a couple more Curlew. Martin does rather
@@ -161,7 +161,7 @@ A Golden Plover skips over at speed, peeping. One or two Curlew make their
 presence known. I manage to spot a bird of prey just as it starts bombing it
 down the valley towards us; by the time it gets into identifiable
 range it can only be a Peregrine. Despite the lack of lek, this is remarkably
-relaxing. So much so that AB2 drifts into a snooze in the back.
+relaxing. So much so that AB2 drifts off into a snooze in the back.
 
 <figure class="figure">
   <img
