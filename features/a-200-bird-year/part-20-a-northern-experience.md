@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-05-17T11:11:00.000Z
-updated_time: 2020-05-17T11:11:00.000Z
+publish_time: 2020-05-18T18:11:00.000Z
+updated_time: 2020-05-18T18:11:00.000Z
 title: Part 20: A Northern Experience
 ---
 
