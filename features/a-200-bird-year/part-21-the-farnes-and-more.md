@@ -418,4 +418,36 @@ our mobile phones; we really did let it get a bit too late.
 </figure>
 
 What a day!
- 
+
+#### And more?
+
+The Saturday is spent gently lazing around in Beadnell. No further
+ticks are acquired. We eventually return to Newcastle to allow for the
+completion of some transactions related to beds. Emma and I make
+ourselves scarce while this occurs; it's clearly been a source of
+domestic tension and we won't be able to resist stirring if we hang
+around. 
+
+Sunday has possibilities - a walk along Hadrian's wall (Kate
+and I angrily stomp past some charity walkers whose lack of pace
+offends us) is augmented with a trip to have a look at Grindon Lough
+on the way back; there's an American Wigeon being sporadically
+reported there. We can't find it despite some pretty enthusiastic
+searching, and away to a nearby pub for a refreshing beverage instead.
+
+There isn't quite time for the length diversion up to Kielder for
+Osprey, so we head back to the city to avoid missing our train
+home. Which is already an hour delayed by the time it reaches
+Newcastle; voiding the remaining value of our tip-top planning ahead!
+
+Still. Four excellent days with friends in the North have been had,
+several ticks were achieved, and all exposure to the royal wedding
+has been avoided. Both average birders undertake a victory nap on the
+journey home.
+
+A successful May; so much so that the late Bank holiday is dedicated
+to fossils rather than birds. The Little Terns from the 18th end up
+being the last tick of the month; scandalous really.
+
+May total: 166. I seriously consider trying to plot the log curve in
+the spreadsheet to find out if we get to 200 in time.
