@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-05-18T13:54:00.000Z
-updated_time: 2020-05-18T13:54:00.000Z
+publish_time: 2020-05-22T17:54:00.000Z
+updated_time: 2020-05-22T17:54:00.000Z
 title: Part 21: The Farne Islands...and more!
 ---
 
@@ -318,7 +318,7 @@ Seahouses!)
 frameborder='0' width='340' height='220'></iframe>
 </div>
 
-Brilliant.
+Brilliant. I challenge anyone to listen to that recording and not be cheered.
 
 #### Long Nanny at dusk
 
@@ -400,7 +400,7 @@ the immediate right.
  
 AB2 and I swap roles; I do the talking for a bit while she has a look at the 
 terns. To our surprise, the Dixons then arrive, having successfully deposited
-the stray lamb back in a field (it isn't clear which). 
+the stray lamb back in a field. 
 
 The Dixons proceed to have an identical conversation with the warden, which, 
 for everyone other than them, is completely hilarious. Eventually we 
