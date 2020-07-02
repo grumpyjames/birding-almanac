@@ -62,8 +62,9 @@ Scotland we plan to visit, they are not the easiest birds to see.
 
 A brief trip down a very tiny road takes us to the path up Ben Hope -
 we decide against a hike up - there isn't time, and the weather looks
-a bit shifty. We do, however, see a very bold Common Sandpiper down in
-the valley below.
+a bit shifty. The atmosphere's not helped by a family of Peregrine Falcon
+otherworldly screaming somewhere up towards the tops. We do, however, enjoy
+the sight of a very bold Common Sandpiper down in the valley below.
 
 <figure class="figure">
   <img
