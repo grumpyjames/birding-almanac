@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-07-01T09:00:00.000Z
-updated_time: 2020-07-01T09:00:00.000Z
+publish_time: 2020-07-02T18:13:00.000Z
+updated_time: 2020-07-02T18:13:00.000Z
 title: Part 24: An Osprey Spectacular
 ---
 
@@ -33,7 +33,7 @@ darkness.
 
 The next morning we are up and about...reasonably early - we've got a
 pre-booked shop to pick up from Tesco, and, it turns out, some
-additional camping related items to pick up from a local Go
+additional camping-related items to pick up from a local Go
 Outdoors. From there, we finally make a start, driving North out of
 Inverness on the A9. As we cross the Beauly Firth, I start to
 relax. The year _outside_ birding's been taking its toll; it's a
@@ -41,7 +41,7 @@ marvellous sensation to feel some of the layers of stress shedding
 away, and being replaced by excitement.
 
 We've been to the Black Isle before - so we skip the Black Isle
-Brewery tour (worth a visit if you're in the are, the heather honey
+Brewery tour (worth a visit if you're in the area, the heather honey
 one is very nice) and Canonry Point (cold, windy, impossible to park,
 no sign of promised cetaceans) and head instead to RSPB Fairy
 Glen. Gordon (the author of the book) tells us this is a great place
@@ -52,7 +52,7 @@ Gordon's advice is going to be; this is an ideal test.
 We trot off up the path; we've gone barely 100m before a Dipper pops
 up for us. Excellent. Ten points to the book. Bonus - the popularity
 of this walk means it is accustomed to people, and doesn't immediately
-piss off upstream, as Dippers are wont. We spend an inordinate amount
+fly off upstream, as Dippers are wont. We spend an inordinate amount
 of time taking what turn out to be fairly average photos (the light
 wasn't tremendous, in our defence) before deciding that making
 further progress North is more important to us than the remainder of
@@ -125,7 +125,7 @@ other side of the road, or on the telephone wires. No joy though.
 
 Ok, yes, we cheated, last post's Yellowhammer was actually from here, sorry.
 
-Once we've finished our car based feast, we trundle down the track to
+Once we've finished our car-based feast, we trundle down the track to
 the hide, accompanied by Linnets and Reed Buntings. The hide is glass
 walled, and, as a result, stiflingly hot. No-one has told this part of
 Scotland that the weather is supposed to be terrible all the time.
@@ -162,9 +162,8 @@ Back to the A9. Another gorgeous crossing follows, this time across
 the Dornoch Firth. Our next stop is another bridge; or maybe it's more
 of a causeway. Yes, we're at Loch Fleet. There's only a limited amount
 of exploring to do here, but we make a good go of it. First, we poddle
-across the smaller bridge: Lots of swallows zipping around it, Siskins
-mobbing some well tended birdfeeders in a garden on the other
-side.
+across the smaller bridge, where Swallows are zipping around it and Siskins
+are mobbing some well-tended birdfeeders in a garden across the way.
 
 <figure class="figure">
   <img
@@ -176,7 +175,7 @@ side.
   </figcaption>
 </figure>
 
-Returning to the other side, we get the scope on the contents of
+Returning to the original side, we get the scope on the contents of
 the muddier side of the Loch, which is festooned with Curlews. We
 spend a lot of time getting very excited by a completely
 unidentifiable bird sitting on the mud, until it stands up and reveals
@@ -193,9 +192,9 @@ access it, is, however - we drive all the way Golspie only to do a 300
 degree turn back towards Littleferry. Believe it or not, we're still
 on the same nature reserve. This side is considerably more
 wooded. Gordon claims Redstart and Crossbill are possibilities here,
-as well as even more Ospreys. A beautiful walk through the woods
+as well as yet more Ospreys. A beautiful walk through the woods
 yields, amusingly, two more of the third only; and these Ospreys we
-_hear_ as well as seen. Woodland birds are a bit thin on the ground; a
+_hear_ as well as see. Woodland birds are a bit thin on the ground; a
 small band of Long-tailed Tits and some very proud Chaffinches.
 
 #### Making camp in Lairg
@@ -210,16 +209,15 @@ valley back up into the the hills until it disappears under a
 forest. It also appears to be home to a double digit percentage of the
 UK's Pied Wagtails. They are all over the place!
 
-Our first campsite is just North of Lairg, [Pondside
-Camping](https://www.pondside.co.uk/). AB2 ferrets out someone from
+Our first campsite is just North of Lairg, [Pondside Camping](https://www.pondside.co.uk/). AB2 ferrets out someone from
 reception to pay, we drive into what we guess is an area we can pitch
 and get the tent up. Excellent work, all round.
 
 We realise that, given it's 6pm, we have another four to five hours
 of daylight. That's more than enough time for another solid bit of
 exploring, so we set out towards the Falls of Shin. According to all
-of our sources, there should be: a.) a waterfall, b.) salmon jumping
-up it and c.) a nice walk in the woods.
+of our sources, there should be: a) a waterfall; b) salmon jumping
+up it; and, c) a nice woodland walk.
 
 #### The Falls of Shin
 
@@ -264,7 +262,7 @@ photograph this event before deciding we really need to eat some food.
   </figcaption>
 </figure>
 
-Back up the ramps to the car park, where there is a well tended picnic
+Back up the ramps to the car park, there is a well-tended picnic
 area for this very purpose. After a quick lie down in the sun (I've
 been driving all day, and I'm still not _totally_ relaxed; I've found
 that being connected to the ground in as many places as possible
@@ -318,10 +316,10 @@ quickly, are out of sight and earshot in under a minute.
 On their own, these encounters would be enough to make this a
 worthwhile walk, but we soon realize that these two species are the
 two standard birds for this piece of woodland (or, at least, they are
-on a summer evening); we see several more groups of both as we go; if
+on a summer evening); we see several more groups of both as we go.  If
 we were counting, we'd have lost count of both species by now.
 
-As the path heads uphill, the wood thins and becomes more heath like;
+As the path heads uphill, the wood thins and becomes more heath-like;
 the path traces the border between the two. A few scattered chats do
 their usual perching routine, they are all Stonechat though. On the
 wood side, something that is neither flycatcher nor warbler is sitting
@@ -402,10 +400,10 @@ This time I try varying where I stand between multiple scans of the
 various plants sticking out of the long grass. There's the little
 brown beast; barely a couple of inches above the vegetation line, on a
 tiny offshoot of what looks like a thistly tree (botany isn't my
-strong point, sorry). It's still reeling; it's mouth wide open the
-whole time; the sound giving the impression that the whole bird is
-vibrating. Perhaps it is; the percussive nature of sound and Newton's
-3rd Law suggests it might be.
+strong point, sorry). It won't stop reeling now, with it's mouth wide open the
+whole time, giving the impression that the whole bird is vibrating. Perhaps
+it is; the percussive nature of sound and Newton's 3rd Law suggests it might
+be.
 
 I return triumphantly to the tent and collapse into one of the best
 sleeps I've had for ages. Fourteen hours outdoors. Six Ospreys. Four year
