@@ -8,7 +8,7 @@ title: Part 25: Distant Diver
 
 Day two in Scotland can't rival the first, but the views get pretty close.
 
-Pronoun guidance: AB2's beer. This post covers the events of July 1st, 2018.
+Pronoun guidance: AB1's beer. This post covers the events of July 1st, 2018.
 
 #### Location location location
 
