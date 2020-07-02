@@ -123,7 +123,8 @@ other side of the road, or on the telephone wires. No joy though.
   </figcaption>
 </figure>
 
-Ok, yes, we cheated, last post's Yellowhammer was actually from here, sorry.
+Ok, yes, we cheated, last post's Yellowhammer image was actually from here
+, sorry.
 
 Once we've finished our car-based feast, we trundle down the track to
 the hide, accompanied by Linnets and Reed Buntings. The hide is glass
