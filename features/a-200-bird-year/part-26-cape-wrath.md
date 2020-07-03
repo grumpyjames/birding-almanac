@@ -1,12 +1,12 @@
 ---
-publish_time: 2020-07-02T19:23:00.000Z
-updated_time: 2020-07-02T19:23:00.000Z
+publish_time: 2020-07-04T10:23:00.000Z
+updated_time: 2020-07-04T10:23:00.000Z
 title: Part 26: Cape Wrath
 ---
 
 ### Cape Wrath
 
-We wake to the smell of bacon sandwiches; there's a food-wagon on-site
+We wake to the smell of bacon sandwiches; there's a food wagon on site
 and it makes breakfast from 7:30. The sun is out, and the breeze has
 lightened; good, we've got a packed itinerary to get through today.
 
@@ -150,7 +150,7 @@ Our next stop is Cape Wrath. A very metal sounding place. We park up
 (badly) near the shore of the Kyle of Durness and await the ferry. The
 weather, at this point, has transformed into "full on awesome". The
 visibility over the mountains to the South and South East is
-jawdroppingly beautiful; we think we can see Ben Hope's peak and
+jaw-droppingly beautiful; we think we can see Ben Hope's peak and
 wonder whether climbing it today might have been a good plan.
 
 The ferry trip is short, over some of the clearest water I've seen in
@@ -166,9 +166,9 @@ and has a keen sense of humour. Our choice to sit in the front means
 we can hear everything he says: bonus. We can also hear grousing in
 the back about being unable to hear anything. Schadenfreude
 bonus. Another front seat perk: we see Arctic Skuas before anyone else
-- a group of four circling above the track. Life tick bonus. Get in.
+- a group of four circling above the track. Life tick. Get in.
 
-We stop around two thirds of the way along in the hope of a better
+We stop around two-thirds of the way along in the hope of a better
 Skua view: a couple of pairs nest of some mounds right next to the
 track. They are absent at time of passing; we'll have another look on
 the way back.
@@ -209,8 +209,8 @@ The grounds of the lighthouse and its outbuildings are perfect
 Wheatear territory, and true to form, there are two or three of them
 commuting between their favourite perch points. The cliffs and sea
 surrounding the point are dotted with auks, including Puffins. What a
-tremendous place. A shame we have only an hour here - it zips passed
-in what feels like ten minutes.
+tremendous place. A shame we have only an hour here - it zips past
+in what feels like mere minutes.
 
 Back to the minibus. On the way back, the Skuas are on show; handily,
 there's one light and dark morph, so I can get out my one Arctic Skua
