@@ -242,8 +242,8 @@ holiday period.
 
 We decide to explore the falls to check the veracity of the salmon
 claim. We are sceptical; fish jumping, we suspect, only occurs when Grizzly 
-Bears and a BBC wildlife camera team is present. To our great surprise, salmon are
-demonstrably (if intermittently) trying to jump up the falls; we see
+Bears and a BBC wildlife camera team are present. To our great surprise, salmon
+are demonstrably (if intermittently) trying to jump up the falls; we see
 one within the first couple of minutes. It's quite something! 
 
 The fish are not small - a good couple of feet long, I'd guess, and they often
@@ -401,7 +401,7 @@ This time I try varying where I stand between multiple scans of the
 various plants sticking out of the long grass. There's the little
 brown beast; barely a couple of inches above the vegetation line, on a
 tiny offshoot of what looks like a thistly tree (botany isn't my
-strong point, sorry). It won't stop reeling now, with it's mouth wide open the
+strong point, sorry). It won't stop reeling now, with its mouth wide open the
 whole time, giving the impression that the whole bird is vibrating. Perhaps
 it is; the percussive nature of sound and Newton's 3rd Law suggests it might
 be.
