@@ -236,7 +236,9 @@ def features(
     feature_files = os.listdir(feature_path)
     feature_md_files = []
     for file in feature_files:
-      if file.endswith(".png") or file.endswith(".jpg"):
+      if file.endswith(".png")\
+      or file.endswith(".jpg")\
+      or file.endswith(".mp4"):
         src = feature_path + '/' + file
         lazy_image_copy(src, os.path.join(output, src))
       elif file.endswith(".md") and file != "about.md":
