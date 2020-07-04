@@ -64,11 +64,12 @@ Durness is the first item on the agenda.
   </figcaption>
 </figure> 
 
-Gordon tells us that the area around a lake roughly half way through
-this walk is a possible Corncrake site. That may well be true, but our
-chance of seeing one at this time of day is zero in any case. Instead,
-we enjoy the views of Fulmar from the cliffs - I get some more time to fail
-to take any decent flight photos of them.
+Gordon (the guidebook author, who we have decided is with us in spirit) tells us
+that the area around a lake roughly half way through this walk is a possible
+Corncrake site. That may well be true, but our chance of seeing one at this
+time of day is zero in any case. Instead, we enjoy the views of Fulmar from
+the cliffs - I get some more time to fail to take any decent flight photos
+of them.
 
 <figure class="figure">
   <img
