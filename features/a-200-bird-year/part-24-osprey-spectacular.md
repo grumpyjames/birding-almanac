@@ -325,7 +325,7 @@ the path traces the border between the two. A few scattered chats do
 their usual perching routine, they are all Stonechat though. On the
 wood side, something that is neither flycatcher nor warbler is sitting
 on a branch. It looks a bit like a Meadow Pipit. I get excited; a
-meadow pipit sitting in a tree is probably a Tree Pipit. After
+Meadow Pipit sitting in a tree is probably a Tree Pipit. After
 checking the bird book, the more diagnostic differences (thicker beak,
 finer streaking on flanks, etc) are also present.
 
