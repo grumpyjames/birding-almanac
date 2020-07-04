@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-07-04T10:23:00.000Z
-updated_time: 2020-07-04T10:23:00.000Z
+publish_time: 2020-07-04T12:12:00.000Z
+updated_time: 2020-07-04T12:12:00.000Z
 title: Part 26: Cape Wrath
 ---
 
@@ -13,7 +13,7 @@ lightened; good, we've got a packed itinerary to get through today.
 Pronoun guidance: AB1's loon-fu is insufficient. This post covers the events
 of July 2nd, 2018.
 
-Editor's note: this was another ridiculously good day. Prepare yourself.
+Editor's note: this was another ridiculously good day.
 
 #### Early morning mustelids
 
@@ -25,9 +25,9 @@ there's a family of weasels playing in that gully". Amazing.
 
 The gully's full of twisty grasses and shrubs, so the view is of an
 occasional brown shape shooting in and out of the top of it, but what joyous
-little things they are. Are they weasels, though? I'd potentially say they
-were big enough and dark enough to be stoats, but I'm not even a novice here
-, so who knows.
+little things they are. Are they weasels, though? I'd maybe say they were
+stoats (darker brown, bigger), but my knowledge here is pretty shaky, so
+weasels they can stay.
 
 <figure class="figure">
   <img
@@ -184,9 +184,10 @@ pull into the car park at the lighthouse.
   <img
     src="26-wrath-cliffs.png"
     class="figure-img img-fluid rounded"
-    alt="Not pictured: the sound of the sea."/>
+    alt="Not pictured: the sound of the sea, and the calmest form of AB1
+     known to science."/>
   <figcaption class="figure-caption text-center">
-    Not pictured: the sound of the sea.
+    Not pictured: the sound of the sea, and the calmest form of AB1 known to science.
   </figcaption>
 </figure>
 
@@ -272,9 +273,9 @@ We've one place left to visit today - the beaches of Oldshoremore. This
 is ostensibly a scenery jaunt, but Gordon tells us the crofts around
 the beaches are a potential place to find Twite.
 
-The drive there is full of more amazing geology - you can see why the
-whole North Coast 500 has been a marketable ploy. Eventually we arrive
-at a tiny bay (mildly stressed by tiny roads and local drivers). We're
+The drive there is full of more amazing geology (/geography?) - you can see why
+the whole North Coast 500 has been a successful marketing ploy. Eventually we
+arrive at a tiny bay (mildly stressed by tiny roads and local drivers). We're
 one bay further round than we ought to be, but it looks like a nice
 walk, so this will do.
 
@@ -348,7 +349,8 @@ negotiate the tiny roads back to, well, slightly closer to civilisation
 and eventually end up on a campsite in Scourie, where AB2 persuades the
 attached bar to give us enough boiling water for a Pot Noodle each. 
 
-What a day. To cap it off, here's the campsite view.
+What a day. And Handa to come tomorrow as well. To cap it off, here's the
+view from the campsite.
 
 <figure class="figure">
   <img
