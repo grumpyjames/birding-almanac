@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-07-04T21:11:00.000Z
-updated_time: 2020-07-04T21:11:00.000Z
+publish_time: 2020-07-05T16:17:00.000Z
+updated_time: 2020-07-05T16:17:00.000Z
 title: Part 27: Handa
 ---
 
@@ -54,7 +54,7 @@ wind I'm glad I brought my jacket". A few short minutes later, and we're there.
 
 #### Handa Island 
 
-We arrive on another ridiculously good looking beach. This does manage to
+We arrive on another ridiculously good-looking beach. This does manage to
 fill our shoes with sand on our way to the information hut, unfortunately.
 
 After a brief use of the facilities and some stashing of unnecessary
@@ -84,7 +84,7 @@ for a time; and that's difficult given how much is going on.
     class="figure-img img-fluid rounded"
     alt="Great Skuas. Well named birds."/>
   <figcaption class="figure-caption text-center">
-    Great Skuas. Well named birds.
+    Great Skuas. Well-named birds.
   </figcaption>
 </figure>
 
@@ -232,8 +232,7 @@ believe this is in Scotland" beach won't do us any harm, I suppose.
 
 The boat back cools us down nicely, and we settle down on a picnic
 bench above the harbour to have lunch proper. The crofts around the
-picnic area once again fail to contain any Twite, despite Gordon's assurances
-. We're starting to wonder if they exist at all.
+picnic area once again fail to contain any Twite, despite Gordon's assurances. We're starting to wonder if they exist at all.
 
 #### Bits and pieces
 
@@ -266,7 +265,7 @@ progress via "the wee mad road".
 </figure>
 
 We exit said road onto the Coigach peninsula and head West. A
-Short-eared owl buzzes us as we drive along Loch Osgaig. We just about
+Short-eared Owl buzzes us as we drive along Loch Osgaig! We just about
 keep the car on the road surface. A passing caravan driver glares at
 us from the other side of the road. Ahem.
 
@@ -276,7 +275,8 @@ the light is behind us, and the plumage is properly on show. What a
 smart looking bird! One of the main reasons for a Summer trip was to
 catch the bird in its breeding plumage; this quality of view
 vindicates that part of the plan, at least. Further admiring oohs and
-aahs occur once we have the 'scope set up.
+aahs occur once we have the 'scope set up; it's still too far away for decent
+photos though.
 
 A short drive round to Altandhu, an abortive attempt at seawatching
 (be warned, Reiff is rife with people who are hostile to anyone not
