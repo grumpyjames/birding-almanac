@@ -137,8 +137,8 @@ driven more like 150km.
 </figure>
 
 Not much success is had, and any ideas of staying until darkness are
-(rightly) pooh-poohed. An attempt will instead be made at a circular
-looking walk. After a couple of false starts (we weren't quite as far
+(rightly) pooh-poohed. An attempt will instead be made at a circular-looking
+ walk. After a couple of false starts (we weren't quite as far
 West as we thought) this goes rather nicely.
 
 <figure class="figure">
@@ -151,14 +151,14 @@ West as we thought) this goes rather nicely.
   </figcaption>
 </figure>
 
-As the last light of the day is just leaving, we happen upon a chubby beaked
+As the last light of the day is just leaving, we happen upon a chubby-beaked
 passerine clinging to a rocky outcrop. Now, _that_ could be Twite. With a
 bit more light, it could _obviously_ be Twite, but we're now far enough South
 that five past ten in the evening is twilight rather than daylight. 
 
 We take a lot of terrible photos, but having spent much of the day
 familiarising ourselves with the bird book, we're pretty sure we've
-got our bird. After a reexamination back at the car, the only
+got our bird. After a re-examination back at the car, the only
 diagnostic we're short of is an obviously yellow beak, and some
 pictures on the internet convince us that isn't always
 forthcoming. The thing that really sells us is the jizz; the low to
