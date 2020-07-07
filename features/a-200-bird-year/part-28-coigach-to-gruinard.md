@@ -62,7 +62,8 @@ some deer hanging about at the top of the hill.
 Ullapool is delightful but Twite-free. We manage a very pleasant walk around
 the town and take the opportunity to top-up on supplies, we're starting to
 run out of essential foodstuffs (scotch eggs, spanish omelette and pot
-noodles).
+noodles). AB2 also stocks up on tourist leaflets (also apparently essential, 
+and definitely not totally unused across the rest of holiday).
 
 #### Badrallach
 
