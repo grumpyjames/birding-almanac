@@ -185,7 +185,7 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
 
   home_items = ""
   first = True
-  if len(front_page_items) > 34:
+  if len(front_page_items) > 40:
     raise Exception("Time to implement pagination, Jimbo")
 
   for (index, f) in enumerate(front_page_items):
