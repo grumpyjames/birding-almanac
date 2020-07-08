@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-07-08T19:47:00.000Z
-updated_time: 2020-07-08T19:47:00.000Z
+publish_time: 2020-07-08T20:37:00.000Z
+updated_time: 2020-07-08T20:37:00.000Z
 title: Part 29: Inverewe and Loch Maree
 ---
 
@@ -47,7 +47,7 @@ captivating. If you're in the area, go.
 
 We leave Inverewe rather later than we'd expected. Having planned to
 take in lunch in a pub for a change (there's only so much Spanish
-Omelette one can eat in a week), we know we've got around ninety
+omelette one can eat in a week), we know we've got around ninety
 minutes to get from Inverewe round to the Badachro Inn. That gives us
 around an hour of leeway for exploring. Gordon instructs us that the
 road following the Western shore of Loch Ewe isn't a bad bet for
@@ -55,7 +55,7 @@ White-tailed Eagle, and that's basically right next to Inverewe
 itself, so we give it a go.
 
 The first part of this drive North is alongside the parts of Loch Ewe
-we've already given a lot of scanning time too from the gardens. As
+we've already given a lot of scanning time to from the gardens. As
 such, we don't pay an enormous amount of attention. The Loch widens
 out as we get past the Isle of Ewe, and the view from the road does
 too. We agree that this area needs focus, and that AB2 should be
@@ -81,7 +81,7 @@ A very pleasant lunch in Badachro follows, most notable for the
 reverse in our usual fortunes. For once, we are the organised people
 arriving during the half hour of food being served. An angry couple
 turning up just as we're served ("how come they're getting food
-then?") provide us with some additional schadenfreude.
+then?") provides us with some additional schadenfreude.
 
 <figure class="figure">
   <img
