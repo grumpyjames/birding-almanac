@@ -83,6 +83,16 @@ arriving during the half hour of food being served. An angry couple
 turning up just as we're served ("how come they're getting food
 then?") provide us with some additional schadenfreude.
 
+<figure class="figure">
+  <img
+    src="29-lunch-view.png"
+    class="figure-img img-fluid rounded"
+    alt="The view was excellent. The food wasn't bad either!"/>
+  <figcaption class="figure-caption text-center">
+    The view was excellent. The food wasn't bad either!
+  </figcaption>
+</figure>
+
 The food gives us enough time to think about plans. The West Coast, at
 this point, probably isn't going to offer many more opportunities for
 the year list. There will likely be some epic scenery on offer
