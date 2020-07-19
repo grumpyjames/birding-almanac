@@ -185,7 +185,7 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
 
   home_items = ""
   first = True
-  if len(front_page_items) > 40:
+  if len(front_page_items) > 50:
     raise Exception("Time to implement pagination, Jimbo")
 
   for (index, f) in enumerate(front_page_items):
@@ -394,7 +394,7 @@ def blog(
   all_posts.extend(other_posts)
   first = True
 
-  if len(all_posts) > 5:
+  if len(all_posts) > 10:
     raise Exception("Time to implement pagination, Jimbo")
 
   list_index_content = ""
