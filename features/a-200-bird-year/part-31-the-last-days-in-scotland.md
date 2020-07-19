@@ -42,7 +42,7 @@ of what we've started to consider as par for the course.
 We're also starting to be able to discern by sound whether something
 is of interest or not; we start to tune out the Siskins and the more
 standard Tit calls. We're almost at the zenith of the circuit when
-both Ems and I are stopped in our tracks by a flock of three or four
+both AB2 and I are stopped in our tracks by a flock of three or four
 birds all emitting a call that is novel.
 
 ...and, once we get our bins on them, they look novel too. Those
