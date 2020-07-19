@@ -1,7 +1,7 @@
 ---
-publish_time: 2020-07-09T09:17:00.000Z
-updated_time: 2020-07-09T09:17:00.000Z
-title: Part 29: Glens and Grebes
+publish_time: 2020-07-09T18:55:00.000Z
+updated_time: 2020-07-09T18:55:00.000Z
+title: Part 30: Glens and Grebes
 ---
 
 ### Glens and Grebes
@@ -9,11 +9,12 @@ title: Part 29: Glens and Grebes
 GLENS! Yes, glens! Specifically, Glen Strathfarrar, which Gordon
 reckons is the underrated one.
  
-Pronoun guidance: AB1 leaves the car in a poorly chosen place.
+Pronoun guidance: AB1 leaves the car in a poorly-chosen place. This post
+covers the events of July 6th, 2018.
 
 #### Strathfarrar
 
-It has the added bonus of having a token based entry system, operated by a
+It has the added bonus of having a token-based entry system, operated by a
 delightful (read: on the surface, polite, but boiling over with anger at
 being required to perform the duty assigned to her; what did we do wrong?) lady
 with a gate. We take token three, and head up into the valley, hopeful of
@@ -43,7 +44,7 @@ And even longer discussing whether there's a second. It isn't particularly
 clear, even with the scope. Not the greatest Whinchat we've ever seen, but we'll 
 take it.
 
-Post Whinchat, we continue onwards. I've been promised hydroelectric
+Post-Whinchat, we continue onwards. I've been promised hydroelectric
 artifacts at the end of the public part of the drive. Our only company
 is a pair of cyclists (who we trade places with repeatedly as we stop
 and start to look at things) and a small army of vehicles from the
@@ -91,11 +92,11 @@ of lunch.
 
 Lunch brings a decision: one glen is enough. We don't know what we're
 doing, and we suspect the right thing to do is drive in early, go for
-a hike for several hours from a well chosen point, and then head out
+a hike for several hours from a well-chosen point, and then head out
 again, a level of investment we're not ready for.
 
 We return the token to the polite (but still awkward) lady at the
-gate, pause for a refreshing beverage and a wee in Cannich, elect not
+gate, pause for a refreshing beverage and a pee in Cannich, elect not
 to revisit Corrimony RSPB (*great* cairn, but desperately needs a
 circular walk) and soon we're on the A82 back to Inverness.
 
@@ -132,17 +133,7 @@ themselves sharing a space with birders), so we make ourselves scarce.
   </figcaption>
 </figure>
 
-<figure class="figure">
-  <img
-    src="30-swallow.png"
-    class="figure-img img-fluid rounded"
-    alt="This swallow posed beautifully on a nearby 'No Parking' sign."/>
-  <figcaption class="figure-caption text-center">
-    This swallow posed beautifully on a nearby 'No Parking' sign.
-  </figcaption>
-</figure> 
-
-#### Monads ahoy
+### Monads ahoy
 
 Birders who know this area can probably have a reasonable guess at our
 next destination. The Monadliath mountains are to our East, and the
@@ -203,11 +194,21 @@ Buzzards. One is briefly mobbed by a Kestrel (definitely a Kestrel,
 not a Merlin, sadly) which provides some brief entertainment. I find,
 strangely, that I don't mind the lack of new-for-the-year raptors.
 
+<figure class="figure">                                                      
+  <img                                                                       
+    src="30-swallow.png"                                                     
+    class="figure-img img-fluid rounded"                                     
+    alt="This swallow posed beautifully on a nearby 'No Parking' sign."/>    
+  <figcaption class="figure-caption text-center">                            
+    This swallow posed beautifully on a nearby 'No Parking' sign.            
+  </figcaption>                                                              
+</figure>
+
 We eventually start to get hungry. That seems as good a trigger as any
 to depart and attempt to find shelter for the evening.  This proves
 rather more difficult than it has done elsewhere - it's Friday night,
 and, apparently, this area is popular as a weekend getaway. We
 eventually concede defeat and head for a hotel in
 Grantown-on-Spey. This turns out to be a total victory; it has a
-kettle (pot noodle #2 of the trip) and does an excellent
-breakfast. Hard to argue with for the price we paid!
+kettle (Pot Noodle #2 of the trip) and lays on a hearty breakfast. Hard to
+ argue with for the price we paid!
