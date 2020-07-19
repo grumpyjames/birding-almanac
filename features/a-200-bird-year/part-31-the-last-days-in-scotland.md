@@ -73,7 +73,7 @@ and the temperature, remarkably, is heading into the high twenties.
 
 #### Tulloch Moor
 
-We attempt an off piste stop on the advice of Gordon and one of the
+We attempt an off-piste stop on the advice of Gordon and one of the
 RSPB wardens, at Tulloch Moor. This mostly just leads to aggravation -
 we don't really know where we're going, and it's borderline too hot to
 move around in direct sunlight. A switch to flipflops helps a bit to

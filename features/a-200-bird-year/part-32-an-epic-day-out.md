@@ -12,7 +12,7 @@ a little. No fear.
 Pronoun guidance: AB1 flies solo. This post covers the events of July 14th
 (yes, just one day!), 2018.
 
-#### The plan.
+#### The plan
 
 A back-to-back birding opportunity opens up to me - the annual Bonaparte's
 Gull has returned to [Oare Marshes](/sites/Oare_Marshes.html), bringing with it
@@ -97,7 +97,7 @@ to half that time already. Time to find Napoleon.
 A brief moment is spent at the corner hide checking the flats for the
 sandpiper, or, perhaps, a Spotted Redshank, but this is a fool's
 errand, and I quickly abandon it. I continue to walk back along the
-sea wall, sternly asking every Black-headed Gull I see "etes-vous Bonaparte?".
+sea wall, sternly asking every Black-headed Gull I see "etes-vous Bonaparte?"
  
 Amusingly, Bonaparte's head is more black than Black-headed Gull (whose head 
 is more of a chocolate colour), and, in this light, that will be considerably
@@ -158,7 +158,7 @@ thirty odd Red Kites floating around.
 
 Eventually we pull up in the car park, where the group swells
 further (inner AB1: "Christ, this is nearly twenty people; what a disaster").
-Lots of introductions are made. I am reminded of some standup where
+Lots of introductions are made. I am reminded of some stand-up where
 the comedian successfully represents the reality of this situation,
 with the names entering into one ear, and then immediately falling on
 the floor, with a clang. Oh well. There's an understandable bit of
@@ -167,7 +167,7 @@ it's mercifully short, and soon we're off.
 
 #### Mosquito Trail
 
-We head out into (onto?) the common, taking a South-East sort of path,
+We head out onto the common, taking a South-East sort of path,
 marked by waypoints with a mosquito design on them. A memory of when I
 was last here is keyed on this - I can see an impressive
 mosquito sculpture in my mind's eye. I don't think that's too for
@@ -243,7 +243,7 @@ We soon start to near the Northern branch of the path we set out
 on. Thickets of Gorse guard one side of it - we approach as near as we
 can from the West, but we'll have to spot further North to get round
 the giant Gorse wall in our way. As we approach, I glimpse a very
-Dartford Warbler like shape (long tail, some hints of the colouration)
+Dartford Warbler-like shape (long tail, some hints of the colouration)
 flitting from the impenetrable gorse barrier to a smaller bush a little way
 towards us. Either I totally imagine this, or it flitted further than
 I thought; an intensive search of any sprig within a few metres of
@@ -252,7 +252,7 @@ where I thought it landed yields no fruit.
 I look around, mildly peeved to not have had any help, but everyone else is
 looking at something else on the right, and making quite a lot of noise about
 it. I pay a bit more attention. A quick look finds me a
-Stonechat. Surely not that? There's a scruffy looking lark like bird a
+Stonechat. Surely not that? There's a scruffy-looking lark-like bird a
 bit further back. Commentary from the right is starting to suggest it
 might be Woodlark. Excitement - that's a bird I've basically written
 off for the year, assuming that, after a brief visible period during
