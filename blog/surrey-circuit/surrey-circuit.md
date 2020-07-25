@@ -6,8 +6,9 @@ title: A Surrey Circuit
 
 ### A Surrey Circuit
 
-COVID-19 lockdown has eased slighty; we've booked a car for two days and
-on the Tuesday, we venture out into Surrey to see what we can find.
+COVID-19 lockdown has eased slightly. We've booked a car for two days and
+on the second day (a.k.a Tuesday), we venture out into Surrey to see what we can
+find.
 
 Pronoun guidance: AB2 penned this entry, covering the events of June 30th, 2020.
 
@@ -56,7 +57,7 @@ leafless tree, giving us an excellent view of what looks like at least two
 We also spot a Wren, and a Mistle Thrust family in the scrub beyond divert
 our attention and result in a temporary confusion about which direction to
 head. Following consultation of the map, we decide we need to cross the river
-and a short trundle later and we are into the meadow.
+and a short trundle later we are into the meadow.
 
 <figure class="figure">
   <img
@@ -69,7 +70,7 @@ and a short trundle later and we are into the meadow.
 </figure>
 
 Before long, it becomes difficult to ignore damp feet (buy better shoes! --Ed)
-and there's a rising feeling that this stop, whilst picturesque, might be a
+and there's a rising feeling that this stop, while picturesque, might be a
 bit of a damp squib after all. However, our spirits are very quickly lifted
 by sightings of Dunnock and Blackbird, even through optics rendered opaque by
 condensation.
@@ -150,11 +151,9 @@ finally being greeted by spotty dogs. But no Spotted Flycatcher.
   <img
     src="feels-right-for-spotty.png"
     class="figure-img img-fluid rounded"
-    alt="It feels like there ought to be one here - it felt a bit like where
-     we saw them in Scotland, in 2018."/>
+    alt="It really felt like there ought to be one here."/>
   <figcaption class="figure-caption text-center">
-    It feels like there ought to be one here - it felt a bit like where
-         we saw them in Scotland, in 2018.
+    It really felt like there ought to be one here.
   </figcaption>
 </figure>
 
@@ -208,10 +207,11 @@ hoping for Dartford Warbler, Common Redstart and Nightjar. Recalling a
 previous trip to Richmond Park with promises of Dartford Warbler, AB2 is
 dubious about their existence...
 
-On entry to the reserve, it's clear the damage is extensive and it seems
+On entry to the reserve, it's clear the damage is extensive. It seems
 little of the boardwalk remains or at least precious little to make it
-possible to follow it anywhere. The Dragonfly sculpture can easily be
-picked off in the distance, with no heath or trees between us and it. 
+possible to follow it anywhere; big angry signs warn us not to even think of
+trying it, and we obey. The Dragonfly sculpture can easily be
+picked out in the distance, with no heath or trees between us and it. 
 
 <figure class="figure">
   <video controls width="800">
@@ -219,7 +219,7 @@ picked off in the distance, with no heath or trees between us and it.
     Sorry, your browser doesn't support embedded videos.
   </video>
   <figcaption class="figure-caption text-center">
-    View from Shrike Hill. Quite a lot of the reserve survived, but also
+    View North from Shrike Hill. Much of the reserve survived, but also
     quite a lot of it did not. Eesh.
   </figcaption>
 </figure>
@@ -238,14 +238,17 @@ chirping alerted us to the presence of its Dartford Warbler friend.
     src="stonechat-escort.png"
     class="figure-img img-fluid rounded"
     alt="The first Dartford was at the bottom of the bush this Stonechat was
-     in. AB1: 'Stop taking photos of the Stonechat and look for the bloody
-      Dartford that's sitting at the bottom!'"/>
+     in."/>
   <figcaption class="figure-caption text-center">
     The first Dartford was at the bottom of the bush this Stonechat was
-    in. AB1: 'Stop taking photos of the Stonechat and look for the bloody
-    Dartford that's sitting at the bottom!'
+    in.
   </figcaption>
 </figure>
+
+<blockquote class="blockquote text-center">
+Stop taking photos of that Stonechat and look at the Dartford at the bottom!
+<footer class="blockquote-footer"><cite>AB1, with some urgency</cite></footer>
+</blockquote>
 
 This happens on two more occasions as we work our way round the reserve, we
 cannot believe our luck (not luck, [science!](https://www.researchgate.net/publication/261824967_Dartford_Warblers_Follow_Stonechats_While_Foraging) --Ed). 
