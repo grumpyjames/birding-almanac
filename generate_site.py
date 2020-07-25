@@ -122,7 +122,7 @@ def lazy_image_copy(src, target):
 
 def copy_images(output):
   for file in os.listdir("."):
-    if file.endswith(".png") or file.endswith(".ico"):
+    if file.endswith(".png") or file.endswith(".ico") or file.endswith(".mp4"):
       lazy_image_copy(
         file,
         os.path.join(output, file)
@@ -329,7 +329,7 @@ def blog(
     os.makedirs(blog_output_dir, exist_ok=True)
     blog_input_dir = os.path.join("blog", blog_name)
     for filename in os.listdir(os.path.join("blog", blog_name)):
-      if filename.endswith(".png"):
+      if filename.endswith(".png") or filename.endswith(".mp4"):
         lazy_image_copy(
           os.path.join(blog_input_dir, filename),
           os.path.join(blog_output_dir, filename))
