@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-07-25T15:17:00.000Z
-updated_time: 2020-07-25T15:17:00.000Z
+publish_time: 2020-07-29T15:17:00.000Z
+updated_time: 2020-07-29T15:17:00.000Z
 title: A Surrey Circuit
 ---
 
@@ -14,16 +14,16 @@ Pronoun guidance: AB2 penned this entry, covering the events of June 30th, 2020.
 
 #### Plan
 
-The forecast looks mixed, but promises to brighten in the afternoon and
-, frankly, we're excited for a trip out in rain or shine. AB1 has a series of
+The forecast looks mixed, but promises to brighten in the afternoon and, frankly, 
+we're excited for a trip out in rain or shine. AB1 has a series of
 locations in mind in Surrey, which, if the recce proves a success, could
 become a circuit (is it actually a circuit? --Ed) to share with friends and
 fellow birders in future seasons.
 
 #### Destination 1: [Papercourt Meadow](https://www.surreywildlifetrust.org/nature-reserves/papercourt-meadows)
 
-After a smooth run from North London to [Sam's Newark Lane Car Park](https://goo.gl/maps/Pn8kCqSaJaRD25VEA)
-, albeit with a somewhat bumpy entry to the car park itself, we don macs and
+After a smooth run from North London to [Sam's Newark Lane Car Park](https://goo.gl/maps/Pn8kCqSaJaRD25VEA),
+ albeit with a somewhat bumpy entry to the car park itself, we don macs and
 backpacks and set off along the River Wey. We immediately meet a pair of
 Egyptian Geese and are charmed by the idyllic outlook of the canal
 punctuated by narrowboats going about their business.
@@ -39,8 +39,8 @@ punctuated by narrowboats going about their business.
 </figure>
  
 As the drizzle makes a more concerted effort at coming down, we spy a Sedge
-Warbler and then, closer to the lock, a swoop of Swallows doing exactly that
-, diving between the trees to catch insects before taking time to perch on a
+Warbler and then, closer to the lock, a swoop of Swallows doing exactly that,
+diving between the trees to catch insects before taking time to perch on a
 leafless tree, giving us an excellent view of what looks like at least two
  generations of birds.
 
@@ -121,8 +121,8 @@ binoculars and taking photos of many of them, with varying degrees of success.
   
 Truly, we could spend all day looking at and photographing every one multiple
 times, but there are other stops on the schedule and so we will ourselves on.
-We double back over the canal and follow the lane back to the car park
-, before setting off for Frensham Little Pond, spurred on by plans for lunch
+We double back over the canal and follow the lane back to the car park, before 
+setting off for Frensham Little Pond, spurred on by plans for lunch
  in the Tern Cafe, which the internet reports has reopened with reduced hours.
  
 <figure class="figure">
@@ -315,4 +315,4 @@ Nightjar gets. Two more Woodcock fly over, victoriously.
 </figure>
 
 With the light continuing to fade and replete with sightings, we decide to call
-it a day and pick our way back to the car. What an experience.
+it a day and pick our way back to the car. What an experience - 10/10 day.

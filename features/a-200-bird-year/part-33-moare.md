@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-07-25T14:32:00.000Z
-updated_time: 2020-07-25T14:32:00.000Z
+publish_time: 2020-07-27T20:32:00.000Z
+updated_time: 2020-07-27T20:32:00.000Z
 title: Part 33: Oare, Once More
 ---
 
@@ -51,9 +51,9 @@ directional prodding, we get confirmation, indeed, that is it.
   <img
     src="33-temmincks-arse.png"
     class="figure-img img-fluid rounded"
-    alt="Hilariously, this photo of its arse is the best we managed."/>
+    alt="Hilariously, this photo of its backside is the best we managed."/>
   <figcaption class="figure-caption text-center">
-    Hilariously, this photo of its arse is the best we managed.
+    Hilariously, this photo of its backside is the best we managed.
   </figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ kentos website has reported seeing one or two along the Swale.
 This is a good way to lose several hours of your life - these two
 species can be tedious to separate. The two pictures in the bird book
 showing Whimbrel versus juvenile Curlew are basically identical
-barring some tricky to discern head markings on the Whimbrel. Still;
+barring some tricky to discern head markings on the Whimbrel. Still,
 having seen a Whimbrel in Fuerteventura earlier in the year, I feel a
 bit more confident that I might be able to pick one out.
 
