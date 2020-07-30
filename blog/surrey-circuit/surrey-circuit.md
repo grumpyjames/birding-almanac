@@ -54,7 +54,7 @@ leafless tree, giving us an excellent view of what looks like at least two
   </figcaption>
 </figure>
 
-We also spot a Wren, and a Mistle Thrust family in the scrub beyond divert
+We also spot a Wren, and a Mistle Thrush family in the scrub beyond divert
 our attention and result in a temporary confusion about which direction to
 head. Following consultation of the map, we decide we need to cross the river
 and a short trundle later we are into the meadow.
