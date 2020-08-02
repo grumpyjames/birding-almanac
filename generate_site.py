@@ -13,12 +13,14 @@ class TemplateRenderer:
       self,
       page_template,
       content_template,
+      content2_template,
       cell_template,
       fpi_template,
       fc_template,
   ):
     self.page_template = page_template
     self.content_template = content_template
+    self.content2_template = content2_template
     self.cell_template = cell_template
     self.fpi_template = fpi_template
     self.fc_template = fc_template
@@ -67,6 +69,26 @@ class TemplateRenderer:
       }
     )
 
+  def render_content2_page(
+      self,
+      content_html,
+      published_at,
+      previously,
+      nextUp):
+    date = datetime.strftime(published_at, "%B %-d, %Y")
+    time = datetime.strftime(published_at, "%H:%M")
+    content = pystache.render(
+      self.content2_template,
+      {
+        'main-content': content_html,
+        'published-at-date': date,
+        'published-at-time': time,
+        'previously': previously,
+        'next': nextUp
+      }
+    )
+    return self.render_page(content)
+
   def render_feature(self, name, url, blurb_html):
     return pystache.render(
       self.fc_template,
@@ -99,16 +121,41 @@ class TemplateRenderer:
 
     return result
 
+  def render_each_with_nav(self, posts, param, write_item):
+    first = True
+    for index, post in enumerate(posts):
+      def maybe_url(p, default):
+        if p is None:
+          return default
+        else:
+          return f"<a href='{p['url']}'>{p[param]}</a>"
+
+      prev_post = None if index - 1 < 0 else posts[index - 1]
+      next_post = None if index + 1 >= len(posts) else posts[index + 1]
+
+      full_page_html = self.render_content2_page(
+        post["html"],
+        post["publish_time"],
+        maybe_url(prev_post, "This is the latest item"),
+        maybe_url(next_post, "This is the first item")
+      )
+
+      write_item(post, first, full_page_html)
+      first = False
+
+
 def create_website(output, render_at_time):
   with \
       open("page.mustache") as f, \
       open("content.mustache") as c, \
+      open("content2.mustache") as c2, \
       open("front_page_item.mustache") as fpi, \
       open("feature_cell.mustache") as fc, \
       open('by_name_cell.mustache') as cell:
     templating = TemplateRenderer(
       f.read(),
       c.read(),
+      c2.read(),
       cell.read(),
       fpi.read(),
       fc.read()
@@ -284,24 +331,15 @@ def features(
             'feature_item_title': feature_metadata["title"]
           })
 
-    for index, feature_item in enumerate(feature_items):
-      nav = []
-      if index > 0:
-        previous_file = feature_md_files[index - 1]
-        prev_file_link = as_html(previous_file)
-        nav += "<a class='nav-previous' href='" + prev_file_link + "'>Previous</a>"
-      if index + 1 < len(feature_items):
-        next_file_link = as_html(feature_md_files[index + 1])
-        nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
-      content_nav = "".join(nav)
-      full_page_html = templating.render_content_page(
-        feature_item["metadata"],
-        feature_item["html"],
-        content_nav)
-
+    def write_item(feature_item, _, full_page_html):
       out_path = os.path.join(output, feature_path + "/" + feature_item["url"])
       with open(out_path, "w+") as file_output:
         file_output.write(full_page_html)
+
+    templating.render_each_with_nav(
+      feature_items,
+      "feature_item_title",
+      write_item)
 
     all_feature_items.extend(feature_items)
 
@@ -331,78 +369,68 @@ def blog(
     templating: TemplateRenderer,
     render_at_time,
     output):
-  def process_images(blog_name, soup):
-    def relativise(tag):
+  def process_images(post_name, soup):
+    def absolute(tag):
       for t in soup.find_all(tag):
         if not t['src'].startswith('/') \
             and not t['src'].startswith('http'):
-          t['src'] = blog_name + '/' + t['src']
-    relativise('img')
-    relativise('source')
+          t['src'] = '/blog/' + post_name + '/' + t['src']
+    absolute('img')
+    absolute('source')
 
   os.makedirs(os.path.join(output, "blog"), exist_ok=True)
 
   posts = []
 
-  for blog_name in os.listdir("blog"):
-    blog_output_dir = os.path.join(output, "blog", blog_name)
-    os.makedirs(blog_output_dir, exist_ok=True)
-    blog_input_dir = os.path.join("blog", blog_name)
-    for filename in os.listdir(os.path.join("blog", blog_name)):
+  for post_name in os.listdir("blog"):
+    post_output_dir = os.path.join(output, "blog", post_name)
+    os.makedirs(post_output_dir, exist_ok=True)
+    post_input_dir = os.path.join("blog", post_name)
+    for filename in os.listdir(os.path.join("blog", post_name)):
       if is_image(filename):
         lazy_image_copy(
-          os.path.join(blog_input_dir, filename),
-          os.path.join(blog_output_dir, filename))
+          os.path.join(post_input_dir, filename),
+          os.path.join(post_output_dir, filename))
 
-    blog_markdown_path = os.path.join(blog_input_dir, blog_name + ".md")
-    with open(blog_markdown_path) as blog_file:
+    post_markdown_path = os.path.join(post_input_dir, post_name + ".md")
+    with open(post_markdown_path) as blog_file:
       blog_html, metadata = templating.markdown(blog_file)
       if metadata["publish_time"] < render_at_time:
         soup = BeautifulSoup(blog_html, features="html.parser")
-        process_images(blog_name, soup)
-
-        blog_content_html = templating.render_content(metadata, blog_html)
-        full_page_html = templating.render_page(blog_content_html)
-        blog_index_html = templating.render_content(metadata, str(soup))
+        process_images(post_name, soup)
 
         # noinspection PyUnresolvedReferences
         post = {
-          'name': blog_name,
+          'name': post_name,
           'blurb': soup.p.text,
           'publish_time': metadata["publish_time"],
           'updated_time': metadata["updated_time"],
           'type': 'blog',
-          'blog_name': blog_name.replace("_", " "),
-          'blog_path': blog_name,
+          'post_name': post_name.replace("_", " "),
+          'blog_path': post_name,
           'title': metadata["title"],
-          'html': blog_index_html
+          'html': str(soup),
+          'output_directory': post_output_dir,
+          'url': '/blog/' + post_name + '/index.html'
         }
 
         posts.append(post)
-
-        blog_index_path = os.path.join(blog_output_dir, "index.html")
-        with open(blog_index_path, "w+") as file_output:
-          file_output.write(full_page_html)
 
   posts = sorted(
     posts,
     key=lambda item: item["publish_time"],
     reverse=True)
 
-  first = True
+  def write_item(post, first, full_page_html):
+    blog_index_path = os.path.join(post["output_directory"], "index.html")
+    with open(blog_index_path, "w+") as file_output:
+      file_output.write(full_page_html)
 
-  if len(posts) > 10:
-    raise Exception("Time to implement pagination, Jimbo")
+    if first:
+      with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
+        list_index.write(full_page_html)
 
-  list_index_content = ""
-  for post in posts:
-    if not first:
-      list_index_content += "<hr/>"
-    list_index_content += post["html"]
-    first = False
-
-  with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
-    list_index.write(templating.render_page(list_index_content))
+  templating.render_each_with_nav(posts, "title", write_item)
 
   return posts
 
