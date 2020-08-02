@@ -329,10 +329,13 @@ def blog(
     output,
     blogs_with_blurb):
   def process_images(blog_name, soup):
-    for img in soup.find_all('img'):
-      if not img['src'].startswith('/') \
-          and not img['src'].startswith('http'):
-        img['src'] = blog_name + '/' + img['src']
+    def relativise(tag):
+      for t in soup.find_all(tag):
+        if not t['src'].startswith('/') \
+            and not t['src'].startswith('http'):
+          t['src'] = blog_name + '/' + t['src']
+    relativise('img')
+    relativise('source')
 
   os.makedirs(os.path.join(output, "blog"), exist_ok=True)
 
