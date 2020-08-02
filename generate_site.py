@@ -120,9 +120,14 @@ def lazy_image_copy(src, target):
   elif not filecmp.cmp(src, target):
     shutil.copyfile(src, target)
 
+def is_image(file):
+  return file.endswith(".png") \
+      or file.endswith(".ico") \
+      or file.endswith(".mp4")
+
 def copy_images(output):
   for file in os.listdir("."):
-    if file.endswith(".png") or file.endswith(".ico") or file.endswith(".mp4"):
+    if is_image(file):
       lazy_image_copy(
         file,
         os.path.join(output, file)
@@ -236,9 +241,7 @@ def features(
     feature_files = os.listdir(feature_path)
     feature_md_files = []
     for file in feature_files:
-      if file.endswith(".png")\
-      or file.endswith(".jpg")\
-      or file.endswith(".mp4"):
+      if is_image(file):
         src = feature_path + '/' + file
         lazy_image_copy(src, os.path.join(output, src))
       elif file.endswith(".md") and file != "about.md":
@@ -329,7 +332,7 @@ def blog(
     os.makedirs(blog_output_dir, exist_ok=True)
     blog_input_dir = os.path.join("blog", blog_name)
     for filename in os.listdir(os.path.join("blog", blog_name)):
-      if filename.endswith(".png") or filename.endswith(".mp4"):
+      if is_image(filename):
         lazy_image_copy(
           os.path.join(blog_input_dir, filename),
           os.path.join(blog_output_dir, filename))
@@ -423,7 +426,7 @@ def sites(
   for filename in os.listdir("sites"):
     if filename.endswith(".md"):
       sites_to_convert.append((filename, filename.replace(".md", "")))
-    elif filename.endswith(".png"):
+    elif is_image(filename):
       lazy_image_copy("sites/" + filename, os.path.join(output, "sites/" + filename))
   for (f, site_name) in sites_to_convert:
     with open(os.path.join("sites", f)) as site_file:
