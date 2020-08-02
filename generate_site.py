@@ -335,6 +335,12 @@ def blog(
     render_at_time,
     output,
     blogs_with_blurb):
+  def process_images(blog_name, soup):
+    for img in soup.find_all('img'):
+      if not img['src'].startswith('/') \
+          and not img['src'].startswith('http'):
+        img['src'] = blog_name + '/' + img['src']
+
   os.makedirs(os.path.join(output, "blog"), exist_ok=True)
 
   pinned_posts = []
@@ -355,10 +361,7 @@ def blog(
       blog_html, metadata = templating.markdown(blog_file)
       if metadata["publish_time"] < render_at_time:
         soup = BeautifulSoup(blog_html, features="html.parser")
-        for img in soup.find_all('img'):
-          if not img['src'].startswith('/') \
-             and not img['src'].startswith('http'):
-            img['src'] = blog_name + '/' + img['src']
+        process_images(blog_name, soup)
 
         blog_content_html = templating.render_content(metadata, blog_html)
         full_page_html = templating.render_page(blog_content_html)
