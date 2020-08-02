@@ -226,8 +226,8 @@ def about_page(templating, output):
       out.write(about_html)
 
 def front_page(templating, all_items, output):
-  def convert(index, item):
-    even = index % 2 != 0
+  def convert(idx, item):
+    even = idx % 2 != 0
     attrs = {
       'row-class': ('left' if even else 'right'),
       'img-class': ('float-right' if even else 'float-left'),
@@ -280,13 +280,13 @@ def archive_page(templating: TemplateRenderer, all_items, output):
 
   views = []
   for k in by_month:
-    def to_post(item):
+    def to_post(post):
       attrs = {}
       for attr in ["index-url", "index-title", "item-url", "item-title"]:
-        attrs[attr] = item[attr]
+        attrs[attr] = post[attr]
 
-      attrs['date'] = datetime.strftime(item["publish_time"], "%B %-d, %Y")
-      attrs['time'] = datetime.strftime(item["publish_time"], "%H:%M")
+      attrs['date'] = datetime.strftime(post["publish_time"], "%B %-d, %Y")
+      attrs['time'] = datetime.strftime(post["publish_time"], "%H:%M")
       return attrs
 
     views.append({
@@ -310,15 +310,14 @@ def features(
     return md_file.replace(".md", "") + ".html"
 
   def about_feature(path_to_feature):
-    with open(path_to_feature + '/about.md') as about_feature:
-      feature_blurb, feature_metadata = templating.markdown(about_feature)
-      feature_title = feature_metadata["feature_title"]
+    with open(path_to_feature + '/about.md') as about_feature_md:
+      feature_blurb, about_metadata = templating.markdown(about_feature_md)
       feature_cells.append(templating.render_feature(
-        feature_title,
+        about_metadata["feature_title"],
         "/" + path_to_feature,
         feature_blurb
       ))
-    return feature_title
+    return about_metadata["feature_title"]
 
   os.makedirs(os.path.join(output, "features"), exist_ok=True)
 
@@ -397,12 +396,12 @@ def blog(
     templating: TemplateRenderer,
     render_at_time,
     output):
-  def process_images(post_name, soup):
+  def process_images(post_path, post_soup):
     def absolute(tag):
-      for t in soup.find_all(tag):
+      for t in post_soup.find_all(tag):
         if not t['src'].startswith('/') \
             and not t['src'].startswith('http'):
-          t['src'] = '/blog/' + post_name + '/' + t['src']
+          t['src'] = '/blog/' + post_path + '/' + t['src']
     absolute('img')
     absolute('source')
 
@@ -448,8 +447,8 @@ def blog(
     key=lambda item: item["publish_time"],
     reverse=True)
 
-  def write_item(post, first, full_page_html):
-    blog_index_path = os.path.join(post["output_directory"], "index.html")
+  def write_item(item, first, full_page_html):
+    blog_index_path = os.path.join(item["output_directory"], "index.html")
     with open(blog_index_path, "w+") as file_output:
       file_output.write(full_page_html)
 
@@ -510,10 +509,10 @@ def sites(
     )
 
 
-output = sys.argv[1]
+output_directory = sys.argv[1]
 if len(sys.argv) > 2:
-  render_at_time = datetime.strptime(sys.argv[2], "%Y-%m-%dT%H:%M:%S.%fZ")
+  time_of_render = datetime.strptime(sys.argv[2], "%Y-%m-%dT%H:%M:%S.%fZ")
 else:
-  render_at_time = datetime.now()
+  time_of_render = datetime.now()
 
-create_website(output, render_at_time)
+create_website(output_directory, time_of_render)
