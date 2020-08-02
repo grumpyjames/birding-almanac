@@ -124,14 +124,14 @@ class TemplateRenderer:
 
     return result
 
-  def render_each_with_nav(self, posts, param, write_item):
+  def render_each_with_nav(self, posts, write_item):
     first = True
     for index, post in enumerate(posts):
       def maybe_url(p, default):
         if p is None:
           return default
         else:
-          return f"<a href='{p['url']}'>{p[param]}</a>"
+          return f"<a href='{p['item-url']}'>{p['item-title']}</a>"
 
       prev_post = None if index - 1 < 0 else posts[index - 1]
       next_post = None if index + 1 >= len(posts) else posts[index + 1]
@@ -228,7 +228,7 @@ def about_page(templating, output):
 def front_page(templating, all_items, output):
   def convert(index, item):
     even = index % 2 != 0
-    common = {
+    attrs = {
       'row-class': ('left' if even else 'right'),
       'img-class': ('float-right' if even else 'float-left'),
       'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
@@ -236,34 +236,14 @@ def front_page(templating, all_items, output):
       'blurb': item["blurb"],
     }
 
-    if item["type"] == "site":
-      custom = {
-        'index-link': '/sites/index.html',
-        'index-title': 'Site Guides',
-        'item-link': '/sites/' + item["site_path"] + '.html',
-        'item-title': item["site_name"],
-        'image': '/sites/' + item["site_path"] + '-thumb.png',
-      }
-    elif item["type"] == "blog":
-      custom = {
-        'index-link': '/blog/index.html',
-        'index-title': 'Blog',
-        'item-link': '/blog/' + item["blog_path"] + '/index.html',
-        'item-title': item["title"],
-        'image': '/blog/' + item["blog_path"] + '/' + item["blog_path"] +
-                 '-thumb.png',
-      }
-    elif item["type"] == "feature":
-      custom = {
-        'index-link': '/features/' + item["feature_path"] + '/index.html',
-        'index-title': item["feature_title"],
-        'item-link': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '.html',
-        'item-title': item["feature_item_title"],
-        'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
-      }
-    else:
-      raise Exception("Unknown item type: " + item["type"])
-    return  {**common, **custom}
+    for attr in [
+      "index-url",
+      "index-title",
+      "item-image",
+      "item-url",
+      "item-title"]:
+      attrs[attr] = item[attr]
+    return attrs
 
   home_items = ""
   first = True
@@ -301,39 +281,13 @@ def archive_page(templating: TemplateRenderer, all_items, output):
   views = []
   for k in by_month:
     def to_post(item):
-      if item["type"] == "site":
-        return {
-          'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
-          'time': datetime.strftime(item["publish_time"], "%H:%M"),
-          'index-link': '/sites/index.html',
-          'index-title': 'Site Guides',
-          'item-link': '/sites/' + item["site_path"] + '.html',
-          'item-title': item["site_name"],
-          'image': '/sites/' + item["site_path"] + '-thumb.png',
-        }
-      elif item["type"] == "blog":
-        return {
-          'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
-          'time': datetime.strftime(item["publish_time"], "%H:%M"),
-          'index-link': '/blog/index.html',
-          'index-title': 'Blog',
-          'item-link': '/blog/' + item["blog_path"] + '/index.html',
-          'item-title': item["title"],
-          'image': '/blog/' + item["blog_path"] + '/' + item["blog_path"] +
-                   '-thumb.png',
-        }
-      elif item["type"] == "feature":
-        return {
-          'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
-          'time': datetime.strftime(item["publish_time"], "%H:%M"),
-          'index-link': '/features/' + item["feature_path"] + '/index.html',
-          'index-title': item["feature_title"],
-          'item-link': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '.html',
-          'item-title': item["feature_item_title"],
-          'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
-        }
-      else:
-        raise Exception("Unknown item type: " + item["type"])
+      attrs = {}
+      for attr in ["index-url", "index-title", "item-url", "item-title"]:
+        attrs[attr] = item[attr]
+
+      attrs['date'] = datetime.strftime(item["publish_time"], "%B %-d, %Y")
+      attrs['time'] = datetime.strftime(item["publish_time"], "%H:%M")
+      return attrs
 
     views.append({
       "key": k,
@@ -405,7 +359,12 @@ def features(
             'feature_path': feature,
             'feature_title': feature_title,
             'feature_item_path': file.replace(".md", ""),
-            'feature_item_title': feature_metadata["title"]
+            'feature_item_title': feature_metadata["title"],
+            'item-image': feature_path + '/' + file.replace(".md", "") + '-thumb.png',
+            'item-url': '/' + feature_path + "/" + as_html(file),
+            'item-title': feature_metadata["title"],
+            'index-url': '/' + feature_path,
+            'index-title': feature_title
           })
 
     def write_item(feature_item, _, full_page_html):
@@ -413,10 +372,7 @@ def features(
       with open(out_path, "w+") as file_output:
         file_output.write(full_page_html)
 
-    templating.render_each_with_nav(
-      feature_items,
-      "feature_item_title",
-      write_item)
+    templating.render_each_with_nav(feature_items, write_item)
 
     all_feature_items.extend(feature_items)
 
@@ -488,7 +444,11 @@ def blog(
           'title': metadata["title"],
           'html': str(soup),
           'output_directory': post_output_dir,
-          'url': '/blog/' + post_name + '/index.html'
+          'item-image': '/blog/' + post_name + '/' + post_name + '-thumb.png',
+          'item-url': '/blog/' + post_name + '/index.html',
+          'item-title': metadata["title"],
+          'index-url': "/blog/index.html",
+          'index-title': "Blog"
         }
 
         posts.append(post)
@@ -507,7 +467,7 @@ def blog(
       with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
         list_index.write(full_page_html)
 
-  templating.render_each_with_nav(posts, "title", write_item)
+  templating.render_each_with_nav(posts, write_item)
 
   return posts
 
@@ -538,7 +498,12 @@ def sites(
           'updated_time': metadata["updated_time"],
           'type': 'site',
           'site_name': site_name.replace("_", " "),
-          'site_path': site_name
+          'site_path': site_name,
+          'item-image': f"/sites/${site_name}-thumb.png",
+          'item-url': f"/sites/${site_name}.html",
+          'item-title': site_name.replace("_", " "),
+          'index-url': "/sites/index.html",
+          'index-title': "Site Guides",
         })
 
         full_page_html = templating.render_content_page(metadata, site_html)
