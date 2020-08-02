@@ -32,6 +32,23 @@ class TemplateRenderer:
       }
     )
 
+  def render_content(
+      self,
+      metadata: dict,
+      content_html,
+      content_nav = None):
+    publish_time = metadata["publish_time"]
+
+    return pystache.render(
+      self.content_template,
+      {
+        'date': datetime.strftime(publish_time, "%B %-d, %Y"),
+        'time': datetime.strftime(publish_time, "%H:%M"),
+        'main-content': content_html,
+        'content-nav': "" if content_nav is None else content_nav
+      }
+    )
+
   def render_content_page(
       self,
       metadata,
@@ -39,25 +56,6 @@ class TemplateRenderer:
       content_nav = None):
     page_html = self.render_content(metadata, content_html, content_nav)
     return self.render_page(page_html)
-
-  def render_content(
-      self,
-      metadata: dict,
-      content_html,
-      content_nav = None):
-    publish_time = metadata["publish_time"]
-    pinned = metadata["pinned"]
-
-    return pystache.render(
-      self.content_template,
-      {
-        'date': datetime.strftime(publish_time, "%B %-d, %Y"),
-        'time': datetime.strftime(publish_time, "%H:%M"),
-        'pinned': pinned,
-        'main-content': content_html,
-        'content-nav': "" if content_nav is None else content_nav
-      }
-    )
 
   def render_cell(self, title, url, blurb):
     return pystache.render(
@@ -91,9 +89,7 @@ class TemplateRenderer:
   @staticmethod
   def parse_metadata(metadata_dict):
     date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
-    result = {
-      "pinned": None
-    }
+    result = {}
     for k in metadata_dict:
       v = metadata_dict[k][0]
       if k in ["publish_time", "updated_time"]:
@@ -164,7 +160,6 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
   front_page_items.extend(sites_with_blurb)
   front_page_items.extend(blogs_with_blurb["other_posts"])
   front_page_items = sorted(front_page_items, key=lambda item: item["publish_time"], reverse=True)
-  front_page_items = blogs_with_blurb["pinned_posts"] + front_page_items
 
   def convert(index, item):
     even = index % 2 != 0
@@ -174,7 +169,6 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
       'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
       'time': datetime.strftime(item["publish_time"], "%H:%M"),
       'blurb': item["blurb"],
-      'pinned': item["pinned"]
     }
 
     if item["type"] == "site":
@@ -279,7 +273,6 @@ def features(
             'blurb': soup.p.text,
             'publish_time': feature_metadata["publish_time"],
             'updated_time': feature_metadata["updated_time"],
-            'pinned': feature_metadata["pinned"],
             'type': 'feature',
             'feature_path': feature,
             'feature_title': feature_title,
@@ -343,7 +336,6 @@ def blog(
 
   os.makedirs(os.path.join(output, "blog"), exist_ok=True)
 
-  pinned_posts = []
   other_posts = []
 
   for blog_name in os.listdir("blog"):
@@ -373,7 +365,6 @@ def blog(
           'blurb': soup.p.text,
           'publish_time': metadata["publish_time"],
           'updated_time': metadata["updated_time"],
-          'pinned': metadata["pinned"],
           'type': 'blog',
           'blog_name': blog_name.replace("_", " "),
           'blog_path': blog_name,
@@ -381,10 +372,7 @@ def blog(
           'html': blog_index_html
         }
 
-        if metadata["pinned"]:
-          pinned_posts.append(post)
-        else:
-          other_posts.append(post)
+        other_posts.append(post)
 
         blog_index_path = os.path.join(blog_output_dir, "index.html")
         with open(blog_index_path, "w+") as file_output:
@@ -396,7 +384,6 @@ def blog(
     reverse=True)
 
   all_posts = []
-  all_posts.extend(pinned_posts)
   all_posts.extend(other_posts)
   first = True
 
@@ -413,7 +400,6 @@ def blog(
   with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
     list_index.write(templating.render_page(list_index_content))
 
-  blogs_with_blurb["pinned_posts"] = pinned_posts
   blogs_with_blurb["other_posts"] = other_posts
 
 
@@ -441,7 +427,6 @@ def sites(
           'blurb': soup.p.text,
           'publish_time': metadata["publish_time"],
           'updated_time': metadata["updated_time"],
-          'pinned': metadata["pinned"],
           'type': 'site',
           'site_name': site_name.replace("_", " "),
           'site_path': site_name
