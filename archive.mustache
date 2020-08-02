@@ -1,0 +1,17 @@
+<div class="row">
+  <div class="content-cell col-sm-12">
+    <h2>Full post archive</h2>
+    {{#archive-months}}
+      <h3>{{key}}</h3>
+      <ul>
+      {{#posts}}
+        <li>
+          <a href="{{item-link}}">{{item-title}}</a> in
+          <a href="{{index-link}}">{{index-title}}</a>
+          on {{date}} at {{time}}
+        </li>
+      {{/posts}}
+      </ul>
+    {{/archive-months}}
+  </div>
+</div>

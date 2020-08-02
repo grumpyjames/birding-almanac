@@ -9,9 +9,11 @@ from bs4 import BeautifulSoup
 
 
 class TemplateRenderer:
+  # Golly, this might be better modelled as a dict?
   def __init__(
       self,
       page_template,
+      archive_template,
       content_template,
       content2_template,
       cell_template,
@@ -19,6 +21,7 @@ class TemplateRenderer:
       fc_template,
   ):
     self.page_template = page_template
+    self.archive_template = archive_template
     self.content_template = content_template
     self.content2_template = content2_template
     self.cell_template = cell_template
@@ -143,10 +146,20 @@ class TemplateRenderer:
       write_item(post, first, full_page_html)
       first = False
 
+  def render_archive(self, views):
+    content = pystache.render(
+      self.archive_template,
+      {
+        "archive-months": views
+      }
+    )
+    return self.render_page(content)
+
 
 def create_website(output, render_at_time):
   with \
       open("page.mustache") as f, \
+      open("archive.mustache") as a, \
       open("content.mustache") as c, \
       open("content2.mustache") as c2, \
       open("front_page_item.mustache") as fpi, \
@@ -154,6 +167,7 @@ def create_website(output, render_at_time):
       open('by_name_cell.mustache') as cell:
     templating = TemplateRenderer(
       f.read(),
+      a.read(),
       c.read(),
       c2.read(),
       cell.read(),
@@ -169,12 +183,18 @@ def create_website(output, render_at_time):
   blog_posts = blog(templating, render_at_time, output)
   all_feature_items = []
   features(templating, render_at_time, output, all_feature_items)
-  front_page(
-    templating,
-    all_feature_items,
-    sites_with_blurb,
-    blog_posts,
-    output)
+
+  all_items = []
+  all_items.extend(all_feature_items)
+  all_items.extend(sites_with_blurb)
+  all_items.extend(blog_posts)
+  all_items = sorted(
+    all_items,
+    key=lambda item: item["publish_time"],
+    reverse=True)
+
+  front_page(templating, all_items, output)
+  archive_page(templating, all_items, output)
 
 
 # copy only if different, to preserve timestamps and prevent resync.
@@ -205,13 +225,7 @@ def about_page(templating, output):
     with open(os.path.join(output, "about.html"), "w+") as out:
       out.write(about_html)
 
-def front_page(templating, all_feature_items, sites_with_blurb, blog_posts, output):
-  front_page_items = []
-  front_page_items.extend(all_feature_items)
-  front_page_items.extend(sites_with_blurb)
-  front_page_items.extend(blog_posts)
-  front_page_items = sorted(front_page_items, key=lambda item: item["publish_time"], reverse=True)
-
+def front_page(templating, all_items, output):
   def convert(index, item):
     even = index % 2 != 0
     common = {
@@ -253,18 +267,81 @@ def front_page(templating, all_feature_items, sites_with_blurb, blog_posts, outp
 
   home_items = ""
   first = True
-  if len(front_page_items) > 50:
-    raise Exception("Time to implement archival, Jimbo")
 
-  for (index, f) in enumerate(front_page_items):
+  for (index, f) in enumerate(all_items[:10]):
     if not first:
       home_items += "<hr/>"
     first = False
     front_page_item = convert(index + 1, f)
     home_items += templating.render_front_page_item(front_page_item)
+
+  home_items += """
+    <hr>
+    <div class="row">
+      <div class="cell col-md-12 text-center">      
+      Older content can be found in the <a href="/archive.html">Archive</a>    
+    </div>
+    </div>
+  """
+
   index_html = templating.render_page(home_items)
+
   with open(os.path.join(output, "index.html"), "+w") as index_file:
     index_file.write(index_html)
+
+def archive_page(templating: TemplateRenderer, all_items, output):
+  by_month = {}
+  for item in all_items:
+    key = item["publish_time"].strftime("%B, %Y")
+    if key not in by_month:
+      by_month[key] = [item]
+    else:
+      by_month[key].append(item)
+
+  views = []
+  for k in by_month:
+    def to_post(item):
+      if item["type"] == "site":
+        return {
+          'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
+          'time': datetime.strftime(item["publish_time"], "%H:%M"),
+          'index-link': '/sites/index.html',
+          'index-title': 'Site Guides',
+          'item-link': '/sites/' + item["site_path"] + '.html',
+          'item-title': item["site_name"],
+          'image': '/sites/' + item["site_path"] + '-thumb.png',
+        }
+      elif item["type"] == "blog":
+        return {
+          'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
+          'time': datetime.strftime(item["publish_time"], "%H:%M"),
+          'index-link': '/blog/index.html',
+          'index-title': 'Blog',
+          'item-link': '/blog/' + item["blog_path"] + '/index.html',
+          'item-title': item["title"],
+          'image': '/blog/' + item["blog_path"] + '/' + item["blog_path"] +
+                   '-thumb.png',
+        }
+      elif item["type"] == "feature":
+        return {
+          'date': datetime.strftime(item["publish_time"], "%B %-d, %Y"),
+          'time': datetime.strftime(item["publish_time"], "%H:%M"),
+          'index-link': '/features/' + item["feature_path"] + '/index.html',
+          'index-title': item["feature_title"],
+          'item-link': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '.html',
+          'item-title': item["feature_item_title"],
+          'image': '/features/' + item["feature_path"] + '/' + item["feature_item_path"] + '-thumb.png',
+        }
+      else:
+        raise Exception("Unknown item type: " + item["type"])
+
+    views.append({
+      "key": k,
+      "posts": [to_post(p) for p in by_month[k]]
+    })
+
+  with open(os.path.join(output, "archive.html"), "+w") as archive_file:
+    archive_file.write(templating.render_archive(views))
 
 
 def features(
