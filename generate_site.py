@@ -254,7 +254,7 @@ def front_page(templating, all_feature_items, sites_with_blurb, blog_posts, outp
   home_items = ""
   first = True
   if len(front_page_items) > 50:
-    raise Exception("Time to implement pagination, Jimbo")
+    raise Exception("Time to implement archival, Jimbo")
 
   for (index, f) in enumerate(front_page_items):
     if not first:
