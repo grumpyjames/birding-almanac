@@ -359,7 +359,7 @@ underwhelming, with Grey Heron the only bird of note. Perhaps we're just a bit
 late, or a bit tired, or we went the wrong way. 
 
 The drive there was lovely, mind - spectacular views along the Kyle of
-Sunderland. Oh, and the bear sculpture provided some small entertainment. We
+Sutherland. Oh, and the bear sculpture provided some small entertainment. We
 probably don't wait until late enough to hear the owl - at some point AB2
 and I wordlessly agreed it would be nice to get back to the campsite soon, i
 .e before it gets dark.
