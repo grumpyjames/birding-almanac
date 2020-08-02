@@ -119,11 +119,15 @@ def create_website(output, render_at_time):
   about_page(templating, output)
   sites_with_blurb = []
   sites(templating, render_at_time, output, sites_with_blurb)
-  blogs_with_blurb = {}
-  blog(templating, render_at_time, output, blogs_with_blurb)
+  blog_posts = blog(templating, render_at_time, output)
   all_feature_items = []
   features(templating, render_at_time, output, all_feature_items)
-  front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb, output)
+  front_page(
+    templating,
+    all_feature_items,
+    sites_with_blurb,
+    blog_posts,
+    output)
 
 
 # copy only if different, to preserve timestamps and prevent resync.
@@ -154,11 +158,11 @@ def about_page(templating, output):
     with open(os.path.join(output, "about.html"), "w+") as out:
       out.write(about_html)
 
-def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb, output):
+def front_page(templating, all_feature_items, sites_with_blurb, blog_posts, output):
   front_page_items = []
   front_page_items.extend(all_feature_items)
   front_page_items.extend(sites_with_blurb)
-  front_page_items.extend(blogs_with_blurb["other_posts"])
+  front_page_items.extend(blog_posts)
   front_page_items = sorted(front_page_items, key=lambda item: item["publish_time"], reverse=True)
 
   def convert(index, item):
@@ -326,8 +330,7 @@ def features(
 def blog(
     templating: TemplateRenderer,
     render_at_time,
-    output,
-    blogs_with_blurb):
+    output):
   def process_images(blog_name, soup):
     def relativise(tag):
       for t in soup.find_all(tag):
@@ -339,7 +342,7 @@ def blog(
 
   os.makedirs(os.path.join(output, "blog"), exist_ok=True)
 
-  other_posts = []
+  posts = []
 
   for blog_name in os.listdir("blog"):
     blog_output_dir = os.path.join(output, "blog", blog_name)
@@ -375,35 +378,33 @@ def blog(
           'html': blog_index_html
         }
 
-        other_posts.append(post)
+        posts.append(post)
 
         blog_index_path = os.path.join(blog_output_dir, "index.html")
         with open(blog_index_path, "w+") as file_output:
           file_output.write(full_page_html)
 
-  other_posts = sorted(
-    other_posts,
+  posts = sorted(
+    posts,
     key=lambda item: item["publish_time"],
     reverse=True)
 
-  all_posts = []
-  all_posts.extend(other_posts)
   first = True
 
-  if len(all_posts) > 10:
+  if len(posts) > 10:
     raise Exception("Time to implement pagination, Jimbo")
 
   list_index_content = ""
-  for blog in all_posts:
+  for post in posts:
     if not first:
       list_index_content += "<hr/>"
-    list_index_content += blog["html"]
+    list_index_content += post["html"]
     first = False
 
   with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
     list_index.write(templating.render_page(list_index_content))
 
-  blogs_with_blurb["other_posts"] = other_posts
+  return posts
 
 
 def sites(
