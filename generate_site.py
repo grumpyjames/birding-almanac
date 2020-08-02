@@ -34,14 +34,20 @@ class TemplateRenderer:
 
   def render_content_page(
       self,
-      publish_time,
+      metadata,
       content_html,
-      content_nav,
-      pinned):
-    page_html = self.render_content(publish_time, content_html, content_nav, pinned)
+      content_nav = None):
+    page_html = self.render_content(metadata, content_html, content_nav)
     return self.render_page(page_html)
 
-  def render_content(self, publish_time, content_html, content_nav, pinned):
+  def render_content(
+      self,
+      metadata: dict,
+      content_html,
+      content_nav = None):
+    publish_time = metadata["publish_time"]
+    pinned = metadata["pinned"]
+
     return pystache.render(
       self.content_template,
       {
@@ -49,7 +55,7 @@ class TemplateRenderer:
         'time': datetime.strftime(publish_time, "%H:%M"),
         'pinned': pinned,
         'main-content': content_html,
-        'content-nav': content_nav
+        'content-nav': "" if content_nav is None else content_nav
       }
     )
 
@@ -268,6 +274,7 @@ def features(
           feature_items.append({
             'html': feature_html,
             'url': as_html(file),
+            'metadata': feature_metadata,
             'name': (str(index + 1) + ": " + soup.h3.text),
             'blurb': soup.p.text,
             'publish_time': feature_metadata["publish_time"],
@@ -291,10 +298,9 @@ def features(
         nav += "<a class='nav-next' href='" + next_file_link + "'>Next</a>"
       content_nav = "".join(nav)
       full_page_html = templating.render_content_page(
-        feature_item["publish_time"],
+        feature_item["metadata"],
         feature_item["html"],
-        content_nav,
-        feature_item["pinned"])
+        content_nav)
 
       out_path = os.path.join(output, feature_path + "/" + feature_item["url"])
       with open(out_path, "w+") as file_output:
@@ -354,18 +360,9 @@ def blog(
              and not img['src'].startswith('http'):
             img['src'] = blog_name + '/' + img['src']
 
-        blog_content_html = templating.render_content(
-          metadata["publish_time"],
-          blog_html,
-          "",
-          metadata["pinned"])
+        blog_content_html = templating.render_content(metadata, blog_html)
         full_page_html = templating.render_page(blog_content_html)
-
-        blog_index_html = templating.render_content(
-          metadata["publish_time"],
-          str(soup),
-          "",
-          metadata["pinned"])
+        blog_index_html = templating.render_content(metadata, str(soup))
 
         # noinspection PyUnresolvedReferences
         post = {
@@ -418,7 +415,7 @@ def blog(
 
 
 def sites(
-    templating,
+    templating: TemplateRenderer,
     render_at_time,
     output,
     sites_with_blurb):
@@ -447,7 +444,7 @@ def sites(
           'site_path': site_name
         })
 
-        full_page_html = templating.render_content_page(metadata["publish_time"], site_html, "", metadata["pinned"])
+        full_page_html = templating.render_content_page(metadata, site_html)
         with open(os.path.join(output, "sites", site_name + ".html"), "w+") as file_output:
           file_output.write(full_page_html)
 
