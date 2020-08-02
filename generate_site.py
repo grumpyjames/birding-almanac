@@ -22,6 +22,7 @@ class TemplateRenderer:
     self.cell_template = cell_template
     self.fpi_template = fpi_template
     self.fc_template = fc_template
+    self.md = markdown.Markdown(extensions=['meta'])
 
   def render_page(self, page_html):
     return pystache.render(
@@ -75,15 +76,26 @@ class TemplateRenderer:
   def render_front_page_item(self, item):
     return pystache.render(self.fpi_template, item)
 
+  def markdown(self, file):
+    html = self.md.convert(file.read())
+    # noinspection PyUnresolvedReferences
+    metadata = self.parse_metadata(self.md.Meta)
+    return html, metadata
 
-def parse_metadata(metadata_dict):
-  date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
-  pinned = metadata_dict["pinned"][0] if "pinned" in metadata_dict else None
-  return {
-    "publish_time": datetime.strptime(metadata_dict["publish_time"][0], date_format),
-    "updated_time": datetime.strptime(metadata_dict["updated_time"][0], date_format),
-    "pinned": pinned
-  }
+  @staticmethod
+  def parse_metadata(metadata_dict):
+    date_format = "%Y-%m-%dT%H:%M:%S.%fZ"
+    result = {
+      "pinned": None
+    }
+    for k in metadata_dict:
+      v = metadata_dict[k][0]
+      if k in ["publish_time", "updated_time"]:
+        result[k] = datetime.strptime(v, date_format)
+      else:
+        result[k] = v
+
+    return result
 
 def create_website(output, render_at_time):
   with \
@@ -205,7 +217,7 @@ def front_page(templating, all_feature_items, sites_with_blurb, blogs_with_blurb
 
 
 def features(
-    templating,
+    templating: TemplateRenderer,
     render_at_time,
     output,
     all_feature_items):
@@ -217,10 +229,8 @@ def features(
 
   def about_feature(path_to_feature):
     with open(path_to_feature + '/about.md') as about_feature:
-      md = markdown.Markdown(extensions=['meta'])
-      feature_blurb = md.convert(about_feature.read())
-      # noinspection PyUnresolvedReferences
-      feature_title = md.Meta["feature_title"][0]
+      feature_blurb, feature_metadata = templating.markdown(about_feature)
+      feature_title = feature_metadata["feature_title"]
       feature_cells.append(templating.render_feature(
         feature_title,
         "/" + path_to_feature,
@@ -250,10 +260,7 @@ def features(
     feature_md_files.sort()
     for index, file in enumerate(feature_md_files):
       with open(feature_path + "/" + file) as feature_file:
-        md = markdown.Markdown(extensions=['meta'])
-        feature_html = md.convert(feature_file.read())
-        # noinspection PyUnresolvedReferences
-        feature_metadata = parse_metadata(md.Meta)
+        feature_html, feature_metadata = templating.markdown(feature_file)
         if feature_metadata["publish_time"] < render_at_time:
           soup = BeautifulSoup(feature_html, features="html.parser")
 
@@ -270,7 +277,7 @@ def features(
             'feature_path': feature,
             'feature_title': feature_title,
             'feature_item_path': file.replace(".md", ""),
-            'feature_item_title': md.Meta["title"][0]
+            'feature_item_title': feature_metadata["title"]
           })
 
     for index, feature_item in enumerate(feature_items):
@@ -318,7 +325,7 @@ def features(
 
 
 def blog(
-    templating,
+    templating: TemplateRenderer,
     render_at_time,
     output,
     blogs_with_blurb):
@@ -339,11 +346,7 @@ def blog(
 
     blog_markdown_path = os.path.join(blog_input_dir, blog_name + ".md")
     with open(blog_markdown_path) as blog_file:
-      blog_markdown = blog_file.read()
-      md = markdown.Markdown(extensions=['meta'])
-      blog_html = md.convert(blog_markdown)
-      # noinspection PyUnresolvedReferences
-      metadata = parse_metadata(md.Meta)
+      blog_html, metadata = templating.markdown(blog_file)
       if metadata["publish_time"] < render_at_time:
         soup = BeautifulSoup(blog_html, features="html.parser")
         for img in soup.find_all('img'):
@@ -374,7 +377,7 @@ def blog(
           'type': 'blog',
           'blog_name': blog_name.replace("_", " "),
           'blog_path': blog_name,
-          'title': md.Meta["title"][0],
+          'title': metadata["title"],
           'html': blog_index_html
         }
 
@@ -430,11 +433,7 @@ def sites(
       lazy_image_copy("sites/" + filename, os.path.join(output, "sites/" + filename))
   for (f, site_name) in sites_to_convert:
     with open(os.path.join("sites", f)) as site_file:
-      site_markdown = site_file.read()
-      md = markdown.Markdown(extensions=['meta'])
-      site_html = md.convert(site_markdown)
-      # noinspection PyUnresolvedReferences
-      metadata = parse_metadata(md.Meta)
+      site_html, metadata = templating.markdown(site_file)
       if metadata["publish_time"] < render_at_time:
         soup = BeautifulSoup(site_html, features="html.parser")
         sites_with_blurb.append({
