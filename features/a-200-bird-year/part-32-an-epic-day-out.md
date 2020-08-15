@@ -6,7 +6,7 @@ title: Part 32: An Epic Day Out
 
 ### An Epic Day Out
 
-With twelve birds to go, we could be forgiven for taking our foot of the gas
+With twelve birds to go, we could be forgiven for taking our foot off the gas
 a little. No fear.
 
 Pronoun guidance: AB1 flies solo. This post covers the events of July 14th
