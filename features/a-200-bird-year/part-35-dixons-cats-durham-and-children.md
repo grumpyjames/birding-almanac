@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-08-02T21:11:00.000Z
-updated_time: 2020-08-02T21:11:00.000Z
+publish_time: 2020-08-15T12:11:00.000Z
+updated_time: 2020-08-15T12:11:00.000Z
 title: Part 35: Dixons, Cats, Durham and Children
 ---
 
@@ -43,8 +43,8 @@ borrowed from Dixon holds up.
 The reserve itself is almost totally inaccessible and can only be
 viewed from a pair of laybys. There are two cars parked in one of
 them; a couple next to the nearest one have set up a telescope. I can
-see evidence of someone trying to scope from inside the second car (a
-worthy but nigh on impossible feat).
+see evidence of someone trying to scope from inside the second car (an admirable
+but nigh on impossible feat).
 
 I don't immediately feel like asking for assistance - having reached
 the arbitrary 200, I can afford to dip a few species in the name of
@@ -76,7 +76,7 @@ Common Sandpiper), too small and again, not pale enough for
 Greenshank. Also, there are three of them, which matches the
 BirdGuides report. Wood Sandpiper they are!
 
-This is an excellent turn up for the books, and a well timed one too,
+This is an excellent turn up for the books, and a well-timed one too,
 because the rain now arrives big style. I shelter under a ridiculously
 small (yet strangely effective) bush until we're back to drizzle rather than
 downpour, and then head back to the Metro station. I check my phone to
@@ -104,7 +104,7 @@ point where, as the car with us arrives in it, we decide to disrupt
 the plan and go on a walk around the city centre rather than visiting
 the effective garden centre the forward party decided to head
 to. This, remarkably, turns out alright - the garden centre crew have
-a jolly time there, and we get to walk up the bailey and give the
+a jolly time there, and we get to walk up the Bailey and give the
 cathedral a bit of a walk around.
 
 <figure class="figure">
@@ -122,13 +122,13 @@ graduating, and walking the Bailey triggers some strong muscle
 memories. On these cobbles a wallet flew out of my coat as I sprinted back to my
 room - why was I sprinting? Who knows. I'm sure it wasn't warranted. A
 pretty girl in my year picks it up and returns it to me with a smile as I sprint
-back up, I accept it and flee, in fear that it's a precursor to giggling.
+back up; I accept it and flee, in fear that it's a precursor to giggling.
 
 More cobbles. Another memory, clearer this time, "don't rush here, you'll
 fall over". Hmm, it is rather a soggy day, and those cobbles do look very
 slippery - just how many times did I fall over here to make that such a clear
 warning? The concrete bunker of the DSU hoves into view, and my mind's eye replays a
-poorly attended Biffy Clyro gig and some effort to obtain some terrible
+poorly-attended Biffy Clyro gig and some effort to obtain some terrible
 Smirnoff merchandise. Oh dear. Wasn't there a Peters' bakery
 over there once? And didn't we try to steal that sign one evening? Hmm.
 
@@ -164,7 +164,7 @@ with scopes perched on the top to try to reduce the area I need to look in.
 
 This is a struggle - the top of this cliff is windy, and the
 differences we're looking for are small. The Surf Scoter has a
-maniacal looking pattern of colours on its bill and a couple of white
+maniacal-looking pattern of colours on its bill and a couple of white
 patches on its head. The Velvet cousin has a white 'wink' of an
 eyepatch, and a white patch on its flank. We're looking for two of the
 latter, and one of the former.
@@ -172,10 +172,10 @@ latter, and one of the former.
 My eyes are watering with the strain of focussing on these birds; just
 as with the Wood Sandpipers, they're right at the edge of what can be
 reasonably looked at. That said, I'm pretty confident I've found the
-Surf Scoter - it's at the left hand side of the largest group. One of
+Surf Scoter - it's at the left-hand side of the largest group. One of
 the 'scope wielders takes pity on me - "I've got it, have a look". A
 thousand thank yous from both of my eyes. I was right though - that is
-the Surf Scoter. I yield the eyepiece to Ems and make gracious
+the Surf Scoter. I yield the eyepiece to AB2 and make gracious
 noises. The other birders also offer up their scopes - we've
 definitely landed amongst a most charitable group; we must have passed
 some regional hazing test by being prepared to stare for so long with
@@ -189,7 +189,7 @@ they show up once you've found them - the eye is clear once you've picked out
 the flank/wing pattern.
 
 We'd better go and find the Dixons - they'll surely be making trouble
-wherever they are. Indeed. Steve is finding large rocks and flinging
+wherever they are. Indeed. Mr Dixon is finding large rocks and flinging
 them at the sea on a nearby shingly beach. That Geology degree was worth 
 every penny. Some further scoters are lounging nearby - it's quite remarkable
 how close in some of the subrafts are - this is _easily_ the best view I've 
