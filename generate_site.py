@@ -125,8 +125,8 @@ class TemplateRenderer:
     return result
 
   def render_each_with_nav(self, posts, write_item):
-    first = True
     for index, post in enumerate(posts):
+      last = index == len(posts) - 1
       def maybe_url(p, default):
         if p is None:
           return default
@@ -143,8 +143,7 @@ class TemplateRenderer:
         maybe_url(next_post, "This is the first item")
       )
 
-      write_item(post, first, full_page_html)
-      first = False
+      write_item(post, last, full_page_html)
 
   def render_archive(self, views):
     content = pystache.render(
@@ -447,17 +446,25 @@ def blog(
     key=lambda item: item["publish_time"],
     reverse=True)
 
-  def write_item(item, first, full_page_html):
+  def write_item(item, last, full_page_html):
     blog_index_path = os.path.join(item["output_directory"], "index.html")
     with open(blog_index_path, "w+") as file_output:
       file_output.write(full_page_html)
 
-    if first:
+    if last:
       with open(os.path.join(output, 'blog/index.html'), "w+") as list_index:
         list_index.write(full_page_html)
 
+  posts = sorted(
+    posts,
+    key=lambda item: item["publish_time"],
+    reverse=False)
   templating.render_each_with_nav(posts, write_item)
 
+  posts = sorted(
+    posts,
+    key=lambda item: item["publish_time"],
+    reverse=True)
   return posts
 
 
