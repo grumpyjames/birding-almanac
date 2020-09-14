@@ -62,8 +62,7 @@ the same time of year, for Little Tern.
 
 ### Eat / Drink / Stay
 
-Before boarding, a visit to [Trotters Family
-Bakers](http://www.trottersfamilybakers.co.uk/index.php?page=seahouses-shop)
+Before boarding, a visit to [Trotters Family Bakers](http://www.trottersfamilybakers.co.uk/index.php?page=seahouses-shop)
 is a necessity - fantastic hand made sandwiches and cakes at very reasonable
 prices.
 
