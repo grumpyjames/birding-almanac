@@ -16,9 +16,7 @@ approaching from London. The reserve is then:
 
 * a good hour's walk (use the Saxon Shore Way)
 * a twenty-minute cycle
-* a ten-minute drive or taxi ride 
-* a fifteen-minute bus (hourly, not Sundays, [timetable](https://tiscon-maps-stagecoachbus.s3.amazonaws
-.com/Timetables/South%20East/Kent/3%20wef%20180917.pdf)) followed by a ten-minute walk; fafftastic.
+* a ten-minute drive or taxi ride
 
 ---
 ### Facilities

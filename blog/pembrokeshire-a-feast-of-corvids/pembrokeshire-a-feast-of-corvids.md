@@ -29,9 +29,8 @@ a few other good local spots and a more than decent public house.
 
 #### Research
 
-I consult my trusty copy of [Where To Find Birds In The
-UK](https://www.nhbs.com/2/series/where-to-watch-birds-in-britain-and-europe-christopher-helm]). This
-tells me about the obvious places (the islands), and also a few less
+I consult my trusty copy of [Where To Find Birds In The UK](https://www.nhbs.com/2/series/where-to-watch-birds-in-britain-and-europe-christopher-helm).
+This tells me about the obvious places (the islands), and also a few less
 obvious places (Dale Airfield, Dowrog Common). That book is _great_
 for finding a start, but its information is based on years of
 observations. I see if I can find a local bird group with a sightings

@@ -134,7 +134,7 @@ Philippa. Even Oare has average days, it turns out!
 #### Day Two Part Three: The Best Pub In Kent
 
 We avoid the New Year's Celebrations at the hotel and instead head to the 
-[Admiral's Arm](http://www.admiralsarm.co.uk/about.html) further towards the 
+[Admiral's Arm](http://www.admiralsarm.co.uk/) further towards the 
 harbour. This is Kent CAMRA's pub of the year for 2019, and it's obvious why,
 the beer is varied and delicious (whereas in most of the rest  Kent, it is 
 Shepherd Neame and almost entirely devoid of interest). In some ways, it was 
@@ -146,9 +146,8 @@ hangovers would have prevented such an entertaining day out on New Year's Day.
 We're at Elmley for 0905, freshly furnished with sufficient food supplies to 
 get us through the day. We are car three to enter, and I am excited.
 
-If you've not been to Elmley, it's worth having a look at [their website](https://www.elmleynaturereserve.co
-.uk/the-reserve-information) before you go. One of the best bits of advice is
- as follows:
+If you've not been to Elmley, it's worth having a look at [their website](https://www.elmleynaturereserve.co.uk/the-reserve-information)
+before you go. A previous version of their website advised as follows:
  
 <blockquote class="blockquote text-center">
 There is a two mile track to the reserve. You will find that your car makes a comfortable hide and there is fantastic wildlife to be seen on either side of the track.

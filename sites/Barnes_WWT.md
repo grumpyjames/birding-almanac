@@ -10,15 +10,14 @@ it? Surprisingly, it can.
 ---
 ### Getting there
 
+<strong>Please note</strong>: At pixel time, [Hammersmith Bridge](https://www.hammersmithbridge.org.uk/)
+is closed to all traffic, so _don't_ try to access the site from Hammersmith
+tube - go via Barnes National Rail!
+
 Public transport options are pretty good - either get National Rail to
 Barnes and then a short bus trip (or ten-minute walk) or tube to
 Hammersmith and grab a bus (slightly longer, walk probably less
 pointful) from there. 
-
-<strong>Please note</strong>: At pixel time, [Hammersmith Bridge](https://tfl
-.gov.uk/status-updates/major-works-and-events/hammersmith-bridge-closure) is 
-closed to all motor traffic, which will add a bus change if you're coming 
-from the North side on public transport.
 
 There is good access from the Thames path if you're on a bike coming
 from the East.

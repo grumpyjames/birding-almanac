@@ -204,7 +204,7 @@ Harwich proper to walk our way around the [Maritime Trail](https://www.harwich-s
 . If you've got a couple of hours to spend in the town, we would recommend 
 this, not least because it will give you the opportunity to scout which pubs 
 to visit later. We discovered the [Hanover Inn](https://www.hanoverinn.co.uk/)
-was serving Colchester Brewery's [Brazilian Coffee Porter](https://www.colchesterbrewery.com/beer/brazilian)
+was serving Colchester Brewery's [Brazilian Coffee Porter](https://www.colchesterbrewery.com/bottledbeer/brazilian)
 - an opportunity not to be missed.
 
 We can also recommend Harwich Town as an excellent place if you like big 
