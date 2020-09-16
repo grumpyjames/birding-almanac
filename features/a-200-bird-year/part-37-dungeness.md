@@ -1,13 +1,13 @@
 ---
-publish_time: 2020-09-14T18:11:00.000Z
-updated_time: 2020-09-14T18:11:00.000Z
+publish_time: 2020-09-16T18:11:00.000Z
+updated_time: 2020-09-16T18:11:00.000Z
 title: Part 37: Dungeness
 ---
 
 ### Dungeness
 
-September rolls round, and I am blessed with a renewed resolve, and,
-through good behaviour and a cunning deployment of miniature railways,
+September rolls round and I am blessed with a renewed resolve. Through good
+behaviour and a cunning deployment of miniature railways, I also am gifted with
 an AB2 who is prepared to try a Dungeness outing.
 
 Pronoun guidance: AB1's resolve is renewed. This post covers the events of
@@ -17,8 +17,9 @@ the 1st September, 2018.
 
 It's a good job there's a miniature railway involved - the journey
 would be unsellable otherwise - Northern to Pancras, HS1 and change to
-tiny Kentish station (tm), taxi, and finally, [Romney, Hythe and Dymchurch railway](https://www.rhdr.org.uk/) for the final leg.  It really is a remarkably small
-train! Exactly (really? -Ed) half-way between Hornby and actual train. 
+tiny Kentish station (tm), taxi, and finally, [Romney, Hythe and Dymchurch railway](https://www.rhdr.org.uk/) for the final leg.
+It really is a remarkably small train! Exactly (really? -Ed) half-way between
+Hornby and actual train. 
 
 You sit in pairs, on mildly uncomfortable seats. There's possibly a foot of
 headroom on cars that are roofed. Views over the surrounding countryside are
