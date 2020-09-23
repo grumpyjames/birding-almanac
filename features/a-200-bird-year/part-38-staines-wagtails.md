@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-09-16T18:13:00.000Z
-updated_time: 2020-09-16T18:13:00.000Z
+publish_time: 2020-09-23T21:06:00.000Z
+updated_time: 2020-09-23T21:06:00.000Z
 title: Part 38: Staines Wagtails
 ---
 
@@ -11,7 +11,7 @@ a break back to the continent. We catch up with two of them.
 
 The swifts have already made a hasty disappearance. Swallows and martins are
 on the move too. More excitingly, reports from Staines Reservoirs bring news
-of a good twenty odd Yellow Wagtails gamboling around on the causeway.
+of a good twenty-odd Yellow Wagtails gamboling around on the causeway.
 
 Pronoun guidance: AB1 is sceptical of wagtail reports. This post details the
  events of September 16th, 2018.
@@ -35,7 +35,7 @@ day, let's get out there.
 
 A couple of hours later, we find ourselves at the Eastern entrance to
 the causeway. One small bonus of the route: a McDonald's just before
-the reservoirs, which provided some suddenly much needed sustenance.
+the reservoirs, which provided some suddenly much-needed sustenance.
 
 I suddenly realise AB2 probably hasn't been here before, so provide a
 quick briefing on the weirdness of the site, remind her of its
@@ -45,17 +45,17 @@ time staring at the water in search of our quarry, and it's not the
 middle of the Winter.
 
 We get up to the causeway, and for the first time ever I am glad of
-the constant wind it receives - the sun is hot and unburdened by
+the constant wind it receives - the sun is hot and its rays are unimpeded by
 clouds, and without the cooling breeze the heat would be borderline
 unpleasant.
 
 #### Wagtails. Thousands (Ok, hundreds) of 'em
 
 It's immediately clear there are large numbers of wagtails on the
-causeway. Even from here, I'm guessing there are at least ~100 odd
+causeway. Even from here, I'm guessing there are at least 100
 scattered about - some sitting on the fences, others picking about at
-the base, some just have a sit down in the middle of the path. All
-I've got at the moment are Pied, however.
+the base of the reservoir, some just have a sit down in the middle of the path.
+ All I've got at the moment are Pied, however.
 
 <figure class="figure">
   <img
@@ -69,9 +69,9 @@ I've got at the moment are Pied, however.
 
 A closer look would help. Heck, we're planning to go and explore
 Staines Moor afterwards anyhow, so we need to make our way across
-anyway. We reach the non-annoying area of fencing and take another
+the causeway. We reach the non-annoying area of fencing and take another
 look. We're surrounded by wagtails now - some that we disturbed have
-now retaken their positions behind us, and many we are yet to bother
+retaken their positions behind us, and many we are yet to bother
 ahead. Both groups, now we are nearer, obviously contain several
 Yellow Wagtail (despite the variance between different YW subspecies,
 it's very clear how they differ from the pieds). Excellent. I dash out
@@ -124,7 +124,7 @@ watching.
 The definite kite and the mystery go their separate ways at this
 point, the kite heading South-East, and the mystery, usefully, along
 the River Colne, towards us. It's not just a heron, is it? That might
-have tried to mod a kite, I suppose. No. Wrong flap.
+have tried to mob a kite, I suppose. No. Wrong flap.
 
 The bird drops down a bit so it's below the skyline; the contrast
 reveals some of its colours, and more of its shape. Bloody hell,
@@ -180,7 +180,7 @@ Yellow Wagtail are mucking about around the cattle on our way; props
 to them for having read the bird book.
 
 We exit the moor under the bypass and cross some sort of
-canal. Looking along it, there's a well concealed Buzzard in the trees
+canal. Looking along it, there's a well-concealed Buzzard in the trees
 off to its right. Definitely a Buzzard, and not the Osprey again, we
 make sure. From here a delightful but dank path along another river
 (the Wraysbury?), a brief tour through a retail park (we decide against a
