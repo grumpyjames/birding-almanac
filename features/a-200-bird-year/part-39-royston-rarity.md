@@ -1,12 +1,12 @@
 ---
-publish_time: 2020-09-30T08:00:00.000Z
-updated_time: 2020-09-30T08:00:00.000Z
+publish_time: 2020-09-30T19:30:00.000Z
+updated_time: 2020-09-30T19:30:00.000Z
 title: Part 39: Royston Rarity
 ---
 
 ### Royston Rarity
 
-A couple of fallow weeks follow. Birdguides is almost dead to me at
+A couple of fallow weeks follow. BirdGuides is almost dead to me at
 this point; new ticks are almost entirely more than four hours away
 from London. Only one bird feels in range - a juvenile Pallid Harrier
 is apparently hanging about on Therfield Heath. 
@@ -20,9 +20,9 @@ Getting to Therfield Heath looks doable - train to Royston, and then ~40
 minutes of walk. I've been in two minds about trying this all week - it'll
 end up being at least two hours each way (trains are infrequent) and this has
 all the hallmarks of a dip. The frequency of sightings during the previous
-days and a very empty looking Sunday plan are enough to get me out of the door.
+days and a very empty-looking Sunday plan are enough to get me out of the door.
 
-#### Surprisingly good ~~cakes~~ patch
+#### Surprisingly good <del>cakes</del> patch
 
 Therfield Heath is an open space South-West of Royston. It harbours a
 golf course and a rugby club, but still has some good rough patches
@@ -53,7 +53,7 @@ thought about something other than crop yield; indeed, it seems like
 some of this area is managed for wildlife primarily. Judging by my
 experience so far, it's working a treat.
 
-I hang about at the top with another birder for quarter of an hour. We
+I hang about at the top with another birder for a quarter of an hour. We
 agree this is where we need to be, but there is no sign of the
 Pallid. We go our separate ways (West for him, South for me) to
 continue the search.
@@ -110,13 +110,13 @@ triangulated Pallid is an easy one, I turn around and head back up to
 the hill. The scope gang are still all present and correct. No sign of
 the Pallid. I have a look around and find a Kestrel taking a break on
 a telegraph wire. Somewhere nearby, a Yellowhammer tells repeatedly of
-its desire for a diminutive cheese sandwich. This is a decent patch!
+its desire for a diminutive dairy-free sandwich. This is a decent patch!
 Lucky Royston.
 
 #### Pallid vs Corvids
 
-The Pallid returns to great acclaim. This time it lands in a well
-furrowed field that we have yet to stare at. Everyone files over to
+The Pallid returns to great acclaim. This time it lands in a well-furrowed
+ field that we have yet to stare at. Everyone files over to
 stare at it. A couple of crows hang around nearby to add some possible
 drama.
 
@@ -126,7 +126,7 @@ occurs. A similar nonaggression pact has obviously been agreed with a
 Black-headed Gull (ok, a Larus, fine), whose expression could not be more aloof.
 
 Confounding our claims that it must have some food on the ground, the
-Pallid takes off empty handed. This seems to break the terms of the
+Pallid takes off empty-clawed. This seems to break the terms of the
 agreement with the crows, who are immediately in pursuit. The Pallid's
 escape is great to watch, a few languid flaps and carves take it
 easily away from the busy crows, its bright colours now clear in the
@@ -142,9 +142,8 @@ afternoon sunshine.
   </figcaption>
 </figure>
 
-We follow its progress as it summits the treeline,
-quarters another nearby field, hops back over the trees and then
-disappears off to the East. 
+We follow its progress as it tops the treeline, quarters another nearby field, 
+hops back over the trees and then disappears off to the East. 
 
 Cracking bird. Job done. Time to head home; I bid a cheery farewell to the
 scope crew and set off back for the station, where I will inevitably have
