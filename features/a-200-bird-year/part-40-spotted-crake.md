@@ -1,13 +1,13 @@
 ---
-publish_time: 2020-10-06T17:30:00.000Z
-updated_time: 2020-10-06T17:30:00.000Z
+publish_time: 2020-10-08T17:30:00.000Z
+updated_time: 2020-10-08T17:30:00.000Z
 title: Part 40: Spotted: Crake
 ---
 
 ### Spotted: Crake
 
 Another weekend rolls around. Spotted Crake fever is still in full
-flow. 
+flow. Can we get to one before they all disappear?
 
 Pronoun guidance: AB1 foolishly leaves the scope at home. This post covers
 the events of October 7th, 2018.
@@ -58,8 +58,8 @@ to the water's edge.
 
 We cross the causeway between the two main reservoirs, risk life and
 limb crossing Tringford road, then set up for a picnic alongside the
-last branch of reservoir. It's suitably tranquil, but a bit insect
-ridden. We wonder out loud whether it is safe for us to eat sandwiches
+last branch of reservoir. It's suitably tranquil, but a bit insect-ridden. We
+ wonder out loud whether it is safe for us to eat sandwiches
 in a blue-green algae area. This discussion lasts as long as it takes
 us to realise we are too hungry to care.
 
@@ -138,6 +138,5 @@ general use and that improves things, but I still come away with
 little lasting impression other than that brief buff flourish.
 
 We debate the relative pros and cons of walking back versus ordering a
-taxi (a very short conversation bookended by an proudly covert wee
-near the car park). Before too long we're on the train home, not quite
-victorious, but successful, at least.
+taxi. Before too long we're on the train home, not quite victorious, but 
+certainly successful.
