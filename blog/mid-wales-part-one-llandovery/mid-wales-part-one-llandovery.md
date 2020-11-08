@@ -105,8 +105,8 @@ their dog out of it. Oh well. Everyone's got to be somewhere.
 </figure>
 
 After a couple of hundred metres of being followed by a muddy grass path, the
- river has had enough, and dives downhill via some pretty impressive rapids
-. The path holds on to the edge, but is hard work - we spend more time
+ river has had enough, and dives downhill via some pretty impressive rapids. 
+ The path holds on to the edge, but is hard work - we spend more time
 keeping our feet than looking for Dippers in this section, with only a few
 stops to admire the scenery behind and above the rapids. The woods to the
 left could well be full of life, but our usual mechanism for detecting them
@@ -130,7 +130,7 @@ probably earns you a snack, so why not?
 
 After a few more minutes of careful foot placement, the path starts to move
 away from the river - irritatingly, just as it starts to calm enough to be
-Dipper friendly again. In particular, the section where the two Towy
+Dipper-friendly again. In particular, the section where the two Towy
 branches join looks like it could be a Dipper hotspot - the sanctioned path
  has no intention of offering us a view though.
 
@@ -145,13 +145,13 @@ branches join looks like it could be a Dipper hotspot - the sanctioned path
 </figure>
  
 As the sound of the river begins to fade, there's a bench, and a fence, and
-by goodness it's the most Redstarty place you've ever seen in your life
-. Tellingly, though, no sign of Redstart is seen on either occasion. There is
+by goodness it's the most Redstarty place you've ever seen in your life. 
+Tellingly, though, no sign of Redstart is seen on either occasion. There is
  an ideal bench for a sit down and a snack (already? -Ed), though.
 
-The path turns a corner at this point and pivots away from the river entirely
-. We're now in rich Oak woodland. We found it full of Song Thrush, Wren
-, Nuthatch and Treecreeper, but also convenient for a shifty wee.
+The path turns a corner at this point and pivots away from the river entirely. 
+We're now in rich Oak woodland. We found it full of Song Thrush, Wren, 
+Nuthatch and Treecreeper.
 
 <figure class="figure">
     <img
@@ -167,9 +167,9 @@ The path turns a corner at this point and pivots away from the river entirely
     <img
         src="creeper.png"
         class="figure-img img-fluid rounded"
-        alt="This is a pretty healthy looking Treecreeper"/>
+        alt="This is a pretty healthy-looking Treecreeper"/>
     <figcaption class="figure-caption text-center">
-        This is a pretty healthy looking Treecreeper
+        This is a pretty healthy-looking Treecreeper
     </figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ pleasant 4 or 5km walk to the reserve from there that follows the path of
 the river. On our left we have delightful Oak woodland with occasional bits
 of field, and to our right, intermittently fabulous view of the river.
 
-We pick up a smart looking Male Redstart in one of the field/woodland
+We pick up a smart-looking Male Redstart in one of the field/woodland
 boundaries on the left. He hangs about on a fencepost just long enough for us
 to consider moving for a camera, and then darts back into the woodland never
 to be found again.
@@ -242,14 +242,14 @@ several parking opportunities on the other side.
     <img
         src="rhyd-y-groes.png"
         class="figure-img img-fluid rounded"
-        alt="Nice looking place!"/>
+        alt="Nice-looking place!"/>
     <figcaption class="figure-caption text-center">
-        Nice looking place!
+        Nice-looking place!
     </figcaption>
 </figure>
 
-The path leaving the road takes the walk from pleasant to full on delightful
-, and as we pass the old house at the border of the reserve we realise we won't
+The path leaving the road takes the walk from pleasant to full on delightful, 
+and as we pass the old house at the border of the reserve we realise we won't
 mind too much if that Redstart is the only thing we see.
 
 We work our way past the house and finally a sign tells us we have made it to
@@ -267,13 +267,13 @@ hillside, then we'll see if we can use footpaths from the OS map to link up
     </figcaption>
 </figure>
  
-Just beyond the sign we start seeing bird boxes; we guess for Pied Flycatchers
-. It's remarkable how near the path they are; what an experience it must be
+Just beyond the sign we start seeing bird boxes; we guess for Pied Flycatchers. 
+It's remarkable how near the path they are; what an experience it must be
 to come here in the Spring! The woodland as we find it now is quiet but
 beautiful, and the views over the valley make up for the lack of
 obvious avian activity.
 
-This path is not for the faint hearted - there's a tricky crossing of a tiny
+This path is not for the faint-hearted - there's a tricky crossing of a tiny
 stream that involves a hand rail and quite a lot of care. Once you're across
 there, the gradient of the zigzag path is also pretty aggressive.
 
@@ -281,7 +281,7 @@ Once the gradient starts to ease, the woodland thins too, going from shady
 Oak to much sunnier scrub. The path has clearly not been heavily walked for
 some time, and we have to fight our way through quite a lot of foliage, and
 even more flies. It's a relief as the landscape changes again into what we
-guess is a commercially managed forest and the flies sod off.
+guess is a commercially managed forest and the flies buzz off.
 
 <figure class="figure">
     <img
@@ -296,7 +296,7 @@ guess is a commercially managed forest and the flies sod off.
 Here's where we want to improvise a route back to the other path. Our
 immediate hopes of a quick forest cut are prevented by the forest being
 rather too thick (and wet!). We continue through the forest until the road
-heads out onto open moorland, insteaf. Here our map reckons a track should
+heads out onto open moorland, instead. Here our map reckons a track should
 take us down to the end of the other reserve trail.
 
 <figure class="figure">
@@ -309,8 +309,8 @@ take us down to the end of the other reserve trail.
     </figcaption>
 </figure>
 
-There's definitely a track leaving the road at the point where we leave it
-. At some point though, it disappears, and we end up having to improvise our
+There's definitely a track leaving the road at the point where we leave it. 
+At some point though, it disappears, and we end up having to improvise our
 way to where we think the real footpath is. Which, even after some GPS based
 cheating, it really isn't. After a rather energetic half hour of improvised
 bracken-scrambling, we do find our way to that trail. But we make a mental
@@ -318,8 +318,8 @@ note to trust the OS map a bit less for our next plan; it would have been
 more sensible for us to continue on the track down to the river Gwenffrwd
 and then circuit back to the car from there.
 
-The short return trail is even steeper than the one we chose
-; steep enough to warn me that I have overestimated how much walking/climbing
+The short return trail is even steeper than the one we chose; 
+steep enough to warn me that I have overestimated how much walking/climbing
 /bracken scrambling my left knee can manage in a day. We quickly find
 ourselves back at the original reserve information panel, from whence we
 retrace our steps back to the car. What a place!
@@ -332,8 +332,8 @@ Common Sandpipers, though.
  
 #### National Botanic Garden
 
-We haven't seen _that_ many birds, and AB1's knee could do with a day off
-. Unfortunately, there's no chance of that, a hill-fort full of Meadow Pipit
+We haven't seen _that_ many birds, and AB1's knee could do with a day off. 
+Unfortunately, there's no chance of that, a hill-fort full of Meadow Pipit
 needs to be walked around (good views, constant Green Woodpecker yaffling
 from nearby woods), and by the time we've got there, well, we might as well
 visit the [National Botanic Garden](https://botanicgarden.wales/), a few
@@ -343,7 +343,7 @@ I guess we'll have no choice but to go and have a look at that as well.
 
 We arrive _just in time_ for the early afternoon bird of prey show, and our
 mild misgivings about the zoo-like nature of raptor collections are
-instantaneously destroyed by having giant birds of prey fly no more than a
+destroyed instantaneously by giant birds of prey flying no more than a
 couple of feet over our heads. The commentary from the team looking after the
 birds is also excellent, too. The interaction of the bigger birds of prey and
 local wild raptors was also great. During the show, a couple of nearby
