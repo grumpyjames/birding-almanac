@@ -1,13 +1,15 @@
 ---
-publish_time: 2020-11-07T16:13:00.000Z
-updated_time: 2020-11-07T16:13:00.000Z
+publish_time: 2020-11-08T14:00:00.000Z
+updated_time: 2020-11-08T14:00:00.000Z
 title: Mid-Wales part one: Llandovery 
 ---
+
+### Mid-Wales part one: Llandovery
 
 The first in a series of posts detailing a trip to mid-Wales in August/September
 2020.
 
-### Context
+#### Context
 
 All of our research says that Mid-Wales is best visited in the Spring. I find
 one older book that suggests Flycatchers are almost the default bird in some
@@ -332,6 +334,16 @@ Common Sandpipers, though.
  
 #### National Botanic Garden
 
+<figure class="figure">
+    <img
+        src="hillfort.png"
+        class="figure-img img-fluid rounded"
+        alt="We approve of the placement of this hill fort."/>
+    <figcaption class="figure-caption text-center">
+        We approve of the placement of this hill fort.
+    </figcaption>
+</figure>
+
 We haven't seen _that_ many birds, and AB1's knee could do with a day off. 
 Unfortunately, there's no chance of that, a hill-fort full of Meadow Pipit
 needs to be walked around (good views, constant Green Woodpecker yaffling
@@ -345,7 +357,7 @@ We arrive _just in time_ for the early afternoon bird of prey show, and our
 mild misgivings about the zoo-like nature of raptor collections are
 destroyed instantaneously by giant birds of prey flying no more than a
 couple of feet over our heads. The commentary from the team looking after the
-birds is also excellent, too. The interaction of the bigger birds of prey and
+birds is excellent, too. The interaction of the bigger birds of prey and
 local wild raptors was also great. During the show, a couple of nearby
 Buzzards decided that the presence of a Golden Eagle motivated them to become
 faraway Buzzards at some speed. Visiting the aviary afterwards, we followed
