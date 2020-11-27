@@ -23,7 +23,7 @@ tremendous achievement for a Sunday morning. I walk in with a skip in
 my step, happy in the knowledge that the hordes of more touristic
 visitors will still be struggling to put their wellies on.
 
-Now, how to take advantage? Well, it's November, and its cold. This
+Now, how to take advantage? Well, it's November, and it's cold. This
 can only mean Bittern. My pipit mission is likely to be found in the
 tower hide; I shall take a leisurely path there via the Dulverton and
 WWF hides. Dulverton delivers - there's a bittern poking about in the
