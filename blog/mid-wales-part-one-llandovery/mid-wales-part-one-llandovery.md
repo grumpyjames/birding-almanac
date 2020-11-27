@@ -92,8 +92,8 @@ trickling water. We had four very different experiences here. First time
 four common tit varieties, Goldcrest, Nuthatch, Treecreeper, Great-spotted Woodpecker.
 
 On leaving the boardwalk, Covid guidelines demand the circular walk be
-attempted clockwise (yes, really). This takes us alongside the river - which has
-got Dipper written all over it. Or would do, if those people would keep
+attempted anti-clockwise (yes, really). This takes us alongside the river
+- which has got Dipper written all over it. Or would do, if those people would keep
 their dog out of it. Oh well. Everyone's got to be somewhere.
 
 <figure class="figure">
