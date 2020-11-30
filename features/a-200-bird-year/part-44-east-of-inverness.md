@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-12-01T15:25:00.000Z
-updated_time: 2020-12-01T15:25:00.000Z
+publish_time: 2020-11-30T15:29:00.000Z
+updated_time: 2020-11-30T15:29:00.000Z
 title: Part 44: East of Inverness
 ---
 
@@ -21,6 +21,8 @@ repeat destination, coming in at over one visit per Scotland trip across
 multiple years; well done to the proprietors) and head out for Nairn,
 or, more specifically, for Culbin Sands.
 
+#### Culbin Sands
+
 Nairn is a most pleasant town. We have underestimated its loveliness
 before, having only driven through it under a bit of a cloud last
 time. It turns out that with a bit of sun and a bit more of an
@@ -37,6 +39,16 @@ between the male and the female is surprising - or perhaps it's just
 the starkness of the plumage that gives that impression. A fabulous
 duck in any case.
 
+<figure class="figure">
+    <img
+        src="44-nairn-duck-rafts.png"
+        class="figure-img img-fluid rounded"
+        alt="Tens of pixels in this image represent the distant duck rafts with great clarity."/>
+    <figcaption class="figure-caption text-center">
+        Tens of pixels in this image represent the distant duck rafts with great clarity.
+    </figcaption>
+</figure> 
+
 We embark on a walk along the beach, as advised by Gordon. This is a
 bit more like it; lost of low level activity, some nice greenery (a
 forest off to the right), a bit of sun, the concept of being able to
@@ -48,9 +60,21 @@ and we're sceptical enough after a year that we know what we can hear
 is Siskin, Treecreeper and Goldcrest, and not the Crossbills or
 Firecrest that would add to our list.
 
+<figure class="figure">
+    <img
+        src="44-culbin-sands.png"
+        class="figure-img img-fluid rounded"
+        alt="Culbin sands."/>
+    <figcaption class="figure-caption text-center">
+        Culbin sands.
+    </figcaption>
+</figure>
+
 Back to the car, and it's a short drive to Lossiemouth, where some
 seriously cosy accommodation awaits. We're somewhat disappointed to
 only be staying for a night!
+
+#### Loch Spynie
 
 We wake the next morning to continued calm weather. We go for a quick
 tour of Lossiemouth; it's got a decent Co-op and a lovely seafront. It
@@ -87,6 +111,8 @@ questioning, but still, no joy. We bid our companion farewell and go
 for a quick walk in the woods, but on discovering we're going to be
 unable to circuit the Loch easily, we head back to the car sooner
 rather than later.
+
+#### Fochabers
 
 Our next stop is Fochabers. A large gang of Waxwings have been sighted
 here, and the description of their location is _very_ precise. We stop

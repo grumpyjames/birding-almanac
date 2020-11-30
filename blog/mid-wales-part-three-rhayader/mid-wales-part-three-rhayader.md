@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-11-28T12:23:00.000Z
-updated_time: 2020-11-28T12:23:00.000Z
+publish_time: 2020-11-30T15:23:00.000Z
+updated_time: 2020-11-30T15:23:00.000Z
 title: Mid-Wales part three: Rhayader 
 ---
 
@@ -19,8 +19,8 @@ go come next Spring.
 
 #### To Rhayader
 
-We drive to Rhayader from Celyn Farm, stopping in Llandrindod Wells for lunch
-, a visit to the National Cycle Museum and a bit of laundry. Our keenness for
+We drive to Rhayader from Celyn Farm, stopping in Llandrindod Wells for lunch,
+a visit to the National Cycle Museum and a bit of laundry. Our keenness for
 cleanness is unneeded though - there's a laundrette not two minutes walk
 away from our Rhayader residence. Oh well. 
 
@@ -29,6 +29,16 @@ can cook an evening meal. The town's full of pubs for a pre-dinner pint or
 two, and there's walks we can do from the doorstep. Finally, we've got an
 extra Sophie coming along for this bit, and she's bringing an adorable
 little Spaniel named Spoon.
+
+<figure class="figure">
+    <img
+        src="spoon-dog.png"
+        class="figure-img img-fluid rounded"
+        alt="Spoon."/>
+    <figcaption class="figure-caption text-center">
+        Spoon.
+    </figcaption>
+</figure>
 
 This part of the trip is a bit different - we don't explore as many places as
 we perhaps could, but instead pretend we live in Rhayader full time, and
@@ -50,16 +60,36 @@ barely a five minute drive out of town; we wouldn't even mention it but for
 the daily excitement of trying to navigate around the clock tower junction
 in Rhayader's centre. What a nightmare.
 
-You can park in a couple of official places - just as you leave the A470, or
-, if you prefer, you can drive up to the visitor centre. If you're feeling
+You can park in a couple of official places - just as you leave the A470, or,
+if you prefer, you can drive up to the visitor centre. If you're feeling
 indecisive, there's also an opportunity to park off to the side of the road
 half way between the two; this doesn't appear to be officially sanctioned
-, though!
+though!
+
+<figure class="figure">
+    <img
+        src="car-park-road-view.png"
+        class="figure-img img-fluid rounded"
+        alt="This view, from near the old farm car park, is a great start."/>
+    <figcaption class="figure-caption text-center">
+        This view, from near the old farm car park, is a great start.
+    </figcaption>
+</figure>
 
 We dropped the car off in the visitor centre for both visits; the trails we
 were initially interested in started there. This might not be a wise idea if
 you're not a reasonably confident driver - it's a single track road with
 some fairly serious gradients involved.
+
+<figure class="figure">
+    <img
+        src="gilfach-panel.png"
+        class="figure-img img-fluid rounded"
+        alt="More excellent panel work."/>
+    <figcaption class="figure-caption text-center">
+        More excellent panel work.
+    </figcaption>
+</figure>
  
 The reserve has a few different options for walks. On our first visit
 , we explore a trail that goes along the North side of the Afon Marteg.
@@ -100,16 +130,16 @@ to think about lunch.
 #### Gilfach #2: Oak Wood and Hill walks
 
 We return a few days later, sadly sans Sophie/Spoon. Our aim here is to cover
-most of the trails we missed last time. We start with the Oak Wood Walk
-, which is shorter than we thought - we'd have been done in less than ten
+most of the trails we missed last time. We start with the Oak Wood Walk,
+which is shorter than we thought - we'd have been done in less than ten
 minutes, but on our way there, we come across someone who looks like they
 might know what they're doing, and end up having a cracking chat about this
 reserve, reserves nearby, reserves we went to last week that this person
 also knows about because they're one of the people that's been involved in
 conservation for ages, and the enthusiasm is bubbling off them (and us) about
 how great Gilfach (and in general this part of the world) is. We forgive the
-Oaks for being, in comparison, a bit dead (we're definitely too late for
-flycatchers - even our companion's only seen one female since mid-August).
+Oak walk for being, in comparison, a bit dead (we're definitely too late for
+flycatchers - even our local expert's only seen one female since mid-August).
 
 Post Oaks, we head down and across the river to try out the Hill walk. We get
 stopped a lot by an area of the hillside that's just sitting out of the wind, 
@@ -118,7 +148,7 @@ several littlies making interesting noises in that area; definitely some
 Goldfinches, but some others as well - maybe Siskins? The sun's in an
 unhelpful place, though, so all we get is distant silhouettes. We march
 onward, confident that we'll get a better view of that area from further up
- the hill.
+the hill.
 
 After a solid first bit of climbing we do indeed get an improved angle of
 attack, but, of course, everything that was previously there has now gone
@@ -129,11 +159,41 @@ We continue uphill. Our only accompaniment here is Ravens. Oh, and, if our
 ears don't deceive us, Stonechats, although unusually they do a superb job
 of staying out of sight.
 
+<figure class="figure">
+    <img
+        src="top-view-se.png"
+        class="figure-img img-fluid rounded"
+        alt="Looking along the Marteg valley."/>
+    <figcaption class="figure-caption text-center">
+        Looking South-East on the way up. 
+    </figcaption>
+</figure>
+
 We eventually reach the top of the hill, although it's less of a summit and
 more of a table - the moor stretches away from us without losing too much
-height to the South. The views down the Marteg and Wye Valleys are worthy of
+height to the North. The views down the Marteg and Wye Valleys are worthy of
 letters home though. We cheat and take photos instead. And then eat
 victorious cheese and pickle sandwiches. This is the life.
+
+<figure class="figure">
+    <img
+        src="top-view-n.png"
+        class="figure-img img-fluid rounded"
+        alt="Looking North up the Wye valley."/>
+    <figcaption class="figure-caption text-center">
+        Looking North up the Wye valley.
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="top-view-s.png"
+        class="figure-img img-fluid rounded"
+        alt="Looking South down the Wye valley, along the A470."/>
+    <figcaption class="figure-caption text-center">
+        Looking South down the Wye valley, along the A470.
+    </figcaption>
+</figure>
 
 On a tricky descent back down to what the trail map names the "Welcome
 Gateway" (is that like a Welcome Break services?), we finally clap eyes on
@@ -148,13 +208,13 @@ From here we can either walk back up along most of our first visit's Marteg
 Trail, or we can try its Southern equivalent. This involves us leaving the
 reserve, and we can't help but notice the existence of a tiddly footbridge
 across the Wye just across the road. Unable to resist the temptation of such
- a bridge, we risk life and limb crossing the A470 (not actually that bad
-  - it isn't too busy) to go and have a look.
+a bridge, we risk life and limb crossing the A470 (not actually that bad
+- it isn't too busy) to go and have a look.
   
 There's not a lot on the river, but again it's painfully scenic. After a bit
 of hanging about we manage to discern a Red-breasted Merganser dabbling
 just upstream, but of our usual Dipper and Grey Wagtail expectations there is
- only disappointment.
+only disappointment.
 
 We head back to the reserve, entering via a small gate to the North of the
 road entrance. A lost looking woman is there. "Is it far back to the car
@@ -177,7 +237,7 @@ picnic bench with a view over a mostly open field that backs on to the wet
 woodland; pleasant but a bit dead, more Chaffinches is all we clap eyes on.
 
 Eventually the path brings us back to the car park, and we head out again
- satisfied that we've found an absolute gem of a reserve.
+satisfied that we've found an absolute gem of a reserve.
 
 #### RSPB Carngafallt. Maybe.
 
@@ -194,8 +254,7 @@ the Elan Valley visitor centre is the nearest place to park.
 
 On our first visit we take that advice, and find an RSPB person inside the
 visitor centre. Unsurprisingly he is rather swamped with folks wanting to ask
-him questions! RSPB folks, if you're reading - how can we help (other than by
-moving to Wales; we're not quite ready for that. Yet)?
+him questions. We decide we'll be able to work it out. How hard can it be?
 
 We head out in the hope of using our OS map's footpaths as a rough guide for
 getting around what we think is part of the reserve. Although if we go by
@@ -216,10 +275,30 @@ the edge of the wood, which is, handily, also the ridge of this little hill.
 Excellent views towards, er, Carn Gafallt, and some accompanying meadows
 are obtained.
 
+<figure class="figure">
+    <img
+        src="from-the-top.png"
+        class="figure-img img-fluid rounded"
+        alt="From the top of Cnwch wood."/>
+    <figcaption class="figure-caption text-center">
+        From the top of Cnwch wood.
+    </figcaption>
+</figure>
+
 We plough on through the wood and eventually reach an official looking stile.
 Oh, how exciting, we've managed to reverse our way on to an actual trail. Even
 better, the trail features a collection of information panels about the
 wildlife of Cnwch Wood.
+
+<figure class="figure">
+    <img
+        src="end-of-trail.png"
+        class="figure-img img-fluid rounded"
+        alt="We greatly enjoyed these, albeit not in the intended order."/>
+    <figcaption class="figure-caption text-center">
+        We greatly enjoyed these, albeit not in the intended order.
+    </figcaption>
+</figure>
 
 We don't see much of the wildlife other than the trees - even our usual
 flocks of friendlies are absent. The panels seem pretty confident that we'd
@@ -230,13 +309,34 @@ early David Attenborough series, where if you don't pay attention for a couple
 of minutes you miss some seriously important steps of how life evolved on
 earth, and you're now stuck forever with Coelacanths. Dear panel makers
 everywhere: more like these, please!  
- 
+
+<figure class="figure">
+    <img
+        src="alpe.png"
+        class="figure-img img-fluid rounded"
+        alt="A nice reminder that the Tour de France is on."/>
+    <figcaption class="figure-caption text-center">
+        A nice reminder that the Tour de France is on.
+    </figcaption>
+</figure>
+
 The panel collection more than occupies us as the path switchbacks its way
 down through the hill-wood. Is this an Allt, we wonder? We then enjoy a
 pleasant walk along the river at the bottom; no Dippers, no Grey Wagtails.
 Good amounts of noise and spray from the dam though, and some excellent
 milling around of sheep. A few footsteps more and we're back to the car. Did
 we visit the reserve or not? We'll never know.
+
+<figure class="figure">
+    <img
+        src="rspb-trail-map.png"
+        class="figure-img img-fluid rounded"
+        alt="...though we did find this next to the river, which rather suggests we did."/>
+    <figcaption class="figure-caption text-center">
+        ...though we did find this next to the river, which rather suggests we did.
+    </figcaption>
+</figure>
+
 
 We enter the reserve again (maybe) a couple of days later on a longer walk.
 We've followed the Wye Valley Walk out of Rhayader to the South. It's taken
@@ -246,6 +346,36 @@ and Goldcrest in some trees along the Wye, and a forest flock that I'm
 confident had something more interesting in it than we actually managed to
 see.
 
+<figure class="figure">
+    <img
+        src="helpful-sheep.png"
+        class="figure-img img-fluid rounded"
+        alt="These sheep were reliable guides."/>
+    <figcaption class="figure-caption text-center">
+        These sheep were reliable guides.
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="really-wales.png"
+        class="figure-img img-fluid rounded"
+        alt="Is this really a photo of Wales?"/>
+    <figcaption class="figure-caption text-center">
+        Is this really a photo of Wales?
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="kite.png"
+        class="figure-img img-fluid rounded"
+        alt="A constant companion."/>
+    <figcaption class="figure-caption text-center">
+        A constant companion.
+    </figcaption>
+</figure>
+
 As we reach the top of the steep hill, there's a windmill, some other hikers
 and an opportunity to continue to follow the Wye Valley Walk East, which we
 decline. We instead head West towards Carngafallt along what seems like a
@@ -253,6 +383,36 @@ decently maintained track through near featureless moor. The long-dashed
 crimson line on the OS map isn't lying, for once. Progress here is speedy
 but for distractions from Stonechat (sitting in bracken that could be Whinchat
 territory) and lunch.
+
+<figure class="figure">
+    <img
+        src="lunch-view.png"
+        class="figure-img img-fluid rounded"
+        alt="The lunch view, with bonus blurry Meadow Pipit."/>
+    <figcaption class="figure-caption text-center">
+        The lunch view, with bonus blurry Meadow Pipit.
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="carnorama.png"
+        class="figure-img img-fluid rounded"
+        alt="Panorama looking South from the moorland top."/>
+    <figcaption class="figure-caption text-center">
+        Panorama looking South from the moorland top.
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="into-the-woods.png"
+        class="figure-img img-fluid rounded"
+        alt="...and back into the woods. Is _this_ an Allt?"/>
+    <figcaption class="figure-caption text-center">
+        ...and back into the woods. Is _this_ an Allt?
+    </figcaption>
+</figure>
 
 This track eventually takes us through the halo (or possibly a palmares) of Oak
 woodland that rests on the slopes of the hill. This woodland is full of bird
@@ -266,6 +426,26 @@ twenty Kites poking about in it - afterwards, almost every bird we see is a
 Kite, with occasional exceptions for Raven and Buzzard, who seem almost
 apologetic not to be part of the crowd.
 
+<figure class="figure">
+    <img
+        src="another-kite.png"
+        class="figure-img img-fluid rounded"
+        alt="They're everywhere."/>
+    <figcaption class="figure-caption text-center">
+        They're everywhere.
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="kite-field.png"
+        class="figure-img img-fluid rounded"
+        alt="Everywhere, look you."/>
+    <figcaption class="figure-caption text-center">
+        Everywhere, look you.
+    </figcaption>
+</figure>
+
 A short walk through the pleasant Rhayader Tunnel reserve and we're back into
 town, ready for a pint.
 
@@ -275,16 +455,59 @@ the Spring.
 #### Honorable Mentions
 
 Rhayader town itself is not without a pleasant walk or two; both sides of the
-river have excellent paths, even if there's only one bridge. Remarkably we
-didn't catch a Dipper anywhere along the Wye, but if we had to guess, we'd
+river have excellent paths, even if feels like it's one bridge short. Remarkably
+we didn't find a Dipper anywhere along the Wye, but if we had to guess, we'd
 point at where `Nant Gwynllyn` empties into it just North of the bridge.
+
+<figure class="figure">
+    <img
+        src="view-from-the-bridge.png"
+        class="figure-img img-fluid rounded"
+        alt="A view from Bridge Street"/>
+    <figcaption class="figure-caption text-center">
+        A view from Bridge Street
+    </figcaption>
+</figure>
+
+
+<figure class="figure">
+    <img
+        src="skimming-point.png"
+        class="figure-img img-fluid rounded"
+        alt="Looking up to the bridge from skimming area."/>
+    <figcaption class="figure-caption text-center">
+        Looking up to the bridge from skimming area.
+    </figcaption>
+</figure>
+
+<figure class="figure">
+    <img
+        src="dipper-hotspot.png"
+        class="figure-img img-fluid rounded"
+        alt="Surely a Dipper hotspot?"/>
+    <figcaption class="figure-caption text-center">
+        Surely a Dipper hotspot?
+    </figcaption>
+</figure>
 
 The Elan reservoirs are beautiful...but, like many reservoirs, a bit dead - I'm
 not sure we saw a single bird on or over any of the reservoirs; not
 even a Mallard!
 
-We did enjoy two around them - once on a bike, once in a car. There
+<figure class="figure">
+    <img
+        src="elan-dam.png"
+        class="figure-img img-fluid rounded"
+        alt="A dam and its outflow."/>
+    <figcaption class="figure-caption text-center">
+        A dam and its outflow.
+    </figcaption>
+</figure>
+
+We did enjoy two tours around them - once on a bike, once in a car. There
 were good birds of prey along the ridges, but not a lot else. In particular, the
 views from the upper Claerwen Dam car park are spectacular. We picked up
 more birds of prey there, the best being a Sparrowhawk doing an excellent
 impression of a Hen Harrier.
+
+We'll definitely be back, even if it's only to have dinner at [The Triangle Inn](http://triangleinn.co.uk/).
