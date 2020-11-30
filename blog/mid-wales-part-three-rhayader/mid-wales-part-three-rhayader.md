@@ -279,12 +279,12 @@ river have excellent paths, even if there's only one bridge. Remarkably we
 didn't catch a Dipper anywhere along the Wye, but if we had to guess, we'd
 point at where `Nant Gwynllyn` empties into it just North of the bridge.
 
-The Elan reservoirs are beautiful...but, like many reservoirs, a bit dead - I
-'m not sure we saw a single bird on or over any of the reservoirs; not
+The Elan reservoirs are beautiful...but, like many reservoirs, a bit dead - I'm
+not sure we saw a single bird on or over any of the reservoirs; not
 even a Mallard!
 
 We did enjoy two around them - once on a bike, once in a car. There
 were good birds of prey along the ridges, but not a lot else. In particular, the
 views from the upper Claerwen Dam car park are spectacular. We picked up
-more birds of prey there, the best being a Sparrowhawk doing a really good
+more birds of prey there, the best being a Sparrowhawk doing an excellent
 impression of a Hen Harrier.
