@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-11-30T15:25:00.000Z
-updated_time: 2020-11-30T15:25:00.000Z
+publish_time: 2020-12-01T18:14:00.000Z
+updated_time: 2020-12-01T18:14:00.000Z
 title: Part 43: Skye
 ---
 
@@ -17,8 +17,8 @@ November 23-30 2018.
 
 I'm not overly thrilled with this choice; bird wise, I'd rather be
 operating out of somewhere nearer Inverness; there's a wider range of
-well known good spots. Skye, I suspect, will be bleak, big, and mostly
-blank of birds. Still, there's a couple of decent walks, and it'll be
+well-known good spots. Skye, I suspect, will be bleak, big, and mostly
+blank of birds. Still, there are a couple of decent walks, and it'll be
 by the sea.
 
 #### Getting there
@@ -99,7 +99,7 @@ some scale.
 The first mystery is the easier one - an entirely monochrome bird,
 that, after a few minutes of watching, has a thin, sharp beak, rather
 than a duck's bill. There are hints of the white wing patch that will
-identify this bird so easily in the Summer. Yes, it's black guillemot.
+identify this bird so easily in the Summer. Yes, it's Black Guillemot.
 
 The second is a tougher challenge, not least because I think it's a
 tick, and I want to be very sure. I end up taking the scope outside to
@@ -124,7 +124,7 @@ Morning three, and there's a diver a bit closer in that looks
 promising. There've been what I think have been Black-throated Divers
 in the bay every morning so far, but this one is Great Northern, for
 me; it has a more brutish profile, a giant wedge of a beak, and that
-more beady looking eye that gives it a more primitive air than its
+more beady-looking eye that gives it a more primitive air than its
 cousins. Yeah, that lumpy cliff of a forehead is a giveaway, GND it
 is.
 
@@ -241,9 +241,9 @@ birds have disappeared. Sod. I don't think we can count that.
 
 We spend a couple of minutes more taking in the view before agreeing
 that it might be starting to get a bit dark for this. A hasty descent
-is made, two covert wees are achieved and we're back on the road
-home. As we leave Portree, the heavens open, and a journey back to
-Broadford that usually takes an hour or so takes closer to two!
+is made and, before long, we're back on the road home. As we leave Portree, 
+the heavens open, and a journey back to Broadford that usually takes an hour
+or so takes closer to two!
 
 #### Rainy days
 
@@ -275,5 +275,5 @@ We suspect all of the non-water based birds are sensibly sheltering somewhere
 - all our hilltop staring comes to naught - not even a Raven deigns to
 appear. And we're stopping to look at those tops even more than usual,
 because the road in and out of the glen is windy enough to trigger my motion
-sickness even when I'm drivin. That is seriously strong work. Oh well; only one
+sickness even when I'm driving. That is seriously strong work. Oh well; only one
 eagle out of two in 2018, it seems!

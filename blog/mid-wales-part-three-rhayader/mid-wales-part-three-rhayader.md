@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-11-30T15:23:00.000Z
-updated_time: 2020-11-30T15:23:00.000Z
+publish_time: 2020-12-01T18:13:00.000Z
+updated_time: 2020-12-01T18:13:00.000Z
 title: Mid-Wales part three: Rhayader 
 ---
 
@@ -21,12 +21,13 @@ go come next Spring.
 
 We drive to Rhayader from Celyn Farm, stopping in Llandrindod Wells for lunch,
 a visit to the National Cycle Museum and a bit of laundry. Our keenness for
-cleanness is unneeded though - there's a laundrette not two minutes walk
-away from our Rhayader residence. Oh well. 
+cleanness is unneeded though - it transpires there's a laundrette not two
+minutes walk from our Rhayader residence that AB2's internet searching
+did not reveal. Oh well. 
 
-Rhayader's easily our favourite base of operation. It's self catered, so we
+Rhayader's easily our favourite base of operation. It's self-catered, so we
 can cook an evening meal. The town's full of pubs for a pre-dinner pint or
-two, and there's walks we can do from the doorstep. Finally, we've got an
+two, and there are walks we can do from the doorstep. Finally, we've got an
 extra Sophie coming along for this bit, and she's bringing an adorable
 little Spaniel named Spoon.
 
@@ -56,14 +57,14 @@ didn't have so much FOMO about missing other things we could easily just
 have come here every day!
 
 Gilfach is nestled in the Marteg valley just to the North of Rhayader; it's
-barely a five minute drive out of town; we wouldn't even mention it but for
+barely a five-minute drive out of town; we wouldn't even mention it but for
 the daily excitement of trying to navigate around the clock tower junction
 in Rhayader's centre. What a nightmare.
 
 You can park in a couple of official places - just as you leave the A470, or,
 if you prefer, you can drive up to the visitor centre. If you're feeling
 indecisive, there's also an opportunity to park off to the side of the road
-half way between the two; this doesn't appear to be officially sanctioned
+half-way between the two; this doesn't appear to be officially sanctioned
 though!
 
 <figure class="figure">
@@ -91,8 +92,8 @@ some fairly serious gradients involved.
     </figcaption>
 </figure>
  
-The reserve has a few different options for walks. On our first visit
-, we explore a trail that goes along the North side of the Afon Marteg.
+The reserve has a few different options for walks. On our first visit, we
+explore a trail that goes along the North side of the Afon Marteg.
 Before we get there though, we must first descend from the car park - and
 my goodness, the views are fantastic. We pass by the Dipper hide as we cross
 the river; it seems aptly named, this river looks built for Dipper. And we
@@ -100,7 +101,7 @@ have, in Sophie, someone for who the existence of Dipper (and non-rubbish
 binoculars) is quite new.
 
 Remarkably, I think I've got a Dipper from the bridge, but it flits before I
-can get either AB2 or Sophie onto it. It doesn't go far though - we refind it
+can get either AB2 or Sophie onto it. It doesn't go far though - we re-find it
 from the first field of our trail down the river. This is a more popular
 find than I expected; if only we'd been here in Spring, we could probably
 have found Sophie a few more life-ticks.
@@ -118,8 +119,8 @@ bit of the path that acts as a viewing area. Very nice indeed.
 We follow the river until we reach a point where we can either decide to have
 a much longer walk, or cut back along similar but different river friendly
 path. We choose the latter, and it works well; we come across two or three
-foresting flocks of littlies that provide us with the usual Great, Blue
-, Coal and Long-tailed Tits, and, bringing up the rear, Nuthatch and
+foresting flocks of littlies that provide us with the usual Great, Blue,
+Coal and Long-tailed Tits, and, bringing up the rear, Nuthatch and
 Treecreeper. Also very nice.
 
 We start to climb back up to the car park, and it's clear that a pesky knee
@@ -129,17 +130,17 @@ to think about lunch.
 
 #### Gilfach #2: Oak Wood and Hill walks
 
-We return a few days later, sadly sans Sophie/Spoon. Our aim here is to cover
-most of the trails we missed last time. We start with the Oak Wood Walk,
+We return a few days later, sadly sans Sophie and Spoon. Our aim here is to
+cover most of the trails we missed last time. We start with the Oak Wood Walk,
 which is shorter than we thought - we'd have been done in less than ten
 minutes, but on our way there, we come across someone who looks like they
 might know what they're doing, and end up having a cracking chat about this
 reserve, reserves nearby, reserves we went to last week that this person
-also knows about because they're one of the people that's been involved in
-conservation for ages, and the enthusiasm is bubbling off them (and us) about
-how great Gilfach (and in general this part of the world) is. We forgive the
-Oak walk for being, in comparison, a bit dead (we're definitely too late for
-flycatchers - even our local expert's only seen one female since mid-August).
+also knows about because they've been involved in conservation for ages, 
+and the enthusiasm is bubbling off them (and us) about how great Gilfach (and
+in general this part of the world) is. We forgive the Oak walk for being, 
+in comparison, a bit dead (we're definitely too late for flycatchers - even
+ our local expert's only seen one female since mid-August).
 
 Post Oaks, we head down and across the river to try out the Hill walk. We get
 stopped a lot by an area of the hillside that's just sitting out of the wind, 
@@ -200,8 +201,8 @@ Gateway" (is that like a Welcome Break services?), we finally clap eyes on
 our Stonechats - they were substantially below us; we'd have needed to
 nearly fall off a cliff to see them from where we were. As we reach the
 gateway, there's an interesting little exhibit about the reserve, and some
-picnic tables. The trees and scrub nearby are choc-a-bloc with Chaffinches
-; what is it with Wales and Chaffinches? Can't remember when I last saw
+picnic tables. The trees and scrub nearby are choc-a-bloc with Chaffinches;
+what is it with Wales and Chaffinches? Can't remember when I last saw
 enough Chaffinches to call them a flock in England.
 
 From here we can either walk back up along most of our first visit's Marteg
@@ -234,15 +235,15 @@ from the river up the hill we've just had such a nice view of from the hill
 walk. On this side though, we're much closer to the river, and just as
 importantly, the trees that follow it. We take a brief break on a further
 picnic bench with a view over a mostly open field that backs on to the wet
-woodland; pleasant but a bit dead, more Chaffinches is all we clap eyes on.
+woodland; pleasant but a bit dead, more Chaffinches are all we clap eyes on.
 
-Eventually the path brings us back to the car park, and we head out again
+Eventually the path brings us back to the car park, and we head out again,
 satisfied that we've found an absolute gem of a reserve.
 
 #### RSPB Carngafallt. Maybe.
 
-One further thing our friendly encounter at Gilfach tells us: every attempt
-we've attempt to say the name of this place, we've been a long way off.
+One further thing our friendly encounter at Gilfach tells us: with every attempt
+to say the name of this place, we've been a long way off.
 
 We think we visit Carngafallt twice - assuming the reserve is roughly the
 area marked Carn Gafallt on our OS map.
@@ -285,7 +286,7 @@ are obtained.
     </figcaption>
 </figure>
 
-We plough on through the wood and eventually reach an official looking stile.
+We plough on through the wood and eventually reach an official-looking stile.
 Oh, how exciting, we've managed to reverse our way on to an actual trail. Even
 better, the trail features a collection of information panels about the
 wildlife of Cnwch Wood.
@@ -329,7 +330,7 @@ we visit the reserve or not? We'll never know.
 
 <figure class="figure">
     <img
-        src="rspb-trail-map.png"
+        src="rspb-trail-guide.png"
         class="figure-img img-fluid rounded"
         alt="...though we did find this next to the river, which rather suggests we did."/>
     <figcaption class="figure-caption text-center">
@@ -341,7 +342,7 @@ we visit the reserve or not? We'll never know.
 We enter the reserve again (maybe) a couple of days later on a longer walk.
 We've followed the Wye Valley Walk out of Rhayader to the South. It's taken
 us through some woodland, across the _Afon Elan_ and up the side of quite a
-steep hill. It's also delivered us some beautifully lit Nuthatch, Treecreeper
+steep hill. It's also delivered us some beautifully-lit Nuthatch, Treecreeper
 and Goldcrest in some trees along the Wye, and a forest flock that I'm
 confident had something more interesting in it than we actually managed to
 see.
@@ -414,9 +415,9 @@ territory) and lunch.
     </figcaption>
 </figure>
 
-This track eventually takes us through the halo (or possibly a palmares) of Oak
-woodland that rests on the slopes of the hill. This woodland is full of bird
-noise; we hear several Great-spotted Woodpecker, Nuthatch and there's an
+This track eventually takes us through the halo (or possibly a wreath) of Oak
+woodland that rests on the slopes of the hill. This is full of bird noise;
+we hear several Great-spotted Woodpecker, Nuthatch and there's an
 occasional Song Thrush blasting out something electronic as well.
 
 The path eventually reaches the road that connects Elan Village with

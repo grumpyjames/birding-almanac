@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-11-30T15:29:00.000Z
-updated_time: 2020-11-30T15:29:00.000Z
+publish_time: 2020-12-01T18:14:00.000Z
+updated_time: 2020-12-01T18:14:00.000Z
 title: Part 44: East of Inverness
 ---
 
@@ -14,8 +14,8 @@ covers the events of December 1-2, 2018.
  
 #### Getting there
 
-The drive back is just as good the one out - we notice that a few hills have a
-dusting of snow on them that didn't before. We make our traditional stop at
+The drive back is just as good as the one out - we notice that a few hills
+have a dusting of snow on them that didn't before. We make our traditional stop at
 the large Tesco on the way out of Inverness (which I think is our strongest
 repeat destination, coming in at over one visit per Scotland trip across
 multiple years; well done to the proprietors) and head out for Nairn,
@@ -28,7 +28,7 @@ before, having only driven through it under a bit of a cloud last
 time. It turns out that with a bit of sun and a bit more of an
 explore, our impression quickly improves. We park up next to the
 marina, and it's turned into a terrific afternoon, blue skies, calm
-seam, gorgeous views over the sands. 
+sea, gorgeous views over the sands. 
 
 The birding, within a few seconds of getting out of the car, is also
 excellent - loads of seaducks, a nice raft of scoters, some waders
@@ -50,13 +50,13 @@ duck in any case.
 </figure> 
 
 We embark on a walk along the beach, as advised by Gordon. This is a
-bit more like it; lost of low level activity, some nice greenery (a
+bit more like it; lots of low level activity, some nice greenery (a
 forest off to the right), a bit of sun, the concept of being able to
 get back to the car and not have to drive for another two hours to get
 home. Bliss. We even manage to turn it into a circular walk, crossing
 a bit of bog in order to come back along the forest's edge. The trees
 tempt us in with occasional birdsong clamour, but it's getting dark,
-and we're sceptical enough after a year that we know what we can hear
+and we're sceptical enough after a year to know what we can hear
 is Siskin, Treecreeper and Goldcrest, and not the Crossbills or
 Firecrest that would add to our list.
 
@@ -105,7 +105,7 @@ A local birder arrives, bringing with him the knowledge that our
 pronunciation of both Lossiemouth and Spynie is hilariously
 inaccurate. He can't find RNG either - apparently it has been towards
 the areas of the Loch the hide doesn't overlook so well when it was
-last seen. Typical. Some of the grebe shaped blobs towards the far
+last seen. Typical. Some of the grebe-shaped blobs towards the far
 left and right of the hide's field of view are brought back in for
 questioning, but still, no joy. We bid our companion farewell and go
 for a quick walk in the woods, but on discovering we're going to be
@@ -114,7 +114,7 @@ rather than later.
 
 #### Fochabers
 
-Our next stop is Fochabers. A large gang of Waxwings have been sighted
+Our next stop is Fochabers. A large gang of Waxwings has been sighted
 here, and the description of their location is _very_ precise. We stop
 on the designated road and stride out of the car, expected to be
 greeted by the gentle trills of Waxwings. We are disappointed. We're
@@ -151,13 +151,13 @@ original parking spot and try the East side. This is perhaps the
 safest residential driving that has ever occurred in Fochabers - we
 are doing all of 8mph. It pays off - we find a solitary Waxwing
 perched in a tree on Woodside place. We try briefly to observe from
-the car, but this isn't really a place we should park, so Emma sneaks
+the car, but this isn't really a place we should park, so AB2 sneaks
 out of the non-Waxwing side door and I glide the car away at a gentle
 2 or 3mph. The Waxwing is unmoved. Phew.
 
 I park up round the corner, and get back to the Waxwing to enjoy all
 of twenty seconds view before it ups sticks, flying high over the
-house whose garden it had perched in. Not the greatest Waxwing
+house of the garden it had perched in. Not the greatest Waxwing
 encounter ever. I'm still rather spoilt by them turning up on some
 bushes near work a few years back, where an area that previously had
 only ever held starlings had ten or so Waxwings in for a couple of
