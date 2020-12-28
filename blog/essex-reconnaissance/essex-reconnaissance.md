@@ -1,17 +1,17 @@
 ---
-publish_time: 2020-12-26T12:11:00.000Z
-updated_time: 2020-12-26T12:11:00.000Z
+publish_time: 2020-12-28T12:46:00.000Z
+updated_time: 2020-12-28T12:46:00.000Z
 title: Essex Reconnaissance
 ---
 
 ### Essex Reconnaissance
 
-Fresh back from the Wales trip, we realise that holidays are much better than
- work. Let's go camping in Essex for a weekend to escape again.
+Fresh back from our Wales trip, we miss being outdoors and on holiday. Let's go
+camping in Essex for a weekend escape.
  
-...and while we're there, let's visit a few birding places. We're mid
--September; a bit of a dead zone, but with a bit of luck we might catch up
- with a migrant or two on the way back to Africa.
+...and while we're there, let's visit a few birding places. We're mid-September;
+a bit of a dead zone, but with a bit of luck we might catch up with a migrant
+or two on their way back to Africa.
  
 Pronoun guidance: AB1's the cricketer.
 
@@ -27,8 +27,9 @@ Pronoun guidance: AB1's the cricketer.
   </figcaption>
 </figure>
 
-My only previous knowledge of [Blue House](https://www.essexwt.org.uk/nature-reserves/blue-house-farm) is playing a cricket team of the
- same name. I've no idea whether there's any link between the two.
+AB1's prior knowledge of [Blue House](https://www.essexwt.org.uk/nature-reserves/blue-house-farm)
+extends to playing a cricket team of the same name. We've no idea whether
+there's any link between the two.
 
 Getting here is somewhat exciting - we're into enough of an extremity of
 Essex that the roads start to get a bit tight, and the track down to the car
@@ -36,7 +37,7 @@ park is rough enough to encourage caution.
 
 We exit the car; the weather is all over the place. Hot but also super windy.
 A recipe for a sunburnt AB2; we'll need to do the sunblock dance before we
-go any further. While we do, a flock of goldfinches raid the birdfeeders at
+go any further. While we do, a flock of goldfinches raid the bird feeders at
 the other end of the car park.
 
 We head out into the reserve, and the immediate impression is one of extreme
@@ -54,9 +55,9 @@ the sea wall path though is a very friendly Northern Wheatear.
   <img
     src="wheatear.png"
     class="figure-img img-fluid rounded"
-    alt="Wheaty wheaty wheatear."/>
+    alt="Very friendly."/>
   <figcaption class="figure-caption text-center">
-    Wheaty wheaty wheatear.
+    Very friendly.
   </figcaption>
 </figure>
 
@@ -64,9 +65,9 @@ the sea wall path though is a very friendly Northern Wheatear.
   <img
     src="more-wheatear.png"
     class="figure-img img-fluid rounded"
-    alt="Wheaty wheaty wheatear."/>
+    alt="Northern Wheatear."/>
   <figcaption class="figure-caption text-center">
-    Wheaty wheaty wheatear.
+    Northern Wheatear.
   </figcaption>
 </figure>
 
@@ -85,59 +86,61 @@ bit on the landward side of the wall.
 </figure>
 
 We finish our circuit and head off in search of somewhere to camp; we
- eventually pitch up [here](http://www.greenlanecampingandcaravanning.co.uk/).
+eventually pitch up [here](http://www.greenlanecampingandcaravanning.co.uk/).
 
-There's still plenty of daylight left, so we head out to Stow Maries. Firstly
-because [the Prince of Wales](https://www.prince-stowmaries.net/) is there,
-and secondly because we fancy a walk around the aerodrome; several TV
-programmes have gone on about the owls here, so we want to have a look.
+There's still plenty of daylight left, so we head out to Stow Maries. We
+settle on this plan because, firstly, [the Prince of Wales](https://www.prince-stowmaries.net/)
+is there, providing a convenient place to park the car and, on completion of
+the circuit, ourselves and, secondly, because we fancy a walk around the
+nearby aerodrome; several TV programmes have made promises about the owls
+here, which commands our interest.
 
-This proves trickier than we thought; almost as soon as we're on the footpath
-we start to encounter hard to parse "footpath diversion" signs. We
-eventually manage to walk the perimeter of the aerodrome; the internals
-appear to be offlimits for today - there's some sort of model aircraft event
-happening. It looks broadly quite entertaining - the models are flight worthy;
-one in particular really tests our "is that small, or far away?" ability 
-before it lands, and we see that it could only ever be piloted by a small
-terrier.
+Navigating the route proves trickier than anticipated; almost as soon as we're
+on the footpath we encounter hard to parse "footpath diversion" signs.
+We eventually manage to traverse the perimeter of the aerodrome; the internals
+appear to be off-limits for today - there's some sort of model aircraft event
+happening. It looks quite entertaining - the models are flightworthy; one
+in particular really tests our "is that small, or far away?" sensors before
+it lands, when we see that any pilot would need to be terrier-sized.
 
 The walk doesn't turn up any owls (we're none-the-wiser as to what the status
-of birding is at the Aerodrome; next time we'll actually ring them I think),
-but the footpath does take us through a surprise vineyard on the way back.
+of birding is at the Aerodrome; next time we'll ring ahead), but the footpath
+does take us through a surprise vineyard on the way back.
 
-Thankfully the pub makes up for it; a raucous bunch of gentlemen provide
-great background entertainment, the beer is _superb_ and the food isn't far
-behind. We also get to watch highlights of a very exciting Tour de France time
-trial, where Tadej Pogacar surprisingly outdoes his (rather poorly TT-helmeted) 
-countryman Primoz Roglic.
+The pub more than makes up for it; a raucous herd of gents provides an
+indomitable background hubbub, the beer is _superb_ and the food isn't far
+behind. We watch the highlights of a very exciting Tour de France time trial,
+where Tadej Pogacar surprisingly outdoes his (rather poorly TT-helmeted) 
+countryman, Primoz Roglic.
 
 We return to the campsite for a closing pint and a hilariously Essex
-conversation with what we guess is the proprietor and an acquaintance of his.
+conversation with who we deduce is the proprietor and an acquaintance of
+his.
  
 #### Wallasea
 
-We've made a brief visit to Wallasea before, and it rather whet our appetite
-; the place had serious atmosphere. I've been itching to try out getting to
-it via the [Burnham Ferry](http://www.burnhamferry.co.uk/) and the time has
-finally come to give this a try.
+We've made a brief visit to Wallasea before, and it rather whet our appetites;
+the place had serious atmosphere. AB1 has been itching to try out getting to
+Wallasea via the [Burnham Ferry](http://www.burnhamferry.co.uk/) and the time
+has come to give this a try.
 
-We miss the first ferry in the slow acquisition of two bacon sarnies, but
-adding thirty minutes of sitting in the sun on the waterfront is no real
-hardship. We eventually board the second crossing with four serious looking
-cyclists (and their bikes), who have a hard time getting down the jetty in
-their road shoes.
+We miss the first ferry thanks to the unhurriable acquisition of two bacon
+butties, but adding thirty minutes of sitting in the sun on the waterfront
+is no real hardship. We eventually board the second crossing with four serious
+-looking cyclists (and their bikes), who have a tricky time getting down the 
+jetty in their road shoes.
 
-The river crossing is uneventful, and we alight at the marina on the other
-side of the Crouch. Wow. There are some serious boats here. Where do the
-owners live? Do they all rely on the ferry, or do they drive up from
-Southend whenever they fancy a jolly? We guess the latter.
+The river crossing is uneventful and we alight at the marina on the other
+side of the Crouch. Wow. There are some sizeable boats here. Where do the
+owners live? Do they all rely on the ferry, or do they drive up from Southend
+whenever they fancy a jolly? We guess the latter.
 
-Our plan takes us out along the sea wall; or at least, it does until I work
+Our plan takes us out along the sea wall; or at least, it does until AB1 works
 out that the grassland at the base of the sea wall is sheltered from the
 devil wind holding us up on the top. An age passes before we enter the
 reserve properly. Sadly, the Corn Bunting security guard that greeted us at
-the car park [last time](/features/a-200-bird-year/part-10-an-excuse-for-essex.html) is
-elsewhere.
+the car park [last time](/features/a-200-bird-year/part-10-an-excuse-for-essex.html) 
+is on duty elsewhere.
 
 <figure class="figure">
   <img
@@ -158,10 +161,10 @@ via the Beagle viewpoint. Perfect!
  
 Until we make a start, and, having picked up a few more Yellow Wagtails in
 one of the ditches, discover that the Allfleets marsh trail is temporarily
-off limits. We rejig our plans (the New Pool trail wasn't a thing when we
- visited, or we couldn't find it) to just do the Marsh Flats trail instead.
+off-limits. We rejig our plans (the New Pool trail wasn't a thing when we
+visited, or we couldn't find it) to just do the Marsh Flats trail instead.
  
-We see lots of Shelduck, and a Kestrel, and some very lost looking tourists, and
+We see lots of Shelduck, and a Kestrel, and some very lost-looking tourists, and
 that's about it. It's a nice walk in the sun though, and we find a shortcut
 back to the road to save doubling back from the car park, to the relief of a
 still complaining knee.
@@ -178,9 +181,9 @@ still complaining knee.
 
 The only remaining action before catching the ferry back to Burnham is to
 hear the long list of complaints a nearby resident has about the RSPB, the
-finances of the nearby marina, and several other important local issues. I
-eventually blurt out that we urgently need lunch and we escape. Maybe don't
-live in such an isolated place if you like talking so much, Mr. Wallasea?
+finances of the nearby marina, and several other important local issues. AB1
+eventually blurts out that we urgently need lunch and we escape. We ponder
+the relationship between living in an isolated location and being loquacious.
 
 #### Bradwell and the Dengie
 
@@ -193,9 +196,8 @@ Sizewell, Wylfa). There's also some historical nonsense that AB2 is broadly
 Bird wise, this is, again, a bit of a dead zone. The dry wit of the
 inhabitants of the observatory is the best bit of the visit. "There's not
 much about now, the tide's in" "What are you expecting to see once the tide's out?"
-"More mud". Heh; I wasn't expecting that level of snark. "You want
-to come back in about a month; then things will start to happen" - wise
-advice, which we will heed in a non-COVID year!
+"More mud". Heh. "You want to come back in about a month; then things will start
+to happen" - sage advice that we will heed in a non-COVID year!
 
 <figure class="figure">
   <img
