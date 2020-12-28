@@ -6,7 +6,8 @@ title: Part 45: Cliffe Dipping
 
 ### Cliffe Dipping
 
-Previously, we failed to find Red-necked Grebe on Loch Spynie. A week later, the
+[Previously](features/a-200-bird-year/part-44-east-of-inverness.html), we failed
+to find Red-necked Grebe on Loch Spynie. A week later, the
 quest for Red-necked Grebe is back on; there have been several sightings of a
 pair on the Alpha Pool at Cliffe Pools. 
 
