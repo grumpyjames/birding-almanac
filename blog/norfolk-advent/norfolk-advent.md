@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-12-26T15:49:00.000Z
-updated_time: 2020-12-26T15:49:00.000Z
+publish_time: 2020-12-29T16:43:00.000Z
+updated_time: 2020-12-29T16:43:00.000Z
 title: Norfolk Advent
 ---
 
@@ -9,18 +9,59 @@ title: Norfolk Advent
 We're out of lockdown, and we've got what we suspect is a tiny window
 of opportunity where we're in tier two. Let's go to Norfolk.
 
-Pronoun guidance. AB1's on holiday, AB2's working from cottage. This post
+Pronoun guidance. AB1's on holiday, AB2's working from (holiday) home. This post
 covers the events of December 12-19, 2020.
 
 #### The Journey There
 
-We eventually locate the instructions for where we're going, and in a surprise development we're going to arrive more than two hours before we can check in. An emergency birding stop is called for, and in one of the 2020s only strokes of luck, we're fifteen minutes from Welney. In a further, larger stroke of luck, a couple of minutes on the detour towards Welney, a small brownish falcon zips across the road just in front of us. That can only have been Merlin; nothing else is that small, that colour, and still a falcon. That might even be a life tick.
+We eventually locate the instructions for where we're going, and in a surprise
+development we're going to arrive more than two hours before we can check in.
+An emergency birding stop is called for, and in one of the 2020s only strokes of
+luck, we're fifteen minutes from Welney. In a further, larger stroke of luck, a
+couple of minutes on the detour towards Welney, a small brownish falcon zips
+across the road just in front of us. That can only have been Merlin; nothing
+else is that small, that colour, and still a falcon. That might even be a life
+tick.
 
-That's the end of our luck. We're informed by the chap on the front desk that only the observatory is reachable without wellies. We've also just missed the half twelve feeding of the wintering ducks, geese, and swans. And we definitely aren't going to stay long enough to see the half three one! We're also arriving hungry, but not quite hungry enough to sign up for any of the pale-looking pastry-in-a-bag options offered by the canteen.
+That's the end of our luck. We're informed by the chap on the front desk that
+only the observatory is reachable without wellies. We've also just missed the
+half twelve feeding of the wintering ducks, geese and swans. And we definitely
+aren't going to stay long enough to see the half three feed! We're also arriving
+hungry, but not quite hungry enough to sign up for any of the pale-looking
+pastry-in-a-bag options offered by the canteen.
 
-We get out on the bridge. It is cold. And we cannot see; two temperature transitions added to a mask and glasses and the world is suddenly enveloped in fog. We take a seat in the observatory having made attempts at defogging, adjusting masks, and experimenting with breath control to see precisely how possible birding in the time of COVID-19 is. Our answers are not too bad - we take in excellent views of Pochard, Wigeon, Whooper Swan and Black-tailed Godwit. We recall half an explanation of why nearly all the Pochards are male. No, not even that - we just notice that almost all of them are male, we can remember no details as to why. Occasionally a Marsh Harrier swoops over, and the whole world goes mad; hundreds of Lapwings take to the air and do their finest Starling murmuration impression, even the ducks mysteriously back away from the area the Harrier emanates from.
+We get out on the bridge. It is cold. And we cannot see; two temperature
+transitions added to a mask and glasses and the world is suddenly enveloped in 
+fog. We take a seat in the observatory having made attempts at defogging, 
+adjusting masks, and experimenting with breath control to see precisely how 
+possible birding in the time of COVID-19 is. Our answers are not too bad - we 
+take in excellent views of Pochard, Wigeon, Whooper Swan and Black-tailed Godwit.
 
-We sit there for quite a while. It's very soothing. We enjoy the informational panels explaining how the water levels on the reserve are managed. Despite all of the cleverness being deployed managing this bit of the Great Ouse, it's not enough - floods in Spring and Summer are increasing in frequency and strength, threatening the breeding success of ground nesting birds. A number of different entities charitable, private and public are collaborating on the creation of further wetlands on the borders of the current flood management system, with some success. Interesting.
+<figure class="figure">
+  <img
+    src="welney.png"
+    class="figure-img img-fluid rounded"
+    alt="View from the observatory."/>
+  <figcaption class="figure-caption text-center">
+    View from the observatory.
+  </figcaption>
+</figure>
+
+We recall half an explanation of why nearly all the Pochards are male. No, not 
+even that - we just notice that almost all of them are male, we can remember no 
+details as to why. Occasionally a Marsh Harrier swoops over, and the whole world
+goes mad; hundreds of Lapwings take to the air and do their finest Starling 
+murmuration impression, even the ducks mysteriously back away from the area the
+Harrier emanates from.
+
+We sit there for quite a while. It's very soothing. We enjoy the informational
+panels explaining how the water levels on the reserve are managed. Despite all
+of the cleverness being deployed managing this bit of the Great Ouse, it's not
+enough - floods in Spring and Summer are increasing in frequency and strength,
+threatening the breeding success of ground nesting birds. A number of different
+entities charitable, private and public are collaborating on the creation of
+further wetlands on the borders of the current flood management system, with
+some success. Interesting.
 
 We make our way out via the appropriate door, check that wellies really are required (we've spelunked around rumoured puddles before, but these are the real deal), and head back up to the bridge. We can see this time, and the first thing we see is an extensive team of sheep making their way down one of the dyke walls on the opposite side, and amongst them...egrets. Now. These egrets. Are they confused? They have the look of Cattle Egret to me. What sort of look is that? Well, it's a bit more sidling, there's more neck and shoulder involved in how they move around. AB2 puts it better - they're just more furtive than Little Egret, which, in contrast, moves with intent. And they are, indeed, Cattle Egret, and there are plenty of them, too - probably double figures, but I count at least eight. That's not a bad find.
 
@@ -50,13 +91,14 @@ From Parrinder, we get a better view of some of the exposed mud at the back of t
   <img
     src="titchwell-teal.png"
     class="figure-img img-fluid rounded"
-    alt="Delightfully lit Teal from Parrinder South."/>
+    alt="Teal from Parrinder South."/>
   <figcaption class="figure-caption text-center">
-    Delightfully lit Teal from Parrinder South.
+    Teal from Parrinder South.
   </figcaption>
 </figure>
 
-We make an exit and take a peek over the dyke into the Volunteer Marsh - a very confiding Redshank peers back at us, before continuing on its mud-poking circuit of the marsh. Good luck to it. We return to the beach path, picking up further Redshank in the adjacent mud. More of the Pipity things flap at us. We ignore them. As we switch to the Tidal Marsh, two Little Egrets croak angrily at us for disturbing their examinations of the perimeter of the marsh. A few more Redshanks are less bothered by our presence, but the angry egrets ruin it for everyone, pushing everything that was on the near banks towards the mud in the middle of the marsh, far away. This does put us on to a lone Avocet in that area too, though, so we don't complain.
+We make an exit and take a peek over the dyke into the Volunteer Marsh - a
+ very confiding Redshank peers back at us, before continuing on its mud-poking circuit of the marsh. Good luck to it. We return to the beach path, picking up further Redshank in the adjacent mud. More of the pipity things flap at us. We ignore them. As we switch to the Tidal Marsh, two Little Egrets croak angrily at us for disturbing their examinations of the perimeter of the marsh. A few more Redshanks are less bothered by our presence, but the angry egrets ruin it for everyone, pushing everything that was on the near banks towards the mud in the middle of the marsh, far away. This does put us on to a lone Avocet in that area too, though, so we don't complain.
 
 <figure class="figure">
   <img
@@ -126,7 +168,7 @@ Just as traditional as the Titchwell/Holkham pairing is that it always rains whe
 
 #### Day two - Titchwell again
 
-Having missed a Kingfisher yesterday, AB2 in up keen for another go. We're
+Having missed a Kingfisher yesterday, AB2 is keen for another go. We're
  out of the door significantly earlier to fit in with her working schedule as a result, and we're into the reserve bit of Titchwell just before 8am; result! We flip yesterday's ordering and visit the Fen hide and Willow Trail first this time, but of the Kingfisher there is no sign!
  
  <figure class="figure">
@@ -139,7 +181,7 @@ Having missed a Kingfisher yesterday, AB2 in up keen for another go. We're
    </figcaption>
  </figure>
  
-With only an hour to spend, we then hot foot it to the beach. The tide's considerably further in today, but there's still not a lot on the sea; from my scan only a Goldeneye or three, and a couple of Great-crested Grebes. On the sand, in addition to yesterday's collection we now add Sanderling and Ringed Plover. What a delight.
+With only an hour to spend, we then hotfoot it to the beach. The tide's considerably further in today, but there's still not a lot on the sea; from my scan only a Goldeneye or three, and a couple of Great-crested Grebes. On the sand, in addition to yesterday's collection we now add Sanderling and Ringed Plover. What a delight.
 
 <figure class="figure">
   <img
@@ -153,7 +195,8 @@ With only an hour to spend, we then hot foot it to the beach. The tide's conside
 
 #### Ringstead Downs and the Lestrange Estate
 
-There's a nature reerve not far from where we're staying, and it looks like it may be possible to turn a walk around it into a circular route, returning via the village shop (which has a specialist local beer aisle; what a treat). After a quick stop for breakfast, I head out, leaving AB2 to her busy schedule. The path through the nature reserve is most pleasant - following a shallow tree-sided valley that is a non-stop symphony of tit, Chaffinch, and (later on) Goldfinch flocks. I'm also treated to a flyover or two from some geese that really cannot decide where they want to go.
+There's a nature reserve not far from where we're staying, and it looks like
+ it may be possible to turn a walk around it into a circular route, returning via the village shop (which has a specialist local beer aisle; what a treat). After a quick stop for breakfast, I head out, leaving AB2 to her busy schedule. The path through the nature reserve is most pleasant - following a shallow tree-sided valley that is a non-stop symphony of tit, Chaffinch, and (later on) Goldfinch flocks. I'm also treated to a flyover or two from some geese that really cannot decide where they want to go.
 
 <figure class="figure">
   <img
@@ -193,7 +236,8 @@ The rain puts paid to afternoon plans for a walk around Stiffkey. It eventually 
   </figcaption>
 </figure>
 
-Things get darker. Several Marsh harriers make their way from where they were towards where they'd prefer to roost; several towards Titchwell, others somewhere else inland. Some incredibly slippers boards nearly end me as I attempt to discover what tiny bird species is squeaking at me from near the creek. As the light fails, there's a Barn Owl right on the edge of what I can see; irritatingly near Titchwell; I can just about pick out a couple of birders looking at it from the beach path. Oh well - plenty of time left in the week for that to be us.
+Things get darker. Several Marsh harriers make their way from where they were
+ towards where they'd prefer to roost; several towards Titchwell, others somewhere else inland. Some incredibly slippery boards nearly end me as I attempt to discover what tiny bird species is squeaking at me from near the creek. As the light fails, there's a Barn Owl right on the edge of what I can see; irritatingly near Titchwell; I can just about pick out a couple of birders looking at it from the beach path. Oh well - plenty of time left in the week for that to be us.
 
 #### Titchwell Morning #2
 
@@ -412,7 +456,7 @@ Excitingly, it contains several people standing with telescopes on the
 shoreline. I wonder what they've got? Quite a respectable collection - a few
 Common Scoters scattered here and there. A few more Red-breasted Merganser,
 and, further to my left, another Great Northern Diver is fishing. If I
-look further out towards the windfarms, there's evidence of some serious
+look further out towards the wind farms, there's evidence of some serious
 Scoter rafts, but I've got no hope of interrogating them at this range.
 
 I make an attempt at phone scoping the G-N-D, but it's impossible; finding it,
@@ -451,7 +495,7 @@ to pick up features with the land behind the birds rather than the sky in
 this light. Unfortunately, the further I go, the less shelter I get, and
 the more I'm exposed to an increasingly unpleasant wind. And, shortly, in
 addition, some pretty insistent drizzle. Hatted and hooded I just about
-survive to see twenty odd Marsh Harriers pop on the pyjamas and bed down in
+survive to see twenty odd Marsh Harriers pop on their pyjamas and bed down in
 the reeds for the evening.
 
 #### Peddars Way
@@ -530,9 +574,9 @@ away.
   <img
     src="disturbed-oystercatchers.png"
     class="figure-img img-fluid rounded"
-    alt="What could possible be disturbing these birds?"/>
+    alt="What could possibly be disturbing these birds?"/>
   <figcaption class="figure-caption text-center">
-    What could possible be disturbing these birds?
+    What could possibly be disturbing these birds?
   </figcaption>
 </figure>
 
@@ -542,12 +586,12 @@ my big mouth, someone arriving from the North does it for me. An unmistakable
 be the supporting cast here; our new arrival's towing a small, and my
 outburst would have been significantly further along the expletive scale.
 
-We come together with our ally from the North. He's very cross. "Some of
+We come together with our ally from the North. He's very firm. "Some of
 those birds have come thousands of miles, and every disturbance like that is
-energy they have to find again in food". Further supporting facts follow. We're
-definitely the supporting cast; I manage a "you took the words right out of
-my mouth" in reply, and take up a nearby post while the increasingly sheepish
-beach-idiot retreats from the remaining Oystercatchers.
+energy they have to find again in food". Further supporting facts follow.
+I manage a "you took the words right out of my mouth" in reply, and take up a
+nearby post while the increasingly sheepish beach-idiot retreats from the
+remaining Oystercatchers.
 
 <figure class="figure">
   <img
@@ -559,8 +603,13 @@ beach-idiot retreats from the remaining Oystercatchers.
   </figcaption>
 </figure>
 
-The beach-idiot apologises, and claims ignorance. I'm torn between "how can
-anyone be so stupid as to not realise they're causing a disturbance" and
-"you know what, people can be really, really thick". AB2 is less charitable,
-probably correctly. We score another -10 points for the big-camera-but-no-bins
-crowd, and head for home.
+The beach-idiot apologises, and claims a lack of knowledge. I'm torn between
+"how can anyone be so stupid as to not realise they're causing a disturbance?"
+and "people can be really, really thick". AB2 is less convinced about the
+feigned ignorance, probably correctly. We score another -10 points for the
+big-camera-but-no-bins crowd, and head for home.
+
+#### Conclusion
+
+What a great little trip. We'll maybe be back for some more in the New Year,
+COVID permitting - and perhaps even with a full time AB2, who knows.
