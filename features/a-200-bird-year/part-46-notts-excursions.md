@@ -1,6 +1,6 @@
 ---
-publish_time: 2020-12-26T14:21:00.000Z
-updated_time: 2020-12-26T14:21:00.000Z
+publish_time: 2020-12-29T12:02:00.000Z
+updated_time: 2020-12-29T12:02:00.000Z
 title: Part 46: Nottinghamshire Excursions
 ---
 
@@ -52,7 +52,7 @@ and go, "yeah, that's it". Staines Reservoirs, all is forgiven.
 #### Clumber Park, for a Smew?
 
 A quick stop for lunch is followed by a drive North to Clumber
-Park. Coming here used to be a double edged sword as a kid - amazing
+Park. Coming here used to be a double-edged sword as a kid - amazing
 park (great bike trails, I vaguely remember. Or maybe that was
 Rufford), but terrible journey to get there: guaranteed travel
 sickness. Today, I'm driving and it's surprisingly smooth. I guess it
@@ -83,8 +83,9 @@ There really are a _lot_ of Goosander here - two or three groups of up
 to twenty. They're fast becoming duck of the year for me, an oft
 unlooked for bit of treasure. A few Goldeneye are around as well,
 adding to the distractions. What are we here for again? Oh yes, Smew
-(female, "redhead"). I trust to the descriptions from [Notts. Birders Twitter](https://twitter.com/NottsBirders),
-and stick mostly to birds near Goosander flocks. If only there weren't so many!
+(female, "redhead"). I trust to the descriptions from [Notts. Birders Twitter](https://twitter.com/NottsBirders)
+, and stick mostly to birds near Goosander flocks. If only there weren't so
+many!
 
 Just as we're about to give up, a bird surfaces from a dive in the
 furthest group of Goosanders. Ah, now, even without being in the
@@ -108,9 +109,9 @@ whole lake is a Sisyphean task).
 
 Yes, fine, this bit is not in Nottinghamshire. You win this round, pedants.
 
-We park at the well known end of the reserve and are greeted by some
-immensely enthusiastic volunteers. They've definitely had their
-Weetabix. That, or they don't usually get many visitors on a Friday.
+We park at the well-known end of the reserve and are greeted by some
+immensely enthusiastic volunteers. They've definitely had their Weetabix.
+That, or they don't usually get many visitors on a Friday.
 
 We have a quick look for the visitor centre hide, and there are
 already good ducks; Goosander again making a strong appearance. A
@@ -134,7 +135,7 @@ Red-necked Grebe has been reported.
 Yes, we're trying _yet again_ for RNG. Third time lucky, I'm
 hoping. The chances don't immediately look great though. Even when we
 get to an appropriate hide, huge tracts of water are still (even with
-a scope) an eye wateringly long way away, the light is average, and
+a scope) an eye-wateringly long way away, the light is average, and
 there's enough wind to make waves a further obscurance. Oh, and there
 are hundreds (possibly thousands) of other birds that need to be
 searched; for example, to our left, a raft of at least a couple of
@@ -150,11 +151,10 @@ looking further East into the more open water. Nothing doing there
 either. Humph.
 
 More staring. Mum and I are a bad pair of people to give this mission
-to, because we're usually both having to think about the welfare of
-someone less bird enthusiastic than us (who is usually waiting
-politely nearby, and only occasionally suggesting that nearby
-hostelries may be more comfortable and supply better
-vittles). Together we are too stubborn.
+to, because we're usually both having to think about the welfare of someone
+less bird enthusiastic than us (who is usually waiting politely nearby, and
+only occasionally suggesting that nearby hostelries may be more comfortable
+and supply better vittles). Together we are too stubborn.
 
 After a few more false positives, we give up; we need lunch. Another
 Red-necked Grebe goes missing (and like all the others, it dutifully
@@ -183,8 +183,7 @@ pub.
 We do look at a lot of Wigeon. Goodness me. It must be said of
 Rutland, that in Winter, it is a spectacular place just for the sheer
 number of wildfowl on offer. Although, if pushed, I think I prefer the
-Swale, slowly snaking it's way between Sheppey and the North Kent
-mainland.
+Swale, slowly snaking its way between Sheppey and the North Kent mainland.
 
 <figure class="figure">
   <img
