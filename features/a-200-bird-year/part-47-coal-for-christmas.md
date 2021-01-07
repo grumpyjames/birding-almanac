@@ -210,4 +210,5 @@ birdguides, someone has chimed in that our White Stork is in fact an
 escaped bird that's been around in the area for most of December. Two
 days of grey weather bring nothing of note to the Nottinghamshire
 area, so it turns out that our single Fochabers Waxwing is going to be
-December's only tick!
+December's only tick; we reach the end of the year on an entirely
+satisfactory 214.
