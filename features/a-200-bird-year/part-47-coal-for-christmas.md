@@ -11,8 +11,8 @@ incident. Well, a small incident: I slightly overdo some chips. Oh
 well.
 
 Pronoun guidance: AB1 overdid the chips; unbelievable. This post covers the
-events of Winterval 2018 (yes, we're still fighting in the War on Christmas
-, ho ho ho).
+events of Winterval 2018 (yes, we're still fighting in the War on Christmas,
+ho ho ho).
 
 There might be an opportunity to add a final tick or two to the year's
 total during the post-Christmas family-a-thon. Any visit to Dad gets
