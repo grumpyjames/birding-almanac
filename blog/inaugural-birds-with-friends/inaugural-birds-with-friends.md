@@ -317,9 +317,9 @@ theme from The Sweeney).
     <img
         src="northward-hill.png"
         class="figure-img img-fluid rounded"
-        alt="Looking East from Woodland viewpoint"/>
+        alt="Looking West from Woodland viewpoint"/>
     <figcaption class="figure-caption text-center">
-        Looking East from Woodland viewpoint
+        Looking West from Woodland viewpoint
     </figcaption>
 </figure>
 
