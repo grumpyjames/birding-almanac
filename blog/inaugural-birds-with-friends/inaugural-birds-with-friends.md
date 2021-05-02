@@ -1,6 +1,6 @@
 ---
-publish_time: 2021-05-02T18:04:00.000Z
-updated_time: 2021-05-02T18:04:00.000Z
+publish_time: 2021-05-02T19:18:00.000Z
+updated_time: 2021-05-02T19:18:00.000Z
 title: The Inaugural Birds with Friends 
 ---
 
