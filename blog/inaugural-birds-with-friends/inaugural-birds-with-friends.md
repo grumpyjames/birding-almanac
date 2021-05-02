@@ -6,7 +6,7 @@ title: The Inaugural Birds with Friends
 
 ### Birds with Friends #1: Cliffe Pools and Northward Hill RSPB
 
-We've plan a series of three little trips where we think we know roughly
+We've planned a series of three little trips where we think we know roughly
 enough about a particular site to be able to give a meaningful tour to
 some enthusiastic but green birding friends.
 
@@ -29,20 +29,19 @@ deliver _most_ of the birds the programme promised.
 On the day, we're up considerably earlier than the dry-run, and this
 causes amusing strife between AB1 (driving) and AB2 (instructing
 Google to navigate to a place on the reserve which is inaccessible to
-cars). After a mild argument, we're still fifteen minutes early; and
-brilliantly our guests are fifteen minutes late.
+cars). After some minor wrangling, we're still fifteen minutes
+ early; and brilliantly our guests are fifteen minutes late.
 
 This does give us a bit of time to orientate ourselves. We realise
 that the gate to the RSPB parking is open (it wasn't on rehearsal
 day), so we mosey on down there, because it's...a nice place to park?
 
 This is a good decision, because as soon as we're out of the car we
-can hear a Nightingale - it's perhaps thirty or forty metres to our
-North-East of us. We're pretty confident that we'll walk past it once
-we start out on a circuit of the reserve; here's hoping it can hang on
-until our friends arrive!
+can hear a Nightingale - it's perhaps thirty or forty metres North-East of us.
+We're pretty confident we'll walk past it once we start out on a circuit
+ of the reserve; here's hoping it can hang on until our friends arrive!
 
-Which they eventually do, after a brief false start where they visit
+Which they do, after a brief false start where they visit
 [Nationwide Platforms](https://www.nationwideplatforms.co.uk/en-gb/find-a-depot/kent).
 We cut short the introduction to the reserve in favour of going to find this
 Nightingale. It is belting its song out from a bushy thicket perhaps two or
@@ -56,7 +55,7 @@ viewing. This bird decides to prove me wrong though, exiting its bush
 stage left at speed, giving us our first look at the famously rufous
 Nightingale behind. Well, that's a good start - I only saw my first
 Nightingale in 2018, and now this lot are picking one up on their first
-proper outing!
+proper birding outing!
 
 <figure class="figure">
     <img
@@ -78,10 +77,9 @@ the gull colony - picking out a Mediterranean Gull or two on the
 ground (we've already pointed at the sky when we've heard its
 distinctive barking call). We also point out a couple of larger gulls
 - some Herring Gulls, and a singular Lesser Black-backed Gull for
-completeness. We explain that it isn't necessary to care much about
-gulls, but that the nice glossy black head of the Mediterranean Gull
-is worth being able to tell apart from the frankly more chocolatey
-brown head of Black-headed Gull.
+completeness. We explain that the nice glossy black head of the Mediterranean Gull
+is worth being able to tell apart from the frankly more chocolatey brown head
+of Black-headed Gull.
 
 <figure class="figure">
     <img
@@ -94,7 +92,7 @@ brown head of Black-headed Gull.
 </figure>
 
 We move on down the causeway, discovering Dunnocks in the brambles,
-and a pair of Great-crested Grebe pair-bonding off to the right. As we
+and a duo of Great-crested Grebe pair-bonding off to the right. As we
 come to the transition between the Radar Pool and the Flamingo Pool
 (named for...what precisely?), we slow our pace a little - the scrubby
 brambly stuff gets a bit wider here, and this is _exactly_ where I've
@@ -104,15 +102,15 @@ Somewhat unbelievably, mere seconds after we stop to listen, the
 unmistakable sound of Nightingale invades our ears. It's somewhere off
 to our left, but again, invisible...until I take a few side steps
 right, and suddenly the bird is obvious, sitting in a thin tree at the
-back of the scrub. I quickly summon everyone else to stand where I am
+back of the scrub. I quickly summon everyone else to stand where I am,
 so they can see it, and all but one of us manages to actually do
 so.
 
-I'm somewhat bemused at this point - in the test run we only picked up
+I'm somewhat tickled at this point - in the test run we only picked up
 Nightingale at the last moment at Northward Hill, and we've found two
-in under an hour...we're potentially making this birding lark look a
-bit easy at this point. Bemused, we plough on, uncertain as to how to
-make the rest of the day as good as the beginning has been.
+in under an hour... we're at risk of making this birding lark look a
+little easy at this point. Bemused, we plough on, uncertain as to how to
+make the rest of the day as good as the start.
 
 <figure class="figure">
     <img
@@ -232,7 +230,7 @@ Chaffinches briefly pretend to be it, but we're not falling for it.
 
 Onward, directly into the wind, with several stops where a larger
 bush, tree or shrub provides a bit of shelter. AB1 accidentally builds
-a bit of a lead and catches a brief sighting of a Cuckoo's arse. This
+a bit of a lead and catches a brief sighting of a Cuckoo's backside. This
 is widely disbelieved, probably correctly - it was a very brief view.
 
 As the reedbed grows in height to the right of this path, so does the
@@ -271,12 +269,12 @@ Godwit though.
     </figcaption>
 </figure>
 
-An unbelievably tanned birder has taken residence on the viewpoint's
+An unbelievably tanned birder has taken up residence on the viewpoint's
 bench with a scope and has been keeping a close eye on
 things. "Anything of note?" he asks as we pass. We give an account of
 our birding day so far, and have most of it confirmed back to us. In
 addition to our count, this chap's also seen two Cuckoos (as opposed
-to just the arse of one).
+to just the behind of one).
 
 We complete our circuit, briefly taking in the pinnacle viewpoint
 (it's hard to choose between the view of the reserve and Nationwide
@@ -348,7 +346,7 @@ climbable old trees.
 
 The remainder of the woodland circuit is not entirely without event -
 we manage to continually disturb a yaffling Green Woodpecker. Further
-around we hear a Great-spotted Woodpecker drumming on a hollow tree;
+around we hear a Great Spotted Woodpecker drumming on a hollow tree;
 it moves off before we can get a proper bead on it though. As we link
 back up to the part of the loop we originally climbed, we hear yet
 another Nightingale. That's the sixth, and we saw two. Mad.
