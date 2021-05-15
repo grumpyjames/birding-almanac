@@ -91,7 +91,7 @@ Wagtail is briefly visible before flapping off South (huh?!) again.
 
 Further along, I catch up with the confiding Kestrel. This time it's a
 bit lower, and now, lower again. It dips into the vegetation on the
-clifftop and lists off again with a vole! 
+clifftop and lifts off again with a vole in its mitts! 
 
 <figure class="figure">
     <img
