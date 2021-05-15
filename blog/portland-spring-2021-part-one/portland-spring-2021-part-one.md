@@ -9,7 +9,7 @@ title: Portland, Spring 2021 - Part #1
 To the island of Portland we shall go, for a week of migratory excitement. Or
 so we hope.
 
-In this first entry, covering the events of April 27-28th, 2021, we have a
+In this first entry, covering the events of April 25-26th, 2021, we have a
  bit of an explore.
 
 #### A morning walk up the cliff

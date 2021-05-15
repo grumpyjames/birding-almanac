@@ -7,8 +7,8 @@ title: Portland, Spring 2021 - Part #2
 ### Portland, Spring 2021, Part #2
 
 To the island of Portland we have gone. In this post we recount the events
-of days three and four of the trip, which were at the time known as the 29th
-and 30th April, 2021.
+of days three and four of the trip, which were at the time known as the 27th
+and 28th April, 2021.
 
 #### A morning solo around the Bill
 
