@@ -80,13 +80,13 @@ class TemplateRenderer:
       previously,
       nextUp):
     date = datetime.strftime(published_at, "%B %-d, %Y")
-    time = datetime.strftime(published_at, "%H:%M")
+    published_at_time = datetime.strftime(published_at, "%H:%M")
     content = pystache.render(
       self.content2_template,
       {
         'main-content': content_html,
         'published-at-date': date,
-        'published-at-time': time,
+        'published-at-time': published_at_time,
         'previously': previously,
         'next': nextUp
       }
