@@ -5,6 +5,7 @@ import markdown
 import pystache
 import shutil
 import sys
+import time
 from bs4 import BeautifulSoup
 
 
@@ -516,6 +517,7 @@ def sites(
       templating.render_page(cells)
     )
 
+start = time.monotonic_ns()
 
 output_directory = sys.argv[1]
 if len(sys.argv) > 2:
@@ -524,3 +526,8 @@ else:
   time_of_render = datetime.now()
 
 create_website(output_directory, time_of_render)
+
+end = time.monotonic_ns()
+
+taken_nanos = end - start
+print(f"Generated site in {taken_nanos / 1_000_000_000}s")
