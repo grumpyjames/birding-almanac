@@ -1,6 +1,7 @@
 import os
 
 from datetime import datetime
+import html
 import markdown
 import pystache
 import shutil
@@ -20,6 +21,8 @@ class TemplateRenderer:
       cell_template,
       fpi_template,
       fc_template,
+      feed_entry_template,
+      feed_template
   ):
     self.page_template = page_template
     self.archive_template = archive_template
@@ -28,6 +31,8 @@ class TemplateRenderer:
     self.cell_template = cell_template
     self.fpi_template = fpi_template
     self.fc_template = fc_template
+    self.feed_entry_template = feed_entry_template
+    self.feed_template = feed_template
     self.md = markdown.Markdown(extensions=['meta'])
 
   def render_page(self, page_html):
@@ -146,6 +151,12 @@ class TemplateRenderer:
 
       write_item(post, last, full_page_html)
 
+  def render_feed_entry(self, feed_entry):
+    return pystache.render(
+      self.feed_entry_template,
+      feed_entry
+    )
+
   def render_archive(self, views):
     content = pystache.render(
       self.archive_template,
@@ -155,6 +166,14 @@ class TemplateRenderer:
     )
     return self.render_page(content)
 
+  def render_feed(self, entries):
+    return pystache.render(
+      self.feed_template,
+      {
+        'entries': entries,
+        'feed_updated_at': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+      }
+    )
 
 def create_website(output, render_at_time):
   with \
@@ -164,7 +183,9 @@ def create_website(output, render_at_time):
       open("content2.mustache") as c2, \
       open("front_page_item.mustache") as fpi, \
       open("feature_cell.mustache") as fc, \
-      open('by_name_cell.mustache') as cell:
+      open('by_name_cell.mustache') as cell, \
+      open('feed_entry.mustache') as feed_entry, \
+      open('feed.mustache') as feed:
     templating = TemplateRenderer(
       f.read(),
       a.read(),
@@ -172,7 +193,9 @@ def create_website(output, render_at_time):
       c2.read(),
       cell.read(),
       fpi.read(),
-      fc.read()
+      fc.read(),
+      feed_entry.read(),
+      feed.read()
     )
 
   os.makedirs(output, exist_ok=True)
@@ -194,6 +217,7 @@ def create_website(output, render_at_time):
     reverse=True)
 
   front_page(templating, all_items, output)
+  rss_feed(templating, all_items, output)
   archive_page(templating, all_items, output)
 
 
@@ -269,6 +293,23 @@ def front_page(templating, all_items, output):
 
   with open(os.path.join(output, "index.html"), "+w") as index_file:
     index_file.write(index_html)
+
+def rss_feed(templating: TemplateRenderer, all_items, output):
+  entries = ""
+  for i in all_items:
+    img_url = i["item-image"]
+    blurb = html.escape(i["blurb"])
+    summary = f"<p><img src='{img_url}'/> {blurb}</p>"
+    entries += templating.render_feed_entry({
+      "title": i["item-title"],
+      "path": i["item-url"].replace("/index.html", ""),
+      "id": i["item-url"].replace("/index.html", ""),
+      "updated_at_time": i["updated_time"].strftime("%Y-%m-%dT%H:%M:%SZ"),
+      "summary": summary,
+    })
+  atom_xml = templating.render_feed(entries)
+  with open(os.path.join(output, "atom.xml"), "+w") as atom_file:
+    atom_file.write(atom_xml)
 
 def archive_page(templating: TemplateRenderer, all_items, output):
   by_month = {}
