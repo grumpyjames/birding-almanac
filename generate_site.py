@@ -198,10 +198,11 @@ def create_website(output, render_at_time):
 
 # copy only if different, to preserve timestamps and prevent resync.
 def lazy_image_copy(src, target):
-  import filecmp
   if not os.path.exists(target):
     shutil.copyfile(src, target)
-  elif not filecmp.cmp(src, target):
+  src_modify_time = os.stat(src).st_mtime
+  tgt_modify_time = os.stat(target).st_mtime
+  if src_modify_time > tgt_modify_time:
     shutil.copyfile(src, target)
 
 def is_image(file):
