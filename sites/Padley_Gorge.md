@@ -1,6 +1,6 @@
 ---
-publish_time: 2021-07-26T20:40:00.000Z
-updated_time: 2021-07-26T20:40:00.000Z
+publish_time: 2021-08-07T14:30:00.000Z
+updated_time: 2021-08-07T14:30:00.000Z
 ---
 ### Padley Gorge
 
@@ -169,6 +169,8 @@ of a challenge!
   </figcaption>
 </figure>
 
+[Full size version](Padley_Gorge-walk-fullsize.png)
+
 <ul>
     <li>A: The cafe. Blessed be its chips.</li>
     <li>B: The ruin. Keep it to your right.</li>
@@ -180,12 +182,12 @@ Map tiles courtesy of [OpenStreetMap](https://www.openstreetmap.org/).
 
 ### Links
 
-The [Eastern Moors partnership](https://www.visit-eastern-moors.org.uk
-/) lists some absolutely cracking walks in the nearby moorland.
+The [Eastern Moors partnership](https://www.visit-eastern-moors.org.uk/) lists
+some absolutely cracking walks in the nearby moorland.
 
 ### Eat/drink/stay
 
 The Grindleford Café, next to the station, does hearty food (excellent
 chip butties) in generous portions. It's cash only, mind. In nearby
-Froggatt, the Chequers Inn is highly recommended; don't have the prawn
-cocktail starter, though.
+Froggatt, [the Chequers Inn](https://www.chequers-froggatt.com/) is highly
+recommended; don't have the prawn cocktail starter, though.
