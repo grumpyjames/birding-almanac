@@ -1,6 +1,6 @@
 ---
-publish_time: 2021-09-14T17:11:00.000Z
-updated_time: 2021-09-14T17:11:00.000Z
+publish_time: 2021-09-19T17:40:00.000Z
+updated_time: 2021-09-19T17:40:00.000Z
 title: Frampton Marsh
 ---
 
@@ -13,14 +13,14 @@ This post covers events of Aug 30th 2021.
 
 #### A speedy recce
 
-We arrive at Frampton slightly later than planned and then become slightly
- later again, with two of our party in dire need of a snack or two to keep
+We arrive at Frampton slightly later than planned and then become later
+ still, thanks to some of our party urgently needing a snack to keep
  them sensible, and one briefly underdeployed in the membership card department.
 
-These issues addressed we hop out for a quick walk around the main lake and
- scrapes behind the visitor centre. Our first quarry is, predictably
- , sleeping on a mud island at the centre of the lake - a party of twenty or
-so Spoonbill. There's an additional Common Sandpiper or two kicking about a
+With these issues addressed we hop out for a quick walk around the main lake and
+ scrapes behind the visitor centre. Our first quarry is, predictably, sleeping 
+ on a mud island at the centre of the lake - a party of twenty or so
+  Spoonbill. There's an additional Common Sandpiper or two kicking about a
  bit closer to us. Nice.
 
 <figure class="figure">
@@ -48,8 +48,8 @@ a Merlin.
   </figcaption>
 </figure>
 
-Our route takes us to the 360 hide, where we find plenty of waders - Ruff
-, Bar-tailed Godwit, a few Common Snipe and an isolated Golden Plover, still
+Our route takes us to the 360 hide, where we find plenty of waders - Ruff, 
+Bar-tailed Godwit, a few Common Snipe and an isolated Golden Plover, still
 looking reasonably handsome. We try to find Little Stint, but the best
 candidates are some distance away - we'll perhaps catch up with them from
 the East Hide later. On exiting the hide we spot a collection of Avocets
@@ -75,10 +75,10 @@ remember the last time we found one in the Spring. No, wait, [I can
 
 We get almost to the end of this path before we run out of time - we need to
 head back to the car to rescue our lunch before it gets driven away. Just as
-we're deciding though, we spot several keen looking birders transfixed in
+we're deciding though, we spot several keen-looking birders transfixed in
 the distance. Following their binoculars, we find a tern of some sort fishing
 in a channel off to our right, and with a bit of squinting it's clear to us
-this is the sightings' boards Black Tern. Victorious, we start on our return
+this is the sightings' board's Black Tern. Victorious, we start on our return
 to the car, but on the way we have further joy - a Little Stint is
 associating itself closely enough with some Dunlins that we can pick it out.
 
@@ -157,8 +157,8 @@ Here we find a further Little Stint, but are unable to filch out a Curlew
 Sandpiper from the Dunlins. Through a bit of reading I discover this is
 harder than I thought - I've only ever found them in July at Oare, when the
 adults return in plumage that is _much_ easier to identify them in. The
-birds here now will be juveniles, and according to the internet our best
-hopes are considerably more subtle.
+birds here now will be juveniles and, according to the internet, our best
+hopes of distinguishing them are considerably more subtle.
 
 We've interrogated just about every bird we can see from the East hide when
 suddenly they're all up in the air - a raptor must be inbound! We manage to
@@ -187,7 +187,7 @@ We eventually reach a gate that signifies the end of this part of the circuit
  owl occurs. It is fruitless. In a nearby field, cattle are rounded up, and
 some egrets are emitted from the area where the cows were. We are too slow to
 get them in the scope. A brief foray North to where they landed doesn't find
-them either. Little Egrets they will stay. The foray does at lead put us on
+them either. Little Egrets they will stay. The foray does, however, put us on
  to a little flock of Yellow Wagtails poking about in the marshy stuff on the
   seaward side of the wall.
 
@@ -213,7 +213,7 @@ What a place. Full of birds, and full of action. Each time we thought we'd
   <img
     src="sightings-board-ii.png"
     class="figure-img img-fluid rounded"
-    alt="ANnd they keep the board up to date too."/>
+    alt="And they keep the board up to date too."/>
   <figcaption class="figure-caption text-center">
     And they keep the board up to date too.
   </figcaption>
