@@ -1,6 +1,6 @@
 ---
-publish_time: 2022-05-14T10:41:00.000Z
-updated_time: 2022-05-14T10:41:00.000Z
+publish_time: 2022-09-14T19:41:00.000Z
+updated_time: 2022-09-14T19:41:00.000Z
 title: Winter in North Kent
 ---
 
@@ -247,7 +247,7 @@ have a faint memory of coming here in 2015 and getting good views of Bittern.
 
 We find our way to the Reedbed hide, which offers excellent views of a 
 bloody great reedbed. It's here I previously found Bittern as the sun went 
-down - we're a bit early for that, so we take a good luck at everything 
+down - we're a bit early for that, so we take a good look at everything 
 (lots of Teal, a Marsh Harrier or two, a surprising number of Greylag 
 Goose) before heading out elsewhere.
 
@@ -360,7 +360,7 @@ Uncowed by this experience, we opt for one further site visit, to Reculver
 towers. This is just as windy, but the shore-line is less disturbed, and the 
 marshy bit behind the sea wall has a wader or two to give up. AB2's distaste 
 at the weather is tempered somewhat by the availability of Ringed Plover. We 
-still don't manage long hear before deciding a return inland in search of 
+still don't manage long here before deciding a return inland in search of 
 dinner is required.
 
 <figure class="figure">
