@@ -416,7 +416,7 @@ greeted by a Stonechat.
   </figcaption>
 </figure>
 
-We complete the circuit without further incident. The weather's still 
+We return to the car park without further incident. The weather's still 
 ridiculous for late January, as evidenced by this view from the pinnacle.
 
 <figure class="figure">
