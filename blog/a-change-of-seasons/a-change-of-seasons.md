@@ -245,7 +245,7 @@ As the light fades further, a Barn Owl appears from somewhere off to the
 East, and flops about for a few minutes. An otherwise empty day gets a let 
 off at the last minute.
 
-### Day Three
+#### Day Three
 
 A quick trip to Weeting; apparently our thick-kneed friends have already 
 arrived there. It ends up not being a quick trip - the chap in the visitor 
@@ -281,7 +281,7 @@ up, a single Woodlark preening in a dead tree.
 Further visits to track 7 and Santon Downham don't give up any further 
 species of interest. Forest birding continues to be hard work.
 
-### Day Four
+#### Day Four
 
 The sun returns! Birding still proves difficult. Lynford Arboretum continues to 
 be free of Crossbill, and its crests remain golden rather than fiery.
